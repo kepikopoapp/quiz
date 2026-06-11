@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 4001,
+    "categoryId": "technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Core Processing Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4002,
+    "categoryId": "technology",
+    "question": "Who founded Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Elon Musk",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4003,
+    "categoryId": "technology",
+    "question": "What does 'www' stand for?",
+    "options": [
+      "World Wide Web",
+      "Wide World Web",
+      "Web World Wide",
+      "World Web Wide"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4004,
+    "categoryId": "technology",
+    "question": "Which company makes the iPhone?",
+    "options": [
+      "Samsung",
+      "Google",
+      "Apple",
+      "Sony"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4005,
+    "categoryId": "technology",
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Ultra Speed Bus",
+      "Universal System Bus",
+      "Unified Serial Board"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4006,
+    "categoryId": "technology",
+    "question": "What programming language is known as the language of the web?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4007,
+    "categoryId": "technology",
+    "question": "Which social media platform uses a bird as its logo?",
+    "options": [
+      "Facebook",
+      "Instagram",
+      "Twitter / X",
+      "Snapchat"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4008,
+    "categoryId": "technology",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Module",
+      "Run Access Memory"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4009,
+    "categoryId": "technology",
+    "question": "Who created the Android operating system?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "Samsung"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4010,
+    "categoryId": "technology",
+    "question": "What does PDF stand for?",
+    "options": [
+      "Portable Document Format",
+      "Print Document File",
+      "Personal Data File",
+      "Portable Data Format"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4011,
+    "categoryId": "technology",
+    "question": "How many bits are in one byte?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4012,
+    "categoryId": "technology",
+    "question": "Which company developed the Windows operating system?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Intel"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'OS' stand for in computing?",
+    "options": [
+      "Open System",
+      "Operating System",
+      "Online Service",
+      "Optical Storage"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4013,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company makes the Galaxy phone?",
+    "options": [
+      "Apple",
+      "Sony",
+      "LG",
+      "Samsung"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4014,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "options": [
+      "Wireless Fidelity",
+      "Wide Frequency",
+      "Wireless Frequency",
+      "Wide Fidelity"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4015,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'GB' stand for in data storage?",
+    "options": [
+      "Gigabits",
+      "Gigabytes",
+      "Gigabaud",
+      "Gigaband"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4016,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who founded Apple?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs and Steve Wozniak",
+      "Elon Musk",
+      "Jeff Bezos"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4017,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Universal Resource Link",
+      "Uniform Resource Locator",
+      "Universal Remote Location",
+      "Uniform Remote Link"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4018,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the most popular search engine?",
+    "options": [
+      "Bing",
+      "Yahoo",
+      "Google",
+      "DuckDuckGo"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4019,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What year was Google founded?",
+    "options": [
+      "1995",
+      "1996",
+      "1998",
+      "2000"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4020,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who created Facebook?",
+    "options": [
+      "Jack Dorsey",
+      "Larry Page",
+      "Elon Musk",
+      "Mark Zuckerberg"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4021,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'IT' stand for?",
+    "options": [
+      "Internet Technology",
+      "Information Technology",
+      "Integrated Technology",
+      "Internal Technology"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4022,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'CD' stand for?",
+    "options": [
+      "Computer Disk",
+      "Compact Disc",
+      "Compact Drive",
+      "Computer Drive"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4023,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of Amazon's virtual assistant?",
+    "options": [
+      "Cortana",
+      "Siri",
+      "Google",
+      "Alexa"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4024,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the full form of 'IP' in IP address?",
+    "options": [
+      "Internet Protocol",
+      "Internal Process",
+      "Interface Protocol",
+      "Internet Process"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4025,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company owns Instagram?",
+    "options": [
+      "Google",
+      "Twitter",
+      "Meta (Facebook)",
+      "Apple"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4026,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'LED' stand for?",
+    "options": [
+      "Light Energy Diode",
+      "Light Emitting Device",
+      "Light Emitting Diode",
+      "Laser Emitting Diode"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4027,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What year was Twitter founded?",
+    "options": [
+      "2004",
+      "2005",
+      "2006",
+      "2007"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4028,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'FTP' stand for?",
+    "options": [
+      "File Transfer Protocol",
+      "Fast Transfer Program",
+      "File Transport Process",
+      "Fast Transport Protocol"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4029,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which tech company has the logo of a bitten apple?",
+    "options": [
+      "Dell",
+      "HP",
+      "Apple",
+      "Acer"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4030,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the process of starting a computer called?",
+    "options": [
+      "Logging",
+      "Initializing",
+      "Booting",
+      "Loading"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4031,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a 'firewall' in computing?",
+    "options": [
+      "A type of hardware",
+      "Security software/hardware blocking unauthorized access",
+      "A cooling system",
+      "A power supply"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4032,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'Bluetooth' allow devices to do?",
+    "options": [
+      "Connect to WiFi",
+      "Communicate wirelessly over short distances",
+      "Access the internet",
+      "Store data"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4033,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What company makes the Xbox?",
+    "options": [
+      "Sony",
+      "Nintendo",
+      "Microsoft",
+      "Sega"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4034,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'PNG' stand for?",
+    "options": [
+      "Portable Network Graphics",
+      "Print Network Graphics",
+      "Portable Native Graphic",
+      "Picture Network Group"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4035,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'cloud computing'?",
+    "options": [
+      "Weather forecasting software",
+      "Computing done on weather data",
+      "Storing and accessing data over the internet",
+      "A type of computer hardware"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4036,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the purpose of a router?",
+    "options": [
+      "Store data",
+      "Edit photos",
+      "Direct internet traffic between devices",
+      "Power devices"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4037,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'spam' in email?",
+    "options": [
+      "Important email",
+      "Encrypted email",
+      "Unsolicited bulk email",
+      "Deleted email"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4038,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'app' stand for?",
+    "options": [
+      "Applied Program",
+      "Application",
+      "Applet",
+      "Applied Process"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4039,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Bill Gates",
+      "Al Gore",
+      "Tim Berners-Lee",
+      "Vint Cerf"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4040,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a computer virus?",
+    "options": [
+      "A hardware defect",
+      "A type of cable",
+      "Malicious software",
+      "A computer brand"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4041,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'streaming' in technology?",
+    "options": [
+      "Downloading files",
+      "Printing documents",
+      "Real-time data transmission over the internet",
+      "Sending emails"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4042,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'JPEG' stand for?",
+    "options": [
+      "Joint Photo Experts Group",
+      "Joint Photographic Experts Group",
+      "Joint Picture Editing Group",
+      "Joint Pixel Encoding Group"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4043,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What keyboard shortcut copies text?",
+    "options": [
+      "Ctrl+X",
+      "Ctrl+V",
+      "Ctrl+Z",
+      "Ctrl+C"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4044,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does a modem do?",
+    "options": [
+      "Display images",
+      "Converts digital signals to analog and vice versa",
+      "Store data",
+      "Print documents"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4045,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the function of a GPU?",
+    "options": [
+      "Process data",
+      "Store data",
+      "Render graphics",
+      "Manage memory"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4046,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company makes the PlayStation?",
+    "options": [
+      "Microsoft",
+      "Nintendo",
+      "Sega",
+      "Sony"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4047,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'E-mail' stand for?",
+    "options": [
+      "Extended Mail",
+      "External Mail",
+      "Electronic Mail",
+      "Easy Mail"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4048,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'phishing' in cybersecurity?",
+    "options": [
+      "Fishing for compliments",
+      "Trying to steal sensitive info by disguising as trustworthy entity",
+      "A hacking technique",
+      "A type of malware"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4049,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What programming language is used primarily for web styling?",
+    "options": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Python"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4050,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'VR' stand for?",
+    "options": [
+      "Virtual Reality",
+      "Video Recording",
+      "Visual Rendering",
+      "Virtual Router"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4051,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the function of a CPU?",
+    "options": [
+      "Store data permanently",
+      "Render graphics",
+      "Process instructions",
+      "Connect to internet"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4052,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What year was YouTube founded?",
+    "options": [
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4053,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'MP3' refer to?",
+    "options": [
+      "A type of video format",
+      "A camera brand",
+      "A digital audio format",
+      "A memory card format"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4054,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the smallest unit of data in computing?",
+    "options": [
+      "Byte",
+      "Bit",
+      "Nibble",
+      "Kilobyte"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4055,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'LCD' stand for?",
+    "options": [
+      "Liquid Crystal Display",
+      "Light Component Display",
+      "Low Cost Display",
+      "Laser Crystal Display"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4056,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which social media platform has a 'thumbs up' like button?",
+    "options": [
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "Snapchat"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4057,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'bandwidth' in networking?",
+    "options": [
+      "Width of a cable",
+      "Speed at which data is transferred",
+      "Number of connected devices",
+      "Type of internet connection"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4058,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'QR' stand for in QR code?",
+    "options": [
+      "Quick Read",
+      "Quick Response",
+      "Query Read",
+      "Quick Render"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4059,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is Siri?",
+    "options": [
+      "A social network",
+      "Apple's virtual assistant",
+      "A type of software",
+      "A programming language"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4060,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'IoT' stand for?",
+    "options": [
+      "Internet of Technology",
+      "Internet of Things",
+      "Interface of Technology",
+      "Integrated Online Technology"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4061,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a 'browser'?",
+    "options": [
+      "A type of software for accessing the internet",
+      "An internet provider",
+      "A type of hardware",
+      "A database"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4062,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'AR' stand for in technology?",
+    "options": [
+      "Artificial Rendering",
+      "Augmented Reality",
+      "Advanced Robotics",
+      "Automated Response"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4063,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company created the search engine Bing?",
+    "options": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Yahoo"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4064,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'TB' stand for in data storage?",
+    "options": [
+      "Terabits",
+      "Terabytes",
+      "Terabaud",
+      "Teraband"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4065,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the purpose of antivirus software?",
+    "options": [
+      "Speed up the computer",
+      "Detect and remove malware",
+      "Store data",
+      "Improve graphics"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4066,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the keyboard shortcut to undo an action?",
+    "options": [
+      "Ctrl+Y",
+      "Ctrl+X",
+      "Ctrl+A",
+      "Ctrl+Z"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4067,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a 'database'?",
+    "options": [
+      "A type of software",
+      "An organized collection of structured data",
+      "A hardware device",
+      "A network protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4068,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'SMS' stand for?",
+    "options": [
+      "Short Message System",
+      "Short Messaging Service",
+      "Simple Message System",
+      "Small Message Service"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4069,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company makes the Surface laptop?",
+    "options": [
+      "Apple",
+      "Dell",
+      "HP",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4070,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'HTML' do?",
+    "options": [
+      "Style web pages",
+      "Structure web pages",
+      "Add interactivity to web pages",
+      "Connect servers"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4071,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What technology does NFC use?",
+    "options": [
+      "WiFi",
+      "Bluetooth",
+      "Near field radio communication",
+      "Infrared"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4072,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "options": [
+      "Jeff Bezos",
+      "Bill Gates",
+      "Larry Page",
+      "Elon Musk"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 4073,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'GHz' measure in processors?",
+    "options": [
+      "Memory size",
+      "Screen resolution",
+      "Processor speed",
+      "Storage capacity"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4074,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What company makes the Kindle e-reader?",
+    "options": [
+      "Apple",
+      "Google",
+      "Amazon",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4075,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'ISP' stand for?",
+    "options": [
+      "Internet Speed Provider",
+      "Internet Service Provider",
+      "Internal Software Program",
+      "Internet System Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4076,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": [
+      "Large Area Network",
+      "Local Access Network",
+      "Local Area Network",
+      "Linked Area Network"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4077,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'machine learning'?",
+    "options": [
+      "Teaching machines to walk",
+      "Training machines to learn from data",
+      "Repairing computers",
+      "Programming robots manually"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4078,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'API' stand for?",
+    "options": [
+      "Applied Programming Interface",
+      "Application Programming Interface",
+      "Advanced Protocol Integration",
+      "Automated Program Interface"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4079,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'GIF' stand for?",
+    "options": [
+      "Graphics Interchange Format",
+      "Graphic Image File",
+      "Global Image Format",
+      "Graphic Interface Format"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4080,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who is the founder of Amazon?",
+    "options": [
+      "Bill Gates",
+      "Elon Musk",
+      "Jeff Bezos",
+      "Larry Page"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4081,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is Netflix primarily?",
+    "options": [
+      "A music streaming service",
+      "A video streaming service",
+      "A social network",
+      "A gaming platform"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4082,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'HDMI' stand for?",
+    "options": [
+      "High Definition Media Interface",
+      "High Digital Media Interface",
+      "High Definition Multimedia Interface",
+      "High Digital Multimedia Interface"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4083,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Very Personal Network",
+      "Virtual Public Network",
+      "Verified Private Network"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4084,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Core Processing Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4085,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'open source' software?",
+    "options": [
+      "Paid software",
+      "Software with publicly available source code",
+      "Software for businesses only",
+      "Software with no updates"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4086,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'USB-C' refer to?",
+    "options": [
+      "Universal Serial Bus type C connector",
+      "Ultra Speed Bus connector",
+      "Universal System Bus C",
+      "USB version C"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4087,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'encryption'?",
+    "options": [
+      "Compressing files",
+      "Converting data into a code to prevent unauthorized access",
+      "Deleting data",
+      "Copying data"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4088,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a 'pixel' in digital imaging?",
+    "options": [
+      "A type of camera",
+      "The smallest unit of a digital image",
+      "A file format",
+      "A display type"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4089,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'SIM' stand for in SIM card?",
+    "options": [
+      "Subscriber Identity Module",
+      "System Identity Module",
+      "Subscriber Interface Module",
+      "System Interface Module"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4090,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the keyboard shortcut to paste text?",
+    "options": [
+      "Ctrl+X",
+      "Ctrl+V",
+      "Ctrl+C",
+      "Ctrl+Z"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4091,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which company owns WhatsApp?",
+    "options": [
+      "Google",
+      "Apple",
+      "Meta (Facebook)",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 4092,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'HD' stand for in HD video?",
+    "options": [
+      "High Definition",
+      "High Display",
+      "High Density",
+      "High Dynamic"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4093,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is 'Wi-Fi 6'?",
+    "options": [
+      "6th version of WiFi standard",
+      "WiFi for 6 devices",
+      "6 GHz WiFi only",
+      "WiFi version 6.0 software"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4094,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'GPS' stand for?",
+    "options": [
+      "Global Positioning System",
+      "General Positioning Satellite",
+      "Geographic Position System",
+      "Global Path System"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 4095,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is an 'emoji'?",
+    "options": [
+      "A coding language",
+      "A small digital image expressing emotion or idea",
+      "A type of font",
+      "A social media platform"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 4096,
+    "categoryId": "technology",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4097,
+    "categoryId": "technology",
+    "question": "What does 'AI' stand for?",
+    "options": [
+      "Automated Interface",
+      "Artificial Intelligence",
+      "Advanced Integration",
+      "Automated Intelligence"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4098,
+    "categoryId": "technology",
+    "question": "What is the full form of 'www'?",
+    "options": [
+      "World Wide Web",
+      "Wide World Web",
+      "Web World Wide",
+      "World Web Wide"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4099,
+    "categoryId": "technology",
+    "question": "Which company makes the iPhone?",
+    "options": [
+      "Samsung",
+      "Google",
+      "Apple",
+      "Sony"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4100,
+    "categoryId": "technology",
+    "question": "What does 'RAM' stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Module",
+      "Run Access Memory"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 9001,
+    "categoryId": "technology",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Logic",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9002,
+    "categoryId": "technology",
+    "question": "Which company created the Java programming language?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Sun Microsystems",
+      "IBM"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9003,
+    "categoryId": "technology",
+    "question": "What is the binary representation of the decimal number 10?",
+    "options": [
+      "1000",
+      "1010",
+      "1100",
+      "1001"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9004,
+    "categoryId": "technology",
+    "question": "Which protocol is used to send emails?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9005,
+    "categoryId": "technology",
+    "question": "What does 'AI' stand for in technology?",
+    "options": [
+      "Automated Interface",
+      "Artificial Intelligence",
+      "Advanced Integration",
+      "Automated Intelligence"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9006,
+    "categoryId": "technology",
+    "question": "Who is the founder of Tesla?",
+    "options": [
+      "Bill Gates",
+      "Jeff Bezos",
+      "Elon Musk",
+      "Larry Page"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9007,
+    "categoryId": "technology",
+    "question": "What does 'SSD' stand for?",
+    "options": [
+      "Solid State Drive",
+      "Super Speed Disk",
+      "System Storage Device",
+      "Solid Storage Disk"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9008,
+    "categoryId": "technology",
+    "question": "What year was the first iPhone released?",
+    "options": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9009,
+    "categoryId": "technology",
+    "question": "What is the name of Google's mobile operating system?",
+    "options": [
+      "iOS",
+      "Windows Mobile",
+      "Android",
+      "HarmonyOS"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9010,
+    "categoryId": "technology",
+    "question": "Which data structure operates on LIFO principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9011,
+    "categoryId": "technology",
+    "question": "What does 'GPS' stand for?",
+    "options": [
+      "Global Positioning System",
+      "General Positioning Satellite",
+      "Geographic Position System",
+      "Global Path System"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9012,
+    "categoryId": "technology",
+    "question": "Which company owns YouTube?",
+    "options": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9013,
+    "categoryId": "technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Core Processing Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9014,
+    "categoryId": "technology",
+    "question": "Which company created the Android operating system?",
+    "options": [
+      "Apple",
+      "Samsung",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9015,
+    "categoryId": "technology",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Rewritable Access Memory"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9016,
+    "categoryId": "technology",
+    "question": "Which company owns Instagram?",
+    "options": [
+      "Google",
+      "Twitter",
+      "Snapchat",
+      "Meta (Facebook)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9017,
+    "categoryId": "technology",
+    "question": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Unified Resource Locator",
+      "Uniform Reference Link"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9018,
+    "categoryId": "technology",
+    "question": "Which programming language is used for web styling?",
+    "options": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9019,
+    "categoryId": "technology",
+    "question": "Who founded Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Elon Musk",
+      "Jeff Bezos",
+      "Bill Gates and Paul Allen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9020,
+    "categoryId": "technology",
+    "question": "What does Wi-Fi stand for?",
+    "options": [
+      "Wireless Fidelity",
+      "Wireless Frequency",
+      "Wide Fidelity",
+      "Wireless Function"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9021,
+    "categoryId": "technology",
+    "question": "Which language is primarily used for iOS app development?",
+    "options": [
+      "Kotlin",
+      "Java",
+      "C#",
+      "Swift"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9022,
+    "categoryId": "technology",
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Universal System Bridge",
+      "Unified Serial Bus",
+      "Universal Signal Bus"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9023,
+    "categoryId": "technology",
+    "question": "Which company makes the PlayStation gaming console?",
+    "options": [
+      "Nintendo",
+      "Microsoft",
+      "Sega",
+      "Sony"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9024,
+    "categoryId": "technology",
+    "question": "What is the name of the world's most popular search engine?",
+    "options": [
+      "Bing",
+      "Yahoo",
+      "DuckDuckGo",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9025,
+    "categoryId": "technology",
+    "question": "Which programming language is used most for Android development?",
+    "options": [
+      "Swift",
+      "C#",
+      "Python",
+      "Kotlin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9026,
+    "categoryId": "technology",
+    "question": "What does HTTP stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hyper Transfer Text Protocol",
+      "High Text Transport Protocol"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9027,
+    "categoryId": "technology",
+    "question": "Which company developed the Python programming language?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Sun Microsystems",
+      "Guido van Rossum / Python Software Foundation"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9028,
+    "categoryId": "technology",
+    "question": "What is the name of Apple's voice assistant?",
+    "options": [
+      "Cortana",
+      "Alexa",
+      "Google Assistant",
+      "Siri"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9029,
+    "categoryId": "technology",
+    "question": "What does IP stand for in networking?",
+    "options": [
+      "Internet Port",
+      "Internal Protocol",
+      "Internet Protocol",
+      "Interface Port"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9030,
+    "categoryId": "technology",
+    "question": "Which company owns the Xbox gaming console?",
+    "options": [
+      "Sony",
+      "Nintendo",
+      "Sega",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9031,
+    "categoryId": "technology",
+    "question": "What is the most widely used version control system?",
+    "options": [
+      "SVN",
+      "Mercurial",
+      "CVS",
+      "Git"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9032,
+    "categoryId": "technology",
+    "question": "What does IoT stand for?",
+    "options": [
+      "Internet of Technology",
+      "Integration of Things",
+      "Internet of Things",
+      "Interface of Technology"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9033,
+    "categoryId": "technology",
+    "question": "Which company developed the TypeScript language?",
+    "options": [
+      "Google",
+      "Facebook",
+      "JetBrains",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9034,
+    "categoryId": "technology",
+    "question": "What is the name of Amazon's cloud platform?",
+    "options": [
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud",
+      "AWS"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9035,
+    "categoryId": "technology",
+    "question": "What does DNS stand for?",
+    "options": [
+      "Dynamic Network System",
+      "Domain Name System",
+      "Data Network Service",
+      "Distributed Name Server"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9036,
+    "categoryId": "technology",
+    "question": "Which company developed the Go programming language?",
+    "options": [
+      "Facebook",
+      "Amazon",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9037,
+    "categoryId": "technology",
+    "question": "What is the name of Facebook's parent company?",
+    "options": [
+      "Alphabet",
+      "Amazon",
+      "Apple",
+      "Meta"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9038,
+    "categoryId": "technology",
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Interface",
+      "Automated Process Integration",
+      "Application Process Integration"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9039,
+    "categoryId": "technology",
+    "question": "Which company created TensorFlow?",
+    "options": [
+      "Facebook",
+      "Amazon",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9040,
+    "categoryId": "technology",
+    "question": "What is the name of the default port for HTTP?",
+    "options": [
+      "21",
+      "22",
+      "443",
+      "80"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9041,
+    "categoryId": "technology",
+    "question": "Which company owns GitHub?",
+    "options": [
+      "Google",
+      "Amazon",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9042,
+    "categoryId": "technology",
+    "question": "What type of language is Python?",
+    "options": [
+      "Compiled",
+      "Assembly",
+      "Machine Code",
+      "Interpreted"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9043,
+    "categoryId": "technology",
+    "question": "Which technology is used to run websites in browsers?",
+    "options": [
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9044,
+    "categoryId": "technology",
+    "question": "What does GPU stand for?",
+    "options": [
+      "General Processing Unit",
+      "Graphics Processing Unit",
+      "Global Processing Unit",
+      "Graphical Program Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9045,
+    "categoryId": "technology",
+    "question": "Which company founded the Rust programming language?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Mozilla"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9046,
+    "categoryId": "technology",
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Virtual Protocol Network",
+      "Verified Private Node",
+      "Virtual Proxy Network"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9047,
+    "categoryId": "technology",
+    "question": "What is the name of the Google's parent company?",
+    "options": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Alphabet"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9048,
+    "categoryId": "technology",
+    "question": "Which technology is used to build Android apps with Google's official language?",
+    "options": [
+      "Swift",
+      "C#",
+      "Java",
+      "Kotlin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9049,
+    "categoryId": "technology",
+    "question": "What is the name of the Apple's desktop operating system?",
+    "options": [
+      "iOS",
+      "watchOS",
+      "tvOS",
+      "macOS"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9050,
+    "categoryId": "technology",
+    "question": "Which company created the Swift programming language?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9051,
+    "categoryId": "technology",
+    "question": "What does WWW stand for?",
+    "options": [
+      "World Wide Web",
+      "Web Wide World",
+      "World Web Wide",
+      "Wide World Web"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9052,
+    "categoryId": "technology",
+    "question": "What is the name of the Microsoft cloud service?",
+    "options": [
+      "AWS",
+      "Google Cloud",
+      "IBM Cloud",
+      "Azure"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9053,
+    "categoryId": "technology",
+    "question": "Which database query language is most widely used?",
+    "options": [
+      "NoSQL",
+      "MongoDB",
+      "GraphQL",
+      "SQL"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9054,
+    "categoryId": "technology",
+    "question": "What is the name of Elon Musk's space company?",
+    "options": [
+      "Blue Origin",
+      "Virgin Galactic",
+      "Boeing Space",
+      "SpaceX"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9055,
+    "categoryId": "technology",
+    "question": "Which technology powers cryptocurrencies like Bitcoin?",
+    "options": [
+      "Cloud Computing",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Blockchain"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9056,
+    "categoryId": "technology",
+    "question": "What is the name of the Linux mascot?",
+    "options": [
+      "Gnu",
+      "Penguin",
+      "Fox",
+      "Tux"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9057,
+    "categoryId": "technology",
+    "question": "In which year was Google founded?",
+    "options": [
+      "1995",
+      "1996",
+      "1997",
+      "1998"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9058,
+    "categoryId": "technology",
+    "question": "What does JPEG stand for?",
+    "options": [
+      "Joint Picture Expert Group",
+      "Joint Photographic Experts Group",
+      "Joint Photo Exchange Group",
+      "Joint Picture Exchange Group"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9059,
+    "categoryId": "technology",
+    "question": "Which company developed the .NET framework?",
+    "options": [
+      "Apple",
+      "Oracle",
+      "IBM",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9060,
+    "categoryId": "technology",
+    "question": "What is the name of a program that searches websites automatically?",
+    "options": [
+      "Browser",
+      "Indexer",
+      "Spider/Crawler",
+      "Server"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9061,
+    "categoryId": "technology",
+    "question": "What does PDF stand for?",
+    "options": [
+      "Portable Document Format",
+      "Printable Document File",
+      "Portable Data Format",
+      "Print Document File"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9062,
+    "categoryId": "technology",
+    "question": "Which company developed the Kotlin programming language?",
+    "options": [
+      "Google",
+      "Apple",
+      "JetBrains",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9063,
+    "categoryId": "technology",
+    "question": "What is the term for malicious software?",
+    "options": [
+      "Spyware",
+      "Firmware",
+      "Shareware",
+      "Malware"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9064,
+    "categoryId": "technology",
+    "question": "What is the name of Amazon's voice assistant?",
+    "options": [
+      "Cortana",
+      "Siri",
+      "Google Assistant",
+      "Alexa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9065,
+    "categoryId": "technology",
+    "question": "In which year was Facebook founded?",
+    "options": [
+      "2002",
+      "2003",
+      "2004",
+      "2005"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9066,
+    "categoryId": "technology",
+    "question": "Which file extension is used for JavaScript files?",
+    "options": [
+      ".java",
+      ".jv",
+      ".js",
+      ".json"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9067,
+    "categoryId": "technology",
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object Oriented Program",
+      "Object Oriented Programming",
+      "Objective Oriented Programming",
+      "Object Oriented Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9068,
+    "categoryId": "technology",
+    "question": "Which company developed the C++ language?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Bell Labs",
+      "AT&T"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9069,
+    "categoryId": "technology",
+    "question": "What is the full form of 'AI' in ChatGPT?",
+    "options": [
+      "Automated Interface",
+      "Artificial Intelligence",
+      "Advanced Integration",
+      "Applied Intelligence"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9070,
+    "categoryId": "technology",
+    "question": "Which company created ChatGPT?",
+    "options": [
+      "Google",
+      "Meta",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9071,
+    "categoryId": "technology",
+    "question": "What is the name of the process of finding and fixing bugs?",
+    "options": [
+      "Compiling",
+      "Testing",
+      "Debugging",
+      "Refactoring"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9072,
+    "categoryId": "technology",
+    "question": "Which company's logo is a bitten apple?",
+    "options": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9073,
+    "categoryId": "technology",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": [
+      "Safe",
+      "Server",
+      "Secure",
+      "System"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9074,
+    "categoryId": "technology",
+    "question": "Which type of storage is faster?",
+    "options": [
+      "HDD",
+      "DVD",
+      "CD",
+      "SSD"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9075,
+    "categoryId": "technology",
+    "question": "What is the name of the programming concept where a function calls itself?",
+    "options": [
+      "Iteration",
+      "Looping",
+      "Polymorphism",
+      "Recursion"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9076,
+    "categoryId": "technology",
+    "question": "Which company developed the first commercially successful web browser?",
+    "options": [
+      "Internet Explorer",
+      "Netscape Navigator",
+      "Mosaic",
+      "Opera"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9077,
+    "categoryId": "technology",
+    "question": "What does ML stand for in technology?",
+    "options": [
+      "Machine Link",
+      "Markup Language",
+      "Machine Learning",
+      "Model Logic"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9078,
+    "categoryId": "technology",
+    "question": "In which year was Twitter founded?",
+    "options": [
+      "2004",
+      "2005",
+      "2006",
+      "2007"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9079,
+    "categoryId": "technology",
+    "question": "What is the name of Google's AI assistant?",
+    "options": [
+      "Cortana",
+      "Alexa",
+      "Siri",
+      "Google Assistant"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9080,
+    "categoryId": "technology",
+    "question": "Which data structure stores data in key-value pairs?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Binary Tree",
+      "Hash Map"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9081,
+    "categoryId": "technology",
+    "question": "What is the name of the widely used framework for building React apps?",
+    "options": [
+      "Angular",
+      "Vue",
+      "Svelte",
+      "Next.js"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9082,
+    "categoryId": "technology",
+    "question": "What does TCP/IP stand for?",
+    "options": [
+      "Transfer Control Protocol / Internet Protocol",
+      "Transmission Control Protocol / Internet Protocol",
+      "Transfer Connection Protocol / Internal Protocol",
+      "Tunnel Control Protocol / Interface Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9083,
+    "categoryId": "technology",
+    "question": "Which company launched the first commercial smartphone?",
+    "options": [
+      "Samsung",
+      "Nokia",
+      "Motorola",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9084,
+    "categoryId": "technology",
+    "question": "What is the name of the attack where users are tricked into clicking hidden links?",
+    "options": [
+      "Phishing",
+      "DDoS",
+      "SQL Injection",
+      "Clickjacking"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9085,
+    "categoryId": "technology",
+    "question": "Which programming language was invented by Brendan Eich?",
+    "options": [
+      "Python",
+      "Ruby",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9086,
+    "categoryId": "technology",
+    "question": "What is the name of the Microsoft document editing software?",
+    "options": [
+      "Google Docs",
+      "LibreOffice",
+      "OpenOffice",
+      "Microsoft Word"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9087,
+    "categoryId": "technology",
+    "question": "What does FTP stand for?",
+    "options": [
+      "Fast Transfer Protocol",
+      "File Transfer Protocol",
+      "Folder Transfer Protocol",
+      "Fast Transport Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9088,
+    "categoryId": "technology",
+    "question": "Which company developed the Dart programming language?",
+    "options": [
+      "Meta",
+      "Apple",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9089,
+    "categoryId": "technology",
+    "question": "What is the name of the most common NoSQL database?",
+    "options": [
+      "PostgreSQL",
+      "MySQL",
+      "SQLite",
+      "MongoDB"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9090,
+    "categoryId": "technology",
+    "question": "What is the name of the interface between software and hardware?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Firmware",
+      "Operating System"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9091,
+    "categoryId": "technology",
+    "question": "Which company developed the React library?",
+    "options": [
+      "Google",
+      "Twitter",
+      "Microsoft",
+      "Meta (Facebook)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9092,
+    "categoryId": "technology",
+    "question": "What is the full form of ROM?",
+    "options": [
+      "Random Only Memory",
+      "Read Only Memory",
+      "Readable Operating Memory",
+      "Read Open Memory"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9093,
+    "categoryId": "technology",
+    "question": "Which service allows accessing a computer remotely over the internet?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTP",
+      "SSH/RDP"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9094,
+    "categoryId": "technology",
+    "question": "What is the name of a software that translates one programming language to another?",
+    "options": [
+      "Debugger",
+      "Interpreter",
+      "Linker",
+      "Compiler"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9095,
+    "categoryId": "technology",
+    "question": "What is the name of the widely used JavaScript runtime outside the browser?",
+    "options": [
+      "Deno",
+      "Bun",
+      "React",
+      "Node.js"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9096,
+    "categoryId": "technology",
+    "question": "Which Google service is used for maps and navigation?",
+    "options": [
+      "Google Earth",
+      "Google Lens",
+      "Google Street",
+      "Google Maps"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9097,
+    "categoryId": "technology",
+    "question": "What does AR stand for in technology?",
+    "options": [
+      "Advanced Reality",
+      "Alternate Reality",
+      "Artificial Reality",
+      "Augmented Reality"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9098,
+    "categoryId": "technology",
+    "question": "Which programming language is mostly used for data science?",
+    "options": [
+      "Java",
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9099,
+    "categoryId": "technology",
+    "question": "What is the name of the technique to make websites work on all screen sizes?",
+    "options": [
+      "Adaptive Design",
+      "Fluid Design",
+      "Flexible Design",
+      "Responsive Design"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 9100,
+    "categoryId": "technology",
+    "question": "Which company developed the Docker container platform?",
+    "options": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Docker Inc."
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 14001,
+    "categoryId": "technology",
+    "question": "What does 'HTTPS' stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol Secure",
+      "High Transfer Text Protocol System",
+      "Hyper Text Transport Protocol Standard",
+      "Host Transfer Text Protocol Secure"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14002,
+    "categoryId": "technology",
+    "question": "What is Big O notation O(log n) commonly referred to as?",
+    "options": [
+      "Linear time",
+      "Logarithmic time",
+      "Quadratic time",
+      "Constant time"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14003,
+    "categoryId": "technology",
+    "question": "What is the name of the vulnerability that allows SQL code to be inserted into queries?",
+    "options": [
+      "XSS Attack",
+      "Buffer Overflow",
+      "SQL Injection",
+      "CSRF Attack"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14004,
+    "categoryId": "technology",
+    "question": "In which year was the first version of the Linux kernel released?",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14005,
+    "categoryId": "technology",
+    "question": "What is the CAP theorem in distributed systems?",
+    "options": [
+      "Consistency, Availability, Partition tolerance",
+      "Caching, Availability, Performance",
+      "Consistency, Accuracy, Partition tolerance",
+      "Caching, Accuracy, Performance"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14006,
+    "categoryId": "technology",
+    "question": "Which hashing algorithm produces a 256-bit hash?",
+    "options": [
+      "MD5",
+      "SHA-1",
+      "SHA-256",
+      "SHA-512"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14007,
+    "categoryId": "technology",
+    "question": "What does 'REST' stand for in RESTful APIs?",
+    "options": [
+      "Remote Execution State Transfer",
+      "Representational State Transfer",
+      "Resource Execution Standard Transfer",
+      "Responsive State Transfer"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14008,
+    "categoryId": "technology",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "80",
+      "8080",
+      "443",
+      "8443"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14009,
+    "categoryId": "technology",
+    "question": "Which design pattern ensures only one instance of a class exists?",
+    "options": [
+      "Factory",
+      "Observer",
+      "Singleton",
+      "Decorator"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14010,
+    "categoryId": "technology",
+    "question": "What is the time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)",
+      "O(1)"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14011,
+    "categoryId": "technology",
+    "question": "Which neural network architecture is primarily used for image recognition?",
+    "options": [
+      "RNN",
+      "LSTM",
+      "CNN",
+      "GAN"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14012,
+    "categoryId": "technology",
+    "question": "What is 'Kubernetes' used for?",
+    "options": [
+      "Database management",
+      "Container orchestration",
+      "Network routing",
+      "Cloud storage"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14013,
+    "categoryId": "technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Core Processing Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14014,
+    "categoryId": "technology",
+    "question": "Which programming language was developed by Guido van Rossum?",
+    "options": [
+      "Ruby",
+      "Perl",
+      "Python",
+      "PHP"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14015,
+    "categoryId": "technology",
+    "question": "What is the name of the protocol used to send emails?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "IMAP",
+      "SMTP"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14016,
+    "categoryId": "technology",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Rewritable Access Memory"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14017,
+    "categoryId": "technology",
+    "question": "Which company developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Sun Microsystems"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14018,
+    "categoryId": "technology",
+    "question": "What is the purpose of a VPN?",
+    "options": [
+      "Speed up internet",
+      "Block ads",
+      "Encrypt and anonymize network traffic",
+      "Compress files"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14019,
+    "categoryId": "technology",
+    "question": "Which data structure operates on LIFO principle?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14020,
+    "categoryId": "technology",
+    "question": "What is the name of the process by which a compiler converts source code to machine code?",
+    "options": [
+      "Interpretation",
+      "Compilation",
+      "Linking",
+      "Assembling"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14021,
+    "categoryId": "technology",
+    "question": "What does DNS stand for?",
+    "options": [
+      "Dynamic Network System",
+      "Domain Name System",
+      "Data Network Service",
+      "Distributed Name Server"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14022,
+    "categoryId": "technology",
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14023,
+    "categoryId": "technology",
+    "question": "What is the full form of HTML?",
+    "options": [
+      "Hyper Text Marking Language",
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14024,
+    "categoryId": "technology",
+    "question": "Which company created the Android operating system?",
+    "options": [
+      "Apple",
+      "Samsung",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14025,
+    "categoryId": "technology",
+    "question": "What is the name of the first computer virus?",
+    "options": [
+      "ILOVEYOU",
+      "Creeper",
+      "Morris Worm",
+      "Melissa"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14026,
+    "categoryId": "technology",
+    "question": "Which protocol is used to transfer files over the internet?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "SSH",
+      "FTP"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14027,
+    "categoryId": "technology",
+    "question": "What is the name of the technique where multiple threads share a single CPU core?",
+    "options": [
+      "Multi-processing",
+      "Pipelining",
+      "Context Switching",
+      "Hyperthreading"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14028,
+    "categoryId": "technology",
+    "question": "Which company developed the C++ programming language?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Bell Labs",
+      "AT&T"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14029,
+    "categoryId": "technology",
+    "question": "What does IoT stand for?",
+    "options": [
+      "Internet of Technology",
+      "Integration of Things",
+      "Internet of Things",
+      "Interface of Technology"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14030,
+    "categoryId": "technology",
+    "question": "What is the name of Google's mobile-first indexing algorithm update?",
+    "options": [
+      "Panda",
+      "Penguin",
+      "Hummingbird",
+      "Mobile-Geddon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14031,
+    "categoryId": "technology",
+    "question": "Which type of database uses tables to store data?",
+    "options": [
+      "Graph Database",
+      "Document Database",
+      "Key-Value Store",
+      "Relational Database"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14032,
+    "categoryId": "technology",
+    "question": "What is the name of the protocol that assigns IP addresses automatically?",
+    "options": [
+      "DNS",
+      "TCP",
+      "ARP",
+      "DHCP"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14033,
+    "categoryId": "technology",
+    "question": "Which company developed the Swift programming language?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14034,
+    "categoryId": "technology",
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Interface",
+      "Automated Process Integration",
+      "Application Process Integration"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14035,
+    "categoryId": "technology",
+    "question": "Which data structure is used for implementing recursion?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Tree"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14036,
+    "categoryId": "technology",
+    "question": "What is the name of the wireless technology used for short-range data transfer?",
+    "options": [
+      "Wi-Fi",
+      "NFC",
+      "Bluetooth",
+      "Zigbee"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14037,
+    "categoryId": "technology",
+    "question": "Which company created the Rust programming language?",
+    "options": [
+      "Google",
+      "Mozilla",
+      "Microsoft",
+      "Apple"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14038,
+    "categoryId": "technology",
+    "question": "What is the name of the machine learning technique where a model learns from labeled data?",
+    "options": [
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Semi-supervised Learning",
+      "Supervised Learning"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14039,
+    "categoryId": "technology",
+    "question": "Which of these is not an object-oriented programming language?",
+    "options": [
+      "Java",
+      "Python",
+      "Haskell",
+      "C++"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14040,
+    "categoryId": "technology",
+    "question": "What is the name of the process that converts human-readable code into bytecode?",
+    "options": [
+      "Assembling",
+      "Compiling",
+      "Interpreting",
+      "Linking"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14041,
+    "categoryId": "technology",
+    "question": "Which protocol is the backbone of the World Wide Web?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "SSH",
+      "HTTP"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14042,
+    "categoryId": "technology",
+    "question": "What is the name of the attack where a malicious user intercepts communication between two parties?",
+    "options": [
+      "Phishing",
+      "DDoS",
+      "Man-in-the-Middle",
+      "SQL Injection"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14043,
+    "categoryId": "technology",
+    "question": "Which company invented the World Wide Web?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "CERN (Tim Berners-Lee)",
+      "Google"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14044,
+    "categoryId": "technology",
+    "question": "What is the name of the first commercially successful web browser?",
+    "options": [
+      "Internet Explorer",
+      "Netscape Navigator",
+      "Mosaic",
+      "Opera"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14045,
+    "categoryId": "technology",
+    "question": "Which algorithm is commonly used for public-key cryptography?",
+    "options": [
+      "AES",
+      "DES",
+      "RSA",
+      "MD5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14046,
+    "categoryId": "technology",
+    "question": "What does GPU stand for?",
+    "options": [
+      "General Processing Unit",
+      "Graphics Processing Unit",
+      "Global Processing Unit",
+      "Graphical Program Unit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14047,
+    "categoryId": "technology",
+    "question": "What is the name of the technique used to reduce the size of files without quality loss?",
+    "options": [
+      "Lossy Compression",
+      "Encoding",
+      "Encryption",
+      "Lossless Compression"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14048,
+    "categoryId": "technology",
+    "question": "Which company owns GitHub?",
+    "options": [
+      "Google",
+      "Amazon",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14049,
+    "categoryId": "technology",
+    "question": "What is the name of the neural network layer that performs downsampling?",
+    "options": [
+      "Convolutional Layer",
+      "Activation Layer",
+      "Fully Connected Layer",
+      "Pooling Layer"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14050,
+    "categoryId": "technology",
+    "question": "What does TCP stand for?",
+    "options": [
+      "Transfer Connection Protocol",
+      "Transmission Control Protocol",
+      "Tunnel Connection Protocol",
+      "Transfer Control Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14051,
+    "categoryId": "technology",
+    "question": "Which programming paradigm treats computation as evaluation of mathematical functions?",
+    "options": [
+      "Object-Oriented Programming",
+      "Procedural Programming",
+      "Event-Driven Programming",
+      "Functional Programming"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14052,
+    "categoryId": "technology",
+    "question": "What is the name of the technique where software is deployed in small, independent services?",
+    "options": [
+      "Monolithic Architecture",
+      "Serverless Architecture",
+      "SOA",
+      "Microservices Architecture"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14053,
+    "categoryId": "technology",
+    "question": "Which company created TensorFlow?",
+    "options": [
+      "Facebook",
+      "Amazon",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14054,
+    "categoryId": "technology",
+    "question": "What is the name of the process where a developer pushes code automatically through test and deployment pipelines?",
+    "options": [
+      "Agile Development",
+      "Waterfall Development",
+      "CI/CD Pipeline",
+      "DevOps Testing"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14055,
+    "categoryId": "technology",
+    "question": "Which data structure stores data in key-value pairs with O(1) average lookup?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Binary Tree",
+      "Hash Table"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14056,
+    "categoryId": "technology",
+    "question": "What is the name of the technology that allows code to run in isolated containers?",
+    "options": [
+      "VMs",
+      "Hypervisor",
+      "Docker",
+      "Vagrant"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14057,
+    "categoryId": "technology",
+    "question": "Which search algorithm guarantees finding the shortest path in an unweighted graph?",
+    "options": [
+      "Depth-First Search",
+      "Dijkstra's Algorithm",
+      "Breadth-First Search",
+      "A* Algorithm"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14058,
+    "categoryId": "technology",
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object Oriented Program",
+      "Object Oriented Programming",
+      "Objective Oriented Programming",
+      "Object Oriented Protocol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14059,
+    "categoryId": "technology",
+    "question": "Which company developed the TypeScript programming language?",
+    "options": [
+      "Google",
+      "Facebook",
+      "JetBrains",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14060,
+    "categoryId": "technology",
+    "question": "What is the name of the phenomenon where a neural network performs well on training data but poorly on new data?",
+    "options": [
+      "Underfitting",
+      "Bias",
+      "Variance",
+      "Overfitting"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14061,
+    "categoryId": "technology",
+    "question": "What is the name of the standard for wireless networking (Wi-Fi)?",
+    "options": [
+      "IEEE 802.3",
+      "IEEE 802.11",
+      "IEEE 802.15",
+      "IEEE 802.16"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14062,
+    "categoryId": "technology",
+    "question": "Which version control system is the most widely used?",
+    "options": [
+      "SVN",
+      "Mercurial",
+      "CVS",
+      "Git"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14063,
+    "categoryId": "technology",
+    "question": "What is the name of the attack where a server is overwhelmed with requests?",
+    "options": [
+      "SQL Injection",
+      "XSS Attack",
+      "Phishing",
+      "DDoS Attack"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14064,
+    "categoryId": "technology",
+    "question": "Which company developed the Kotlin programming language?",
+    "options": [
+      "Google",
+      "Apple",
+      "JetBrains",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14065,
+    "categoryId": "technology",
+    "question": "What is the name of the OSI model layer responsible for routing packets?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14066,
+    "categoryId": "technology",
+    "question": "Which concept in OOP describes a class inheriting properties from another class?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Inheritance"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14067,
+    "categoryId": "technology",
+    "question": "What is the name of the format used for exchanging data between web services?",
+    "options": [
+      "XML",
+      "CSV",
+      "YAML",
+      "JSON"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14068,
+    "categoryId": "technology",
+    "question": "Which company first introduced the concept of a relational database?",
+    "options": [
+      "Oracle",
+      "IBM",
+      "Microsoft",
+      "SAP"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14069,
+    "categoryId": "technology",
+    "question": "What is the name of the process of finding and fixing errors in code?",
+    "options": [
+      "Compiling",
+      "Testing",
+      "Debugging",
+      "Refactoring"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14070,
+    "categoryId": "technology",
+    "question": "Which type of memory is faster, RAM or Cache?",
+    "options": [
+      "RAM",
+      "Cache",
+      "They are the same",
+      "Depends on the operation"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14071,
+    "categoryId": "technology",
+    "question": "What does the acronym SOLID stand for in software engineering?",
+    "options": [
+      "Single, Open, Liskov, Interface, Dependency",
+      "Scalable, Open, Large, Interface, Design",
+      "Single, Object, Liskov, Inheritance, Dependency",
+      "Scalable, Optimized, Linked, Integrated, Design"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14072,
+    "categoryId": "technology",
+    "question": "What is the name of Amazon's cloud computing platform?",
+    "options": [
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud",
+      "AWS"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14073,
+    "categoryId": "technology",
+    "question": "Which encoding scheme is used to represent characters in computers?",
+    "options": [
+      "Binary",
+      "Hexadecimal",
+      "Octal",
+      "ASCII"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14074,
+    "categoryId": "technology",
+    "question": "What is the name of the technique that splits a dataset to test a machine learning model?",
+    "options": [
+      "Data Augmentation",
+      "Normalization",
+      "Feature Extraction",
+      "Cross-Validation"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14075,
+    "categoryId": "technology",
+    "question": "Which network topology connects all devices to a central hub?",
+    "options": [
+      "Ring Topology",
+      "Mesh Topology",
+      "Bus Topology",
+      "Star Topology"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14076,
+    "categoryId": "technology",
+    "question": "What is the name of the open-source container registry created by Docker?",
+    "options": [
+      "Docker Hub",
+      "ECR",
+      "Container Registry",
+      "Harbor"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14077,
+    "categoryId": "technology",
+    "question": "What is the name of the JavaScript runtime environment built on Chrome's V8 engine?",
+    "options": [
+      "Deno",
+      "Bun",
+      "React",
+      "Node.js"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14078,
+    "categoryId": "technology",
+    "question": "Which programming language is primarily used for iOS development?",
+    "options": [
+      "Kotlin",
+      "Java",
+      "C#",
+      "Swift"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14079,
+    "categoryId": "technology",
+    "question": "What is the name of the type of malware that encrypts files and demands payment?",
+    "options": [
+      "Spyware",
+      "Adware",
+      "Trojan",
+      "Ransomware"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14080,
+    "categoryId": "technology",
+    "question": "Which data structure is best for implementing a priority queue?",
+    "options": [
+      "Stack",
+      "Array",
+      "Linked List",
+      "Heap"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14081,
+    "categoryId": "technology",
+    "question": "What is the name of the SQL command used to retrieve data from a database?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "DELETE",
+      "SELECT"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14082,
+    "categoryId": "technology",
+    "question": "Which cloud service model provides virtualized computing resources?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "FaaS",
+      "IaaS"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14083,
+    "categoryId": "technology",
+    "question": "What is the name of the security feature that requires multiple forms of authentication?",
+    "options": [
+      "Single Sign-On",
+      "Biometric Authentication",
+      "Password Manager",
+      "Multi-Factor Authentication"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14084,
+    "categoryId": "technology",
+    "question": "Which company developed the Go programming language?",
+    "options": [
+      "Facebook",
+      "Amazon",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14085,
+    "categoryId": "technology",
+    "question": "What is the name of the technique where you break a problem into subproblems and store results?",
+    "options": [
+      "Greedy Algorithm",
+      "Divide and Conquer",
+      "Backtracking",
+      "Dynamic Programming"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14086,
+    "categoryId": "technology",
+    "question": "What does YAML stand for?",
+    "options": [
+      "Yet Another Markup Language",
+      "YAML Ain't Markup Language",
+      "Your Awesome Markup Language",
+      "YAML Automated Markup Language"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14087,
+    "categoryId": "technology",
+    "question": "Which protocol is used for secure shell access to a remote server?",
+    "options": [
+      "FTP",
+      "Telnet",
+      "RDP",
+      "SSH"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14088,
+    "categoryId": "technology",
+    "question": "What is the name of the process where unused objects in memory are removed automatically?",
+    "options": [
+      "Memory Allocation",
+      "Memory Fragmentation",
+      "Memory Paging",
+      "Garbage Collection"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14089,
+    "categoryId": "technology",
+    "question": "Which technique is used to prevent SQL injection?",
+    "options": [
+      "Input Validation",
+      "Encryption",
+      "Hashing",
+      "Parameterized Queries"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14090,
+    "categoryId": "technology",
+    "question": "What is the name of the design pattern that separates UI, logic, and data?",
+    "options": [
+      "Singleton",
+      "Observer",
+      "Factory",
+      "MVC (Model-View-Controller)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14091,
+    "categoryId": "technology",
+    "question": "Which technology is used to create smart contracts on the Ethereum blockchain?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "C++",
+      "Solidity"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14092,
+    "categoryId": "technology",
+    "question": "What is the name of the standard that defines how web pages communicate with servers asynchronously?",
+    "options": [
+      "WebSocket",
+      "Server-Sent Events",
+      "REST",
+      "AJAX"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14093,
+    "categoryId": "technology",
+    "question": "Which programming concept allows a function to call itself?",
+    "options": [
+      "Iteration",
+      "Looping",
+      "Polymorphism",
+      "Recursion"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14094,
+    "categoryId": "technology",
+    "question": "What is the name of the Facebook framework for building user interfaces?",
+    "options": [
+      "Angular",
+      "Vue.js",
+      "Svelte",
+      "React"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14095,
+    "categoryId": "technology",
+    "question": "Which layer of the OSI model is responsible for data encryption?",
+    "options": [
+      "Network Layer",
+      "Transport Layer",
+      "Application Layer",
+      "Presentation Layer"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14096,
+    "categoryId": "technology",
+    "question": "What is the name of the practice of making software easily adjustable to handle growing workload?",
+    "options": [
+      "Redundancy",
+      "Fault Tolerance",
+      "Load Balancing",
+      "Scalability"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14097,
+    "categoryId": "technology",
+    "question": "Which algorithm is commonly used for recommendation systems?",
+    "options": [
+      "Linear Regression",
+      "Decision Tree",
+      "SVM",
+      "Collaborative Filtering"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14098,
+    "categoryId": "technology",
+    "question": "What is the name of the process that converts analog signals to digital?",
+    "options": [
+      "Modulation",
+      "Amplification",
+      "Encoding",
+      "Analog-to-Digital Conversion"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14099,
+    "categoryId": "technology",
+    "question": "Which company developed the .NET framework?",
+    "options": [
+      "Apple",
+      "Oracle",
+      "IBM",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14100,
+    "categoryId": "technology",
+    "question": "What is the name of the method used to test individual components of code in isolation?",
+    "options": [
+      "Integration Testing",
+      "System Testing",
+      "Acceptance Testing",
+      "Unit Testing"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  }
+]

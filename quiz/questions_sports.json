@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 5001,
+    "categoryId": "sports",
+    "question": "How many players are on a football (soccer) team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5002,
+    "categoryId": "sports",
+    "question": "In which sport do you use a shuttlecock?",
+    "options": [
+      "Tennis",
+      "Squash",
+      "Badminton",
+      "Volleyball"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5003,
+    "categoryId": "sports",
+    "question": "How many rings are on the Olympic flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5004,
+    "categoryId": "sports",
+    "question": "Which country invented basketball?",
+    "options": [
+      "USA",
+      "Canada",
+      "UK",
+      "Australia"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5005,
+    "categoryId": "sports",
+    "question": "In cricket, how many balls are in an over?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5006,
+    "categoryId": "sports",
+    "question": "Which sport is played at Wimbledon?",
+    "options": [
+      "Golf",
+      "Cricket",
+      "Tennis",
+      "Badminton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5007,
+    "categoryId": "sports",
+    "question": "How many players are on a basketball team on the court?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5008,
+    "categoryId": "sports",
+    "question": "What color is the center circle on an archery target?",
+    "options": [
+      "Red",
+      "Blue",
+      "Black",
+      "Yellow"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5009,
+    "categoryId": "sports",
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "options": [
+      "Volleyball",
+      "Baseball",
+      "Basketball",
+      "Football"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5010,
+    "categoryId": "sports",
+    "question": "How long is a standard marathon in kilometers?",
+    "options": [
+      "40 km",
+      "41 km",
+      "42.195 km",
+      "43 km"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5011,
+    "categoryId": "sports",
+    "question": "Which country is home to the sport of Sumo wrestling?",
+    "options": [
+      "China",
+      "Korea",
+      "Japan",
+      "Mongolia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5012,
+    "categoryId": "sports",
+    "question": "How many holes are on a standard golf course?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the highest score in a perfect bowling game?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5013,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in a rugby union team?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5014,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What sport uses a bat, ball and wicket?",
+    "options": [
+      "Baseball",
+      "Cricket",
+      "Rounders",
+      "Softball"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5015,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country did the sport of judo originate?",
+    "options": [
+      "China",
+      "Korea",
+      "Japan",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5016,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is an Olympic swimming pool?",
+    "options": [
+      "25 meters",
+      "50 meters",
+      "75 meters",
+      "100 meters"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5017,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term for scoring 3 goals in a football match?",
+    "options": [
+      "Triple",
+      "Treble",
+      "Hat-trick",
+      "Triple score"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5018,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In tennis, what is the first point called?",
+    "options": [
+      "Zero",
+      "Love",
+      "One",
+      "Nil"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5019,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many sets does a men's Wimbledon final have (max)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5020,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has won the most Rugby World Cups?",
+    "options": [
+      "England",
+      "Australia",
+      "South Africa",
+      "New Zealand"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5021,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in a water polo team?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5022,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What color belt is the highest in karate?",
+    "options": [
+      "Brown",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5023,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is a quarter in NBA basketball?",
+    "options": [
+      "8 minutes",
+      "10 minutes",
+      "12 minutes",
+      "15 minutes"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5024,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the distance of a 100m sprint?",
+    "options": [
+      "100 feet",
+      "100 yards",
+      "100 meters",
+      "100 km"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5025,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in an ice hockey team on the ice?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5026,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport is the term 'love' used?",
+    "options": [
+      "Cricket",
+      "Basketball",
+      "Tennis",
+      "Golf"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5027,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What sport does Serena Williams play?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Badminton",
+      "Squash"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5028,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the national sport of Canada?",
+    "options": [
+      "Ice Hockey and Lacrosse",
+      "Basketball",
+      "Baseball",
+      "Curling"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5029,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In cricket, what happens when a batter hits a 'six'?",
+    "options": [
+      "Ball hits the stumps",
+      "Ball lands in the stands without bouncing",
+      "Ball is caught by fielder",
+      "Ball hits the boundary"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5030,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country's team is called the All Blacks?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "New Zealand",
+      "Argentina"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5031,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the most watched sport in the world?",
+    "options": [
+      "Cricket",
+      "Basketball",
+      "Football (Soccer)",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5032,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In swimming, what is the fastest stroke?",
+    "options": [
+      "Breaststroke",
+      "Backstroke",
+      "Butterfly",
+      "Freestyle (Front crawl)"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5033,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is a standard football (soccer) match?",
+    "options": [
+      "80 minutes",
+      "90 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5034,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which player has scored the most Premier League goals?",
+    "options": [
+      "Wayne Rooney",
+      "Alan Shearer",
+      "Andrew Cole",
+      "Thierry Henry"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5035,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many periods are in an ice hockey game?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5036,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country hosts the Australian Open tennis tournament?",
+    "options": [
+      "New Zealand",
+      "UK",
+      "USA",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5037,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is an NFL quarter?",
+    "options": [
+      "4 quarters of 10 mins",
+      "4 quarters of 12 mins",
+      "4 quarters of 15 mins",
+      "4 quarters of 20 mins"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5038,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of cricket's governing body?",
+    "options": [
+      "FIFA",
+      "ICC",
+      "ATP",
+      "FIBA"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5039,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In golf, what is a score of 1 under par called?",
+    "options": [
+      "Eagle",
+      "Albatross",
+      "Birdie",
+      "Bogey"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5040,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What sport does LeBron James play?",
+    "options": [
+      "Baseball",
+      "Football",
+      "Basketball",
+      "Soccer"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5041,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the national sport of India?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Kabaddi",
+      "Badminton"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5042,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in a baseball team?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5043,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has won the most Olympic medals overall?",
+    "options": [
+      "China",
+      "Russia",
+      "UK",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5044,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What sport does Cristiano Ronaldo play?",
+    "options": [
+      "Basketball",
+      "Football (Soccer)",
+      "Tennis",
+      "Rugby"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5045,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In rugby, how many points is a conversion worth?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5046,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the maximum number of clubs in a golf bag?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5047,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many times has Brazil won the FIFA World Cup?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5048,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport would you find a pommel horse?",
+    "options": [
+      "Athletics",
+      "Equestrian",
+      "Gymnastics",
+      "Fencing"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5049,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the governing body of world football (soccer)?",
+    "options": [
+      "UEFA",
+      "AFC",
+      "FIFA",
+      "CONCACAF"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5050,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country invented the sport of volleyball?",
+    "options": [
+      "Brazil",
+      "USA",
+      "Canada",
+      "Cuba"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5051,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport is a 'birdie' scored?",
+    "options": [
+      "Badminton",
+      "Cricket",
+      "Golf",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5052,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which athlete is considered the greatest of all time in boxing?",
+    "options": [
+      "Mike Tyson",
+      "Joe Frazier",
+      "George Foreman",
+      "Muhammad Ali"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5053,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term for a tie in chess?",
+    "options": [
+      "Checkmate",
+      "Draw",
+      "Fork",
+      "Pin"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5054,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which sport takes place in a velodrome?",
+    "options": [
+      "Athletics",
+      "Cycling",
+      "Skating",
+      "Swimming"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5055,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which Olympic sport do athletes ski and shoot targets?",
+    "options": [
+      "Speed skating",
+      "Skeleton",
+      "Luge",
+      "Biathlon"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5056,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the nickname of the Boston NBA team?",
+    "options": [
+      "Bulls",
+      "Celtics",
+      "Lakers",
+      "Knicks"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5057,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What country is Usain Bolt from?",
+    "options": [
+      "Trinidad and Tobago",
+      "Barbados",
+      "Jamaica",
+      "Haiti"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5058,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which sport invented by James Naismith uses a hoop?",
+    "options": [
+      "Volleyball",
+      "Handball",
+      "Basketball",
+      "Netball"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5059,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the height of a basketball hoop from the ground?",
+    "options": [
+      "8 feet",
+      "9 feet",
+      "10 feet",
+      "11 feet"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5060,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'NFL' stand for?",
+    "options": [
+      "National Football League",
+      "North Football League",
+      "National Field League",
+      "National Football Lineup"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5061,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which sport uses a cue and balls on a table?",
+    "options": [
+      "Darts",
+      "Snooker/Billiards",
+      "Bowling",
+      "Table Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5062,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the Olympics motto?",
+    "options": [
+      "Faster, Higher, Stronger",
+      "Swift, Strong, Bold",
+      "Run, Jump, Throw",
+      "Unite, Compete, Excel"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5063,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in a netball team?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5064,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a perfect score in gymnastics (old system)?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5065,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What do the five Olympic rings represent?",
+    "options": [
+      "Five sports",
+      "Five continents",
+      "Five founding countries",
+      "Five Olympic values"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5066,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many points does a touchdown score in American football?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5067,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In Formula 1, how many points does the winner of a race get?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5068,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a perfect score in 10-pin bowling?",
+    "options": [
+      "200",
+      "250",
+      "275",
+      "300"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 5069,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport is a 'smash' performed?",
+    "options": [
+      "Cricket",
+      "Basketball",
+      "Tennis/Badminton",
+      "Rugby"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5070,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the main tournament in European club football?",
+    "options": [
+      "FIFA World Cup",
+      "Europa League",
+      "UEFA Champions League",
+      "Super Cup"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5071,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many substitutes are allowed in a standard football match per team?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5072,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does 'MVP' stand for in sports?",
+    "options": [
+      "Most Valuable Player",
+      "Most Victorious Player",
+      "Maximum Value Performance",
+      "Most Versatile Player"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5073,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term for a goal scored directly from a corner in football?",
+    "options": [
+      "Hat trick",
+      "Bicycle kick",
+      "Olimpico",
+      "Header"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5074,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players does each team have in polo?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5075,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In tennis, how many games must a player win a set?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5076,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the weight of a cricket ball?",
+    "options": [
+      "145-155g",
+      "155-163g",
+      "163-173g",
+      "173-183g"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5077,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport do you win by pinning your opponent?",
+    "options": [
+      "Judo",
+      "Boxing",
+      "Wrestling",
+      "Karate"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5078,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many miles is a marathon?",
+    "options": [
+      "24.2 miles",
+      "25.2 miles",
+      "26.2 miles",
+      "27.2 miles"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5079,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term for a failed serve in tennis?",
+    "options": [
+      "Fault",
+      "Let",
+      "Deuce",
+      "Miss"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5080,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is a standard volleyball match (best of)?",
+    "options": [
+      "3 sets",
+      "5 sets",
+      "7 sets",
+      "9 sets"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5081,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What color is the ball used in snooker?",
+    "options": [
+      "White cue ball, colored other balls",
+      "All red",
+      "All white",
+      "All black"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 5082,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What sport features the Bledisloe Cup?",
+    "options": [
+      "Cricket",
+      "Rugby Union",
+      "Football",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5083,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many red balls are there in snooker?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5084,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term for 3 strikes in a row in bowling?",
+    "options": [
+      "Triple",
+      "Turkey",
+      "Hat trick",
+      "Strike trio"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5085,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many events are in a decathlon?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5086,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country invented badminton?",
+    "options": [
+      "China",
+      "India",
+      "England",
+      "Japan"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5087,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the court surface at the French Open?",
+    "options": [
+      "Grass",
+      "Hard court",
+      "Clay",
+      "Carpet"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5088,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many players are in an American football team on the field?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5089,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the trophy awarded in the FA Cup?",
+    "options": [
+      "The Cup",
+      "The FA Trophy",
+      "The FA Cup",
+      "The Three Lions Cup"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5090,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which city are the Knicks NBA team based?",
+    "options": [
+      "Los Angeles",
+      "Chicago",
+      "New York",
+      "Boston"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5091,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What piece in chess can only move diagonally?",
+    "options": [
+      "Rook",
+      "Knight",
+      "Bishop",
+      "Queen"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5092,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many bases are there in baseball?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5093,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the term in cricket when a batsman is dismissed for 0?",
+    "options": [
+      "Zero",
+      "Blank",
+      "Duck",
+      "Nil"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5094,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which sport do you use a foil, \u00e9p\u00e9e or sabre?",
+    "options": [
+      "Judo",
+      "Fencing",
+      "Archery",
+      "Wrestling"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5095,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the highest belt in judo?",
+    "options": [
+      "Black belt",
+      "Red and white belt",
+      "Red belt",
+      "Gold belt"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 5096,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long is a standard boxing round?",
+    "options": [
+      "2 minutes",
+      "3 minutes",
+      "4 minutes",
+      "5 minutes"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 5097,
+    "categoryId": "sports",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5098,
+    "categoryId": "sports",
+    "question": "How many players are on a football (soccer) team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5099,
+    "categoryId": "sports",
+    "question": "In cricket, how many balls are in an over?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5100,
+    "categoryId": "sports",
+    "question": "Which country has won the most Cricket World Cups?",
+    "options": [
+      "India",
+      "Australia",
+      "West Indies",
+      "England"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 10001,
+    "categoryId": "sports",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "Germany",
+      "Argentina",
+      "Italy",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10002,
+    "categoryId": "sports",
+    "question": "In tennis, what is a score of 40-40 called?",
+    "options": [
+      "Deuce",
+      "Tie Break",
+      "Love All",
+      "Match Point"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10003,
+    "categoryId": "sports",
+    "question": "How often are the Summer Olympics held?",
+    "options": [
+      "Every 2 years",
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10004,
+    "categoryId": "sports",
+    "question": "What is the maximum score in a perfect game of bowling?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10005,
+    "categoryId": "sports",
+    "question": "In which sport is the 'Grand Slam' term used to win all 4 major tournaments?",
+    "options": [
+      "Golf",
+      "Cricket",
+      "Tennis",
+      "Both Golf and Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10006,
+    "categoryId": "sports",
+    "question": "Which sport uses a puck?",
+    "options": [
+      "Polo",
+      "Field Hockey",
+      "Ice Hockey",
+      "Lacrosse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10007,
+    "categoryId": "sports",
+    "question": "How many players are on a volleyball team on the court?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10008,
+    "categoryId": "sports",
+    "question": "In which city were the first modern Olympic Games held?",
+    "options": [
+      "Paris",
+      "London",
+      "Athens",
+      "Rome"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10009,
+    "categoryId": "sports",
+    "question": "What does 'LBW' stand for in cricket?",
+    "options": [
+      "Leg Before Wicket",
+      "Left Behind Wicket",
+      "Lower Body Wicket",
+      "Leg Ball Wicket"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10010,
+    "categoryId": "sports",
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "options": [
+      "UAE",
+      "Saudi Arabia",
+      "Qatar",
+      "Bahrain"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10011,
+    "categoryId": "sports",
+    "question": "How many points is a try worth in rugby union?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10012,
+    "categoryId": "sports",
+    "question": "In which sport would you find a 'butterfly stroke'?",
+    "options": [
+      "Athletics",
+      "Gymnastics",
+      "Swimming",
+      "Diving"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10013,
+    "categoryId": "sports",
+    "question": "How many players are in a football (soccer) team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10014,
+    "categoryId": "sports",
+    "question": "Which sport is played at Wimbledon?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Table Tennis",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10015,
+    "categoryId": "sports",
+    "question": "How many rings are on the Olympic flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10016,
+    "categoryId": "sports",
+    "question": "Which country has won the most Rugby World Cup titles?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10017,
+    "categoryId": "sports",
+    "question": "In golf, what is the term for one under par?",
+    "options": [
+      "Eagle",
+      "Bogey",
+      "Birdie",
+      "Par"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10018,
+    "categoryId": "sports",
+    "question": "Which swimmer has won the most Olympic gold medals?",
+    "options": [
+      "Ian Thorpe",
+      "Mark Spitz",
+      "Ryan Lochte",
+      "Michael Phelps"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10019,
+    "categoryId": "sports",
+    "question": "In basketball, how many points is a shot worth from beyond the arc?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10020,
+    "categoryId": "sports",
+    "question": "Which country invented cricket?",
+    "options": [
+      "Australia",
+      "India",
+      "South Africa",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10021,
+    "categoryId": "sports",
+    "question": "How long is a marathon in kilometers?",
+    "options": [
+      "40km",
+      "41km",
+      "42.195km",
+      "43km"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10022,
+    "categoryId": "sports",
+    "question": "Which boxer was known as 'The Greatest'?",
+    "options": [
+      "Joe Frazier",
+      "George Foreman",
+      "Sugar Ray Robinson",
+      "Muhammad Ali"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10023,
+    "categoryId": "sports",
+    "question": "In which sport do athletes compete in a decathlon?",
+    "options": [
+      "Swimming",
+      "Gymnastics",
+      "Cycling",
+      "Athletics"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10024,
+    "categoryId": "sports",
+    "question": "Who is known as the 'fastest man on earth'?",
+    "options": [
+      "Carl Lewis",
+      "Asafa Powell",
+      "Yohan Blake",
+      "Usain Bolt"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10025,
+    "categoryId": "sports",
+    "question": "Which team has won the most Super Bowl titles?",
+    "options": [
+      "San Francisco 49ers",
+      "Dallas Cowboys",
+      "Pittsburgh Steelers",
+      "New England Patriots"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10026,
+    "categoryId": "sports",
+    "question": "In chess, which piece can only move diagonally?",
+    "options": [
+      "Rook",
+      "Knight",
+      "Queen",
+      "Bishop"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10027,
+    "categoryId": "sports",
+    "question": "What is the length of a standard Olympic swimming pool?",
+    "options": [
+      "25m",
+      "40m",
+      "50m",
+      "100m"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10028,
+    "categoryId": "sports",
+    "question": "Which country won the most gold medals at the 2020 Tokyo Olympics?",
+    "options": [
+      "China",
+      "Great Britain",
+      "Russia",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10029,
+    "categoryId": "sports",
+    "question": "In cricket, what is the maximum number of overs in an ODI?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10030,
+    "categoryId": "sports",
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Ronaldo (R9)",
+      "Lionel Messi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10031,
+    "categoryId": "sports",
+    "question": "Which sport features the Tour de France?",
+    "options": [
+      "Triathlon",
+      "Running",
+      "Swimming",
+      "Cycling"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10032,
+    "categoryId": "sports",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "American Football",
+      "Ice Hockey"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10033,
+    "categoryId": "sports",
+    "question": "Which country has won the most Cricket World Cup titles?",
+    "options": [
+      "India",
+      "West Indies",
+      "Sri Lanka",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10034,
+    "categoryId": "sports",
+    "question": "What is the name of the world's oldest tennis tournament?",
+    "options": [
+      "US Open",
+      "French Open",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10035,
+    "categoryId": "sports",
+    "question": "In which sport do you perform a slam dunk?",
+    "options": [
+      "Volleyball",
+      "Handball",
+      "Water Polo",
+      "Basketball"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10036,
+    "categoryId": "sports",
+    "question": "Which country has the most Olympic medals overall?",
+    "options": [
+      "China",
+      "Great Britain",
+      "Soviet Union",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10037,
+    "categoryId": "sports",
+    "question": "How many holes are on a standard golf course?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10038,
+    "categoryId": "sports",
+    "question": "In which sport is the Ryder Cup awarded?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Horse Racing",
+      "Golf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10039,
+    "categoryId": "sports",
+    "question": "Which country invented the sport of judo?",
+    "options": [
+      "China",
+      "Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10040,
+    "categoryId": "sports",
+    "question": "In American football, how many points is a touchdown worth?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10041,
+    "categoryId": "sports",
+    "question": "What is the governing body of world football?",
+    "options": [
+      "UEFA",
+      "AFC",
+      "CONMEBOL",
+      "FIFA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10042,
+    "categoryId": "sports",
+    "question": "Who won the most Grand Slam titles in women's tennis?",
+    "options": [
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Venus Williams",
+      "Serena Williams"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10043,
+    "categoryId": "sports",
+    "question": "In which sport is the 'Fosbury Flop' used?",
+    "options": [
+      "Pole Vault",
+      "Long Jump",
+      "High Jump",
+      "Triple Jump"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10044,
+    "categoryId": "sports",
+    "question": "How many players are on a rugby union team?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10045,
+    "categoryId": "sports",
+    "question": "Which driver has won the most Formula 1 World Championships?",
+    "options": [
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Lewis Hamilton"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10046,
+    "categoryId": "sports",
+    "question": "Which sport uses the term 'love' to mean zero?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Ping Pong",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10047,
+    "categoryId": "sports",
+    "question": "In which sport is a 'hat trick' most associated with three goals?",
+    "options": [
+      "Basketball",
+      "Rugby",
+      "Cricket",
+      "Football (Soccer)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10048,
+    "categoryId": "sports",
+    "question": "Which country has won the most medals in swimming?",
+    "options": [
+      "Australia",
+      "Russia",
+      "China",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10049,
+    "categoryId": "sports",
+    "question": "In which sport do players use a shuttlecock?",
+    "options": [
+      "Squash",
+      "Table Tennis",
+      "Racquetball",
+      "Badminton"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10050,
+    "categoryId": "sports",
+    "question": "What is the highest possible break in snooker?",
+    "options": [
+      "140",
+      "147",
+      "150",
+      "155"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10051,
+    "categoryId": "sports",
+    "question": "Which country won the first FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Italy",
+      "Uruguay"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10052,
+    "categoryId": "sports",
+    "question": "In baseball, how many strikes before a batter is out?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10053,
+    "categoryId": "sports",
+    "question": "Which tournament is played on clay courts?",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open",
+      "French Open"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10054,
+    "categoryId": "sports",
+    "question": "What is the name of the trophy for the Rugby World Cup?",
+    "options": [
+      "Bledisloe Cup",
+      "Webb Ellis Cup",
+      "Calcutta Cup",
+      "Tri Nations Trophy"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10055,
+    "categoryId": "sports",
+    "question": "In which sport is the butterfly stroke used?",
+    "options": [
+      "Water Polo",
+      "Diving",
+      "Synchronized Swimming",
+      "Swimming"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10056,
+    "categoryId": "sports",
+    "question": "How many Grand Slam tournaments are in tennis per year?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10057,
+    "categoryId": "sports",
+    "question": "Which city has hosted the Summer Olympics most times?",
+    "options": [
+      "Paris",
+      "Athens",
+      "Tokyo",
+      "London"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10058,
+    "categoryId": "sports",
+    "question": "What is the name of the South American football tournament?",
+    "options": [
+      "Gold Cup",
+      "African Cup of Nations",
+      "UEFA Nations League",
+      "Copa Am\u00e9rica"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10059,
+    "categoryId": "sports",
+    "question": "How many events are in the modern pentathlon?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10060,
+    "categoryId": "sports",
+    "question": "Which country won the inaugural T20 Cricket World Cup in 2007?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "Sri Lanka",
+      "India"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10061,
+    "categoryId": "sports",
+    "question": "In boxing, how many rounds are in a standard world title fight?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10062,
+    "categoryId": "sports",
+    "question": "In cricket, what is a bowler taking 3 wickets in 3 consecutive balls called?",
+    "options": [
+      "Double Hat-trick",
+      "Hat-trick",
+      "Triple Wicket",
+      "Golden Duck"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10063,
+    "categoryId": "sports",
+    "question": "Which country has hosted the most Summer Olympics?",
+    "options": [
+      "France",
+      "Germany",
+      "Australia",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10064,
+    "categoryId": "sports",
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "options": [
+      "16 inches",
+      "17 inches",
+      "18 inches",
+      "19 inches"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10065,
+    "categoryId": "sports",
+    "question": "In which sport can you score an 'albatross'?",
+    "options": [
+      "Cricket",
+      "Tennis",
+      "Badminton",
+      "Golf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10066,
+    "categoryId": "sports",
+    "question": "In which sport do you perform a 'clean and jerk'?",
+    "options": [
+      "Powerlifting",
+      "Bodybuilding",
+      "Crossfit",
+      "Weightlifting"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10067,
+    "categoryId": "sports",
+    "question": "Which country has won the most Davis Cup titles?",
+    "options": [
+      "Australia",
+      "Spain",
+      "USA",
+      "France"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10068,
+    "categoryId": "sports",
+    "question": "In which sport is a 'checkmate' the winning move?",
+    "options": [
+      "Draughts",
+      "Go",
+      "Backgammon",
+      "Chess"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10069,
+    "categoryId": "sports",
+    "question": "Which country invented table tennis?",
+    "options": [
+      "China",
+      "Japan",
+      "USA",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10070,
+    "categoryId": "sports",
+    "question": "What does DRS stand for in Formula 1?",
+    "options": [
+      "Dynamic Racing System",
+      "Drag Reduction System",
+      "Driver Response Signal",
+      "Direct Racing Speed"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10071,
+    "categoryId": "sports",
+    "question": "How many sets does a man need to win a tennis Grand Slam match?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10072,
+    "categoryId": "sports",
+    "question": "In which year were women allowed to compete in the Olympic marathon?",
+    "options": [
+      "1972",
+      "1976",
+      "1980",
+      "1984"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10073,
+    "categoryId": "sports",
+    "question": "Which country has won the most Olympic gymnastics medals?",
+    "options": [
+      "China",
+      "Japan",
+      "Romania",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10074,
+    "categoryId": "sports",
+    "question": "In which sport do teams compete for the Bledisloe Cup?",
+    "options": [
+      "Cricket",
+      "Football",
+      "Hockey",
+      "Rugby"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10075,
+    "categoryId": "sports",
+    "question": "What is the distance of a 100m sprint?",
+    "options": [
+      "80 meters",
+      "90 meters",
+      "100 meters",
+      "110 meters"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10076,
+    "categoryId": "sports",
+    "question": "Which country has won the most Commonwealth Games medals?",
+    "options": [
+      "India",
+      "Canada",
+      "England",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10077,
+    "categoryId": "sports",
+    "question": "What is the name of the famous horse race held in the UK?",
+    "options": [
+      "Kentucky Derby",
+      "Cheltenham Gold Cup",
+      "Grand National",
+      "Royal Ascot"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10078,
+    "categoryId": "sports",
+    "question": "Which sport uses the term 'deuce'?",
+    "options": [
+      "Table Tennis",
+      "Badminton",
+      "Squash",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10079,
+    "categoryId": "sports",
+    "question": "In which sport is the 'half-pipe' used?",
+    "options": [
+      "Skateboarding",
+      "Cycling",
+      "Both Skateboarding and Snowboarding",
+      "Snowboarding"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10080,
+    "categoryId": "sports",
+    "question": "What is the highest scoring shot in snooker?",
+    "options": [
+      "Red ball",
+      "Yellow ball",
+      "Black ball",
+      "Pink ball"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10081,
+    "categoryId": "sports",
+    "question": "In which sport do athletes compete for the Ryder Cup?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Horse Racing",
+      "Golf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10082,
+    "categoryId": "sports",
+    "question": "Which country invented the sport of polo?",
+    "options": [
+      "England",
+      "Argentina",
+      "China",
+      "Persia (Iran)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10083,
+    "categoryId": "sports",
+    "question": "In basketball, how many players are on each team?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10084,
+    "categoryId": "sports",
+    "question": "What is the distance from the penalty spot to the goal in football?",
+    "options": [
+      "10 yards",
+      "11 yards",
+      "12 yards",
+      "16 yards"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10085,
+    "categoryId": "sports",
+    "question": "In which sport can you score a 'try'?",
+    "options": [
+      "Field Hockey",
+      "American Football",
+      "Australian Rules Football",
+      "Rugby"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10086,
+    "categoryId": "sports",
+    "question": "Which athlete has won the most Olympic gold medals in history?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Michael Phelps",
+      "Larisa Latynina"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10087,
+    "categoryId": "sports",
+    "question": "What is the name of the Test cricket series between England and Australia?",
+    "options": [
+      "World Cup Series",
+      "Champions Series",
+      "Border-Gavaskar Trophy",
+      "The Ashes"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10088,
+    "categoryId": "sports",
+    "question": "Which sport is played at Roland Garros?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Table Tennis",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10089,
+    "categoryId": "sports",
+    "question": "In swimming, how many strokes are there?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10090,
+    "categoryId": "sports",
+    "question": "Which country invented badminton?",
+    "options": [
+      "China",
+      "India",
+      "Denmark",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10091,
+    "categoryId": "sports",
+    "question": "What is the maximum weight of a golf ball?",
+    "options": [
+      "43g",
+      "44g",
+      "45.93g",
+      "47g"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10092,
+    "categoryId": "sports",
+    "question": "In which sport do athletes compete in the heptathlon?",
+    "options": [
+      "Swimming",
+      "Gymnastics",
+      "Cycling",
+      "Athletics"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10093,
+    "categoryId": "sports",
+    "question": "Which player has won the most Wimbledon titles in men's singles?",
+    "options": [
+      "Pete Sampras",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rafael Nadal"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10094,
+    "categoryId": "sports",
+    "question": "What is the name of the cup competed for between Europe and USA in golf?",
+    "options": [
+      "Walker Cup",
+      "Presidents Cup",
+      "Solheim Cup",
+      "Ryder Cup"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10095,
+    "categoryId": "sports",
+    "question": "In which sport does 'triple jump' feature?",
+    "options": [
+      "Gymnastics",
+      "Acrobatics",
+      "Swimming",
+      "Athletics"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10096,
+    "categoryId": "sports",
+    "question": "Which country has won the most medals in Olympic boxing?",
+    "options": [
+      "Mexico",
+      "Great Britain",
+      "Russia",
+      "Cuba"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10097,
+    "categoryId": "sports",
+    "question": "In which sport is the term 'love all' used?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Ping Pong",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10098,
+    "categoryId": "sports",
+    "question": "What is the name of the famous cycling race in Italy?",
+    "options": [
+      "Vuelta a Espa\u00f1a",
+      "Tour de France",
+      "Paris-Roubaix",
+      "Giro d'Italia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10099,
+    "categoryId": "sports",
+    "question": "In which sport do you win by pinning both shoulders of opponent?",
+    "options": [
+      "Judo",
+      "Karate",
+      "Boxing",
+      "Wrestling"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 10100,
+    "categoryId": "sports",
+    "question": "Which country has won the most medals in athletics at the Olympics?",
+    "options": [
+      "Kenya",
+      "Jamaica",
+      "Great Britain",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 15001,
+    "categoryId": "sports",
+    "question": "In cricket, what is the term for a bowler taking 3 wickets in 3 consecutive balls?",
+    "options": [
+      "Double Hat-trick",
+      "Hat-trick",
+      "Triple Wicket",
+      "Golden Duck"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15002,
+    "categoryId": "sports",
+    "question": "What is the highest possible break in snooker?",
+    "options": [
+      "147",
+      "155",
+      "150",
+      "140"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15003,
+    "categoryId": "sports",
+    "question": "Which athlete has won the most Olympic gold medals in history?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Michael Phelps",
+      "Larisa Latynina"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15004,
+    "categoryId": "sports",
+    "question": "In Formula 1, what does DRS stand for?",
+    "options": [
+      "Dynamic Racing System",
+      "Drag Reduction System",
+      "Driver Response Signal",
+      "Direct Racing Speed"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15005,
+    "categoryId": "sports",
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "options": [
+      "16 inches",
+      "17 inches",
+      "18 inches",
+      "19 inches"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15006,
+    "categoryId": "sports",
+    "question": "In which year were women first allowed to compete in the Olympic marathon?",
+    "options": [
+      "1972",
+      "1976",
+      "1980",
+      "1984"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15007,
+    "categoryId": "sports",
+    "question": "What is the name of the trophy awarded to the winner of the Rugby World Cup?",
+    "options": [
+      "Bledisloe Cup",
+      "Webb Ellis Cup",
+      "Calcutta Cup",
+      "Tri Nations Trophy"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15008,
+    "categoryId": "sports",
+    "question": "How many Grand Slam titles has Novak Djokovic won (as of 2024)?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15009,
+    "categoryId": "sports",
+    "question": "In chess, how many squares can a queen move in one turn (max)?",
+    "options": [
+      "14",
+      "21",
+      "27",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15010,
+    "categoryId": "sports",
+    "question": "What is the term for a golfer completing a hole 3 under par?",
+    "options": [
+      "Eagle",
+      "Albatross",
+      "Condor",
+      "Birdie"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15011,
+    "categoryId": "sports",
+    "question": "Which country has won the most Davis Cup titles in tennis?",
+    "options": [
+      "Australia",
+      "Spain",
+      "USA",
+      "France"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15012,
+    "categoryId": "sports",
+    "question": "In which sport is the 'Fosbury Flop' technique used?",
+    "options": [
+      "Pole Vault",
+      "Long Jump",
+      "High Jump",
+      "Triple Jump"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15013,
+    "categoryId": "sports",
+    "question": "How many players are on a standard rugby union team?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15014,
+    "categoryId": "sports",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Italy",
+      "Uruguay"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15015,
+    "categoryId": "sports",
+    "question": "In which sport is a 'birdie' scored?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Cricket",
+      "Golf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15016,
+    "categoryId": "sports",
+    "question": "What is the length of a standard Olympic swimming pool?",
+    "options": [
+      "25m",
+      "40m",
+      "50m",
+      "100m"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15017,
+    "categoryId": "sports",
+    "question": "Which country has won the most Cricket World Cup titles?",
+    "options": [
+      "India",
+      "West Indies",
+      "Sri Lanka",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15018,
+    "categoryId": "sports",
+    "question": "In basketball, how many points is a shot worth from beyond the arc?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15019,
+    "categoryId": "sports",
+    "question": "What is the name of the most prestigious horse race held in the UK?",
+    "options": [
+      "Kentucky Derby",
+      "Cheltenham Gold Cup",
+      "Grand National",
+      "Royal Ascot Gold Cup"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15020,
+    "categoryId": "sports",
+    "question": "Which country hosts the Australian Open tennis Grand Slam?",
+    "options": [
+      "New Zealand",
+      "UK",
+      "USA",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15021,
+    "categoryId": "sports",
+    "question": "How long is a standard marathon in kilometers?",
+    "options": [
+      "40km",
+      "41km",
+      "42.195km",
+      "43km"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15022,
+    "categoryId": "sports",
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Ronaldo (R9)",
+      "Lionel Messi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15023,
+    "categoryId": "sports",
+    "question": "In which sport do you perform a 'slam dunk'?",
+    "options": [
+      "Volleyball",
+      "Handball",
+      "Water Polo",
+      "Basketball"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15024,
+    "categoryId": "sports",
+    "question": "What is the name of the chess piece that can only move diagonally?",
+    "options": [
+      "Rook",
+      "Knight",
+      "Queen",
+      "Bishop"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15025,
+    "categoryId": "sports",
+    "question": "Which country has won the most Olympic medals in history?",
+    "options": [
+      "China",
+      "Great Britain",
+      "Soviet Union",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15026,
+    "categoryId": "sports",
+    "question": "In football (soccer), what is the distance from the penalty spot to the goal line?",
+    "options": [
+      "10 yards",
+      "11 yards",
+      "12 yards",
+      "16 yards"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15027,
+    "categoryId": "sports",
+    "question": "Which swimmer holds the record for the most Olympic gold medals?",
+    "options": [
+      "Ian Thorpe",
+      "Mark Spitz",
+      "Ryan Lochte",
+      "Michael Phelps"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15028,
+    "categoryId": "sports",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "American Football",
+      "Ice Hockey"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15029,
+    "categoryId": "sports",
+    "question": "What is the maximum score in a single game of bowling?",
+    "options": [
+      "280",
+      "290",
+      "300",
+      "310"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15030,
+    "categoryId": "sports",
+    "question": "Which country invented the game of cricket?",
+    "options": [
+      "Australia",
+      "India",
+      "South Africa",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15031,
+    "categoryId": "sports",
+    "question": "In which event did Jesse Owens win four gold medals at the 1936 Olympics?",
+    "options": [
+      "Swimming",
+      "Cycling",
+      "Gymnastics",
+      "Athletics (Track and Field)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15032,
+    "categoryId": "sports",
+    "question": "How many holes are on a standard golf course?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15033,
+    "categoryId": "sports",
+    "question": "What is the name of the annual cycling race covering 3,400km across France?",
+    "options": [
+      "Giro d'Italia",
+      "Vuelta a Espa\u00f1a",
+      "Paris-Roubaix",
+      "Tour de France"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15034,
+    "categoryId": "sports",
+    "question": "In which sport do players use a shuttlecock?",
+    "options": [
+      "Squash",
+      "Table Tennis",
+      "Racquetball",
+      "Badminton"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15035,
+    "categoryId": "sports",
+    "question": "Which team has won the most Super Bowl titles?",
+    "options": [
+      "San Francisco 49ers",
+      "Dallas Cowboys",
+      "Pittsburgh Steelers",
+      "New England Patriots"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15036,
+    "categoryId": "sports",
+    "question": "What is the name of the governing body of world football (soccer)?",
+    "options": [
+      "UEFA",
+      "AFC",
+      "CONMEBOL",
+      "FIFA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15037,
+    "categoryId": "sports",
+    "question": "In which sport is the 'butterfly stroke' used?",
+    "options": [
+      "Water Polo",
+      "Diving",
+      "Synchronized Swimming",
+      "Swimming"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15038,
+    "categoryId": "sports",
+    "question": "Which country has won the most Rugby World Cup titles?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15039,
+    "categoryId": "sports",
+    "question": "How many sets does a player need to win a Grand Slam tennis match (men's)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15040,
+    "categoryId": "sports",
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": [
+      "Paris",
+      "London",
+      "Rome",
+      "Athens"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15041,
+    "categoryId": "sports",
+    "question": "Which boxer was known as 'The Greatest'?",
+    "options": [
+      "Joe Frazier",
+      "George Foreman",
+      "Sugar Ray Robinson",
+      "Muhammad Ali"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15042,
+    "categoryId": "sports",
+    "question": "In baseball, how many strikes are needed to strike out a batter?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15043,
+    "categoryId": "sports",
+    "question": "What is the name of the world's oldest tennis tournament?",
+    "options": [
+      "US Open",
+      "French Open",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15044,
+    "categoryId": "sports",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Argentina",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15045,
+    "categoryId": "sports",
+    "question": "In which sport is a 'checkmate' the winning move?",
+    "options": [
+      "Draughts",
+      "Go",
+      "Backgammon",
+      "Chess"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15046,
+    "categoryId": "sports",
+    "question": "How many players are on a standard volleyball team?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15047,
+    "categoryId": "sports",
+    "question": "What is the name of the fastest serve ever recorded in professional tennis?",
+    "options": [
+      "Sam Groth",
+      "John Isner",
+      "Ivo Karlovic",
+      "Andy Roddick"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15048,
+    "categoryId": "sports",
+    "question": "In which sport do athletes compete in the decathlon?",
+    "options": [
+      "Swimming",
+      "Gymnastics",
+      "Cycling",
+      "Athletics (Track and Field)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15049,
+    "categoryId": "sports",
+    "question": "Which country won the most gold medals at the 2020 Tokyo Olympics?",
+    "options": [
+      "China",
+      "Great Britain",
+      "Russia",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15050,
+    "categoryId": "sports",
+    "question": "In cricket, what is the maximum number of overs in a One Day International (ODI)?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15051,
+    "categoryId": "sports",
+    "question": "Which driver has won the most Formula 1 World Championships?",
+    "options": [
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Lewis Hamilton"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15052,
+    "categoryId": "sports",
+    "question": "In which sport is the Ryder Cup competed?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Horse Racing",
+      "Golf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15053,
+    "categoryId": "sports",
+    "question": "How many rings are on the Olympic flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15054,
+    "categoryId": "sports",
+    "question": "Which country has hosted the most Summer Olympic Games?",
+    "options": [
+      "France",
+      "Germany",
+      "Australia",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15055,
+    "categoryId": "sports",
+    "question": "What is the name of the shot in tennis played just after the bounce?",
+    "options": [
+      "Volley",
+      "Smash",
+      "Lob",
+      "Half-volley"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15056,
+    "categoryId": "sports",
+    "question": "In which sport is the Ashes series contested?",
+    "options": [
+      "Rugby",
+      "Football",
+      "Hockey",
+      "Cricket"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15057,
+    "categoryId": "sports",
+    "question": "What is the name of the football tournament held between South American nations?",
+    "options": [
+      "Gold Cup",
+      "African Cup of Nations",
+      "UEFA Nations League",
+      "Copa Am\u00e9rica"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15058,
+    "categoryId": "sports",
+    "question": "Which sport uses the term 'love' to mean zero?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Ping Pong",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15059,
+    "categoryId": "sports",
+    "question": "Who won the most Grand Slam titles in tennis (women)?",
+    "options": [
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Venus Williams",
+      "Serena Williams"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15060,
+    "categoryId": "sports",
+    "question": "In American football, how many points is a touchdown worth?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15061,
+    "categoryId": "sports",
+    "question": "Which country invented the sport of judo?",
+    "options": [
+      "China",
+      "Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15062,
+    "categoryId": "sports",
+    "question": "What is the name of the move in wrestling where you pin both shoulders of an opponent to the mat?",
+    "options": [
+      "Submission",
+      "Takedown",
+      "Reversal",
+      "Fall/Pin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15063,
+    "categoryId": "sports",
+    "question": "In which sport is the 'breaststroke' a recognized style?",
+    "options": [
+      "Rowing",
+      "Water Polo",
+      "Diving",
+      "Swimming"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15064,
+    "categoryId": "sports",
+    "question": "What is the maximum weight of a golf ball in grams?",
+    "options": [
+      "43.18g",
+      "44.18g",
+      "45.93g",
+      "46.93g"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15065,
+    "categoryId": "sports",
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "options": [
+      "UAE",
+      "Saudi Arabia",
+      "Bahrain",
+      "Qatar"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15066,
+    "categoryId": "sports",
+    "question": "In which sport do players hit a puck with a stick?",
+    "options": [
+      "Field Hockey",
+      "Lacrosse",
+      "Polo",
+      "Ice Hockey"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15067,
+    "categoryId": "sports",
+    "question": "What is the name of the knockout stage in the UEFA Champions League before the quarterfinals?",
+    "options": [
+      "Last 32",
+      "Group Stage",
+      "Round of 16",
+      "Last 48"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15068,
+    "categoryId": "sports",
+    "question": "How many minutes is a standard half of football (soccer)?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "60"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15069,
+    "categoryId": "sports",
+    "question": "Which country has won the most Olympic medals in gymnastics?",
+    "options": [
+      "China",
+      "Japan",
+      "Romania",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15070,
+    "categoryId": "sports",
+    "question": "What is the name of the famous cycling climb in France known as 'The Giant of Provence'?",
+    "options": [
+      "Col du Galibier",
+      "Alpe d'Huez",
+      "Col du Tourmalet",
+      "Mont Ventoux"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15071,
+    "categoryId": "sports",
+    "question": "In cricket, what does LBW stand for?",
+    "options": [
+      "Left Before Wicket",
+      "Leg Before Wicket",
+      "Line Before Wicket",
+      "Late Ball Wide"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15072,
+    "categoryId": "sports",
+    "question": "Which sport uses the term 'deuce'?",
+    "options": [
+      "Table Tennis",
+      "Badminton",
+      "Squash",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15073,
+    "categoryId": "sports",
+    "question": "Who is known as the 'fastest man on earth'?",
+    "options": [
+      "Carl Lewis",
+      "Asafa Powell",
+      "Yohan Blake",
+      "Usain Bolt"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15074,
+    "categoryId": "sports",
+    "question": "Which sport features the 'Tour de France'?",
+    "options": [
+      "Triathlon",
+      "Running",
+      "Swimming",
+      "Cycling"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15075,
+    "categoryId": "sports",
+    "question": "How many events are there in the modern pentathlon?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15076,
+    "categoryId": "sports",
+    "question": "Which country won the inaugural T20 Cricket World Cup in 2007?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "Sri Lanka",
+      "India"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15077,
+    "categoryId": "sports",
+    "question": "In which sport can you score a 'try'?",
+    "options": [
+      "Field Hockey",
+      "American Football",
+      "Australian Rules Football",
+      "Rugby"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15078,
+    "categoryId": "sports",
+    "question": "What is the name of the line that a sprinter must not cross before the gun in a race?",
+    "options": [
+      "Starting Gate",
+      "False Start Line",
+      "Starting Block",
+      "Start Line"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15079,
+    "categoryId": "sports",
+    "question": "Which country has produced the most Tour de France winners?",
+    "options": [
+      "Belgium",
+      "Italy",
+      "Spain",
+      "France"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15080,
+    "categoryId": "sports",
+    "question": "In which sport is a 'hat trick' most commonly associated with three goals in a game?",
+    "options": [
+      "Basketball",
+      "Rugby",
+      "Cricket",
+      "Football (Soccer)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15081,
+    "categoryId": "sports",
+    "question": "What is the maximum number of players allowed on a baseball team's active roster?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "30"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15082,
+    "categoryId": "sports",
+    "question": "In which sport is a 'clean jerk' a recognized lift?",
+    "options": [
+      "Powerlifting",
+      "Bodybuilding",
+      "Crossfit",
+      "Weightlifting"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15083,
+    "categoryId": "sports",
+    "question": "What does WBC stand for in boxing?",
+    "options": [
+      "World Boxing Championship",
+      "World Boxing Council",
+      "World Boxing Commission",
+      "World Boxing Conference"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15084,
+    "categoryId": "sports",
+    "question": "Which country invented table tennis?",
+    "options": [
+      "China",
+      "Japan",
+      "USA",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15085,
+    "categoryId": "sports",
+    "question": "In which sport is the 'half-pipe' used?",
+    "options": [
+      "Skateboarding",
+      "Cycling",
+      "Both Skateboarding and Snowboarding",
+      "Snowboarding"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15086,
+    "categoryId": "sports",
+    "question": "How many Grand Slam tournaments are played in a year in tennis?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15087,
+    "categoryId": "sports",
+    "question": "Which country has won the most medals in Olympic swimming?",
+    "options": [
+      "Australia",
+      "Russia",
+      "China",
+      "USA"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15088,
+    "categoryId": "sports",
+    "question": "What is the name of the fencing move where you thrust your sword at an opponent?",
+    "options": [
+      "Parry",
+      "Riposte",
+      "Feint",
+      "Lunge"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15089,
+    "categoryId": "sports",
+    "question": "Which city has hosted the Summer Olympics most times?",
+    "options": [
+      "Paris",
+      "Athens",
+      "Tokyo",
+      "London"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15090,
+    "categoryId": "sports",
+    "question": "In boxing, how many rounds are in a standard professional world title fight?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15091,
+    "categoryId": "sports",
+    "question": "Which sport features the 'Ironman Triathlon'?",
+    "options": [
+      "Biathlon",
+      "Heptathlon",
+      "Pentathlon",
+      "Triathlon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15092,
+    "categoryId": "sports",
+    "question": "In which sport is the Triple Crown awarded for winning three specific races?",
+    "options": [
+      "Athletics",
+      "Cycling",
+      "Motor Racing",
+      "Horse Racing"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15093,
+    "categoryId": "sports",
+    "question": "What is the name of the penalty in hockey where a player is removed from the game temporarily?",
+    "options": [
+      "Yellow Card",
+      "Red Card",
+      "Sin Bin",
+      "Time Out"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15094,
+    "categoryId": "sports",
+    "question": "How many points does the innermost ring score in archery?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15095,
+    "categoryId": "sports",
+    "question": "Which country invented the sport of polo?",
+    "options": [
+      "England",
+      "Argentina",
+      "China",
+      "Persia (Iran)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15096,
+    "categoryId": "sports",
+    "question": "What is the name of the shot in badminton hit right at the net that drops steeply?",
+    "options": [
+      "Smash",
+      "Drop Shot",
+      "Clear",
+      "Net Shot"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15097,
+    "categoryId": "sports",
+    "question": "In which sport is the 'Queensberry Rules' associated?",
+    "options": [
+      "Wrestling",
+      "Kickboxing",
+      "MMA",
+      "Boxing"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15098,
+    "categoryId": "sports",
+    "question": "Which country has won the most medals in the Commonwealth Games overall?",
+    "options": [
+      "India",
+      "Canada",
+      "England",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15099,
+    "categoryId": "sports",
+    "question": "In football (soccer), what is the name of the foul when a player slides into an opponent from behind?",
+    "options": [
+      "Yellow Card Offense",
+      "Red Card Offense",
+      "Dangerous Play",
+      "Tackle from Behind"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15100,
+    "categoryId": "sports",
+    "question": "What is the name of the annual Super Bowl halftime show's host network in the USA?",
+    "options": [
+      "ABC",
+      "CBS",
+      "NBC",
+      "Fox/CBS/NBC (rotates)"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  }
+]

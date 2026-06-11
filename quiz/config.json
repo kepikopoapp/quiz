@@ -1,0 +1,60 @@
+{
+  "configVersion": 1,
+  "categories": [
+    {
+      "id": "science",
+      "name": "Science",
+      "colorHex": "#4CAF50",
+      "version": 1,
+      "questionFile": "questions_science.json",
+      "unlock": {
+        "free": true
+      }
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "colorHex": "#FF9800",
+      "version": 1,
+      "questionFile": "questions_history.json",
+      "unlock": {
+        "level": 5,
+        "coins": 500,
+        "ads": 2
+      }
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "colorHex": "#2196F3",
+      "version": 1,
+      "questionFile": "questions_geography.json",
+      "unlock": {
+        "level": 10,
+        "coins": 1200,
+        "ads": 3
+      }
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "colorHex": "#9C27B0",
+      "version": 1,
+      "questionFile": "questions_technology.json",
+      "unlock": {
+        "level": 8,
+        "coins": 800
+      }
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "colorHex": "#F44336",
+      "version": 1,
+      "questionFile": "questions_sports.json",
+      "unlock": {
+        "ads": 5
+      }
+    }
+  ]
+}

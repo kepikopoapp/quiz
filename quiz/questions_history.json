@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 2001,
+    "categoryId": "history",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2002,
+    "categoryId": "history",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2003,
+    "categoryId": "history",
+    "question": "Who built the Great Wall of China?",
+    "options": [
+      "Mongols",
+      "Japanese",
+      "Chinese",
+      "Koreans"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2004,
+    "categoryId": "history",
+    "question": "Which country did Christopher Columbus sail for?",
+    "options": [
+      "Portugal",
+      "England",
+      "France",
+      "Spain"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2005,
+    "categoryId": "history",
+    "question": "What ancient wonder was located in Alexandria?",
+    "options": [
+      "Colosseum",
+      "Library",
+      "Lighthouse",
+      "Pyramid"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2006,
+    "categoryId": "history",
+    "question": "Who was the Egyptian queen famous for her alliance with Julius Caesar?",
+    "options": [
+      "Nefertiti",
+      "Cleopatra",
+      "Hatshepsut",
+      "Isis"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2007,
+    "categoryId": "history",
+    "question": "In which city was the Titanic built?",
+    "options": [
+      "London",
+      "Liverpool",
+      "Belfast",
+      "Glasgow"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2008,
+    "categoryId": "history",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Greek",
+      "Ottoman",
+      "Roman",
+      "Persian"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2009,
+    "categoryId": "history",
+    "question": "What year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2010,
+    "categoryId": "history",
+    "question": "Which country invented paper?",
+    "options": [
+      "Egypt",
+      "India",
+      "China",
+      "Greece"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2011,
+    "categoryId": "history",
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2012,
+    "categoryId": "history",
+    "question": "In what year did India gain independence?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first man in space?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "John Glenn",
+      "Yuri Gagarin"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2013,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which war was fought between the North and South USA?",
+    "options": [
+      "Revolutionary War",
+      "Civil War",
+      "War of 1812",
+      "Spanish-American War"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2014,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was known as the Iron Lady?",
+    "options": [
+      "Angela Merkel",
+      "Hillary Clinton",
+      "Indira Gandhi",
+      "Margaret Thatcher"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2015,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "When did the Roman Empire fall in the West?",
+    "options": [
+      "376 AD",
+      "410 AD",
+      "476 AD",
+      "550 AD"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2016,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": [
+      "Amerigo Vespucci",
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Ferdinand Magellan"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2017,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which pharaoh is associated with the golden death mask?",
+    "options": [
+      "Ramesses II",
+      "Akhenaten",
+      "Tutankhamun",
+      "Cleopatra"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2018,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the first moon landing mission?",
+    "options": [
+      "Apollo 10",
+      "Apollo 11",
+      "Apollo 12",
+      "Apollo 13"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2019,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which explorer first sailed around the world?",
+    "options": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Francis Drake"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2020,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which year did World War I end?",
+    "options": [
+      "1916",
+      "1917",
+      "1918",
+      "1919"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2021,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country built the Colosseum?",
+    "options": [
+      "Greece",
+      "Egypt",
+      "Rome",
+      "Persia"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2022,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was Abraham Lincoln?",
+    "options": [
+      "General",
+      "16th US President",
+      "Senator",
+      "Governor"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2023,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which civilisation invented the wheel?",
+    "options": [
+      "Egyptian",
+      "Greek",
+      "Sumerian",
+      "Chinese"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2024,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What event started World War I?",
+    "options": [
+      "Invasion of Poland",
+      "Assassination of Archduke Franz Ferdinand",
+      "Sinking of Lusitania",
+      "Fall of Constantinople"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2025,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which emperor built the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2026,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the Cold War between?",
+    "options": [
+      "USA and China",
+      "NATO and Warsaw Pact",
+      "UK and France",
+      "USA and USSR"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2027,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was Julius Caesar's ally who betrayed him?",
+    "options": [
+      "Pompey",
+      "Antony",
+      "Brutus",
+      "Cassius"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2028,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which war ended with the Treaty of Versailles?",
+    "options": [
+      "WW2",
+      "WW1",
+      "Korean War",
+      "Napoleonic Wars"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2029,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of Martin Luther King Jr.'s famous speech?",
+    "options": [
+      "We Shall Overcome",
+      "I Have a Dream",
+      "Letter from Birmingham",
+      "Freedom Now"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2030,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Queen Victoria",
+      "Liz Truss"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2031,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country did the Renaissance begin?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "Germany"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2032,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which city was divided by a wall from 1961 to 1989?",
+    "options": [
+      "Vienna",
+      "Warsaw",
+      "Berlin",
+      "Prague"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2033,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who wrote the Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2034,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the main cause of the sinking of the Titanic?",
+    "options": [
+      "Fire",
+      "Storm",
+      "Iceberg",
+      "Mechanical failure"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2035,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was formerly known as Persia?",
+    "options": [
+      "Iraq",
+      "Turkey",
+      "Iran",
+      "Afghanistan"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2036,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the leader of Nazi Germany?",
+    "options": [
+      "Mussolini",
+      "Stalin",
+      "Hitler",
+      "Franco"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2037,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which year did man first land on the Moon?",
+    "options": [
+      "1965",
+      "1967",
+      "1969",
+      "1971"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2038,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was Nelson Mandela from?",
+    "options": [
+      "Kenya",
+      "Zimbabwe",
+      "Nigeria",
+      "South Africa"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2039,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the ancient Egyptian writing system?",
+    "options": [
+      "Cuneiform",
+      "Hieroglyphics",
+      "Sanskrit",
+      "Runic"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2040,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": [
+      "UK",
+      "Spain",
+      "Italy",
+      "France"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2041,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first to use the printing press in Europe?",
+    "options": [
+      "Martin Luther",
+      "Leonardo da Vinci",
+      "Johannes Gutenberg",
+      "Francis Bacon"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2042,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the last tsar of Russia?",
+    "options": [
+      "Alexander III",
+      "Nicholas I",
+      "Nicholas II",
+      "Alexander II"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2043,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was apartheid?",
+    "options": [
+      "A type of government",
+      "A racial segregation policy",
+      "A religious movement",
+      "An economic system"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2044,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which year did the USA gain independence?",
+    "options": [
+      "1774",
+      "1775",
+      "1776",
+      "1777"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2045,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the ancient trade route between China and Europe?",
+    "options": [
+      "Spice Route",
+      "Silk Road",
+      "Gold Road",
+      "Trade Wind Route"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2046,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What language did the ancient Romans speak?",
+    "options": [
+      "Greek",
+      "Italian",
+      "Latin",
+      "Etruscan"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2047,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who built the Eiffel Tower?",
+    "options": [
+      "Haussmann",
+      "Viollet-le-Duc",
+      "Gustave Eiffel",
+      "Louis Pasteur"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2048,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country colonised Australia?",
+    "options": [
+      "France",
+      "Spain",
+      "Netherlands",
+      "Britain"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2049,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first person to reach the South Pole?",
+    "options": [
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Edmund Hillary"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2050,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the original name of New York City?",
+    "options": [
+      "New Amsterdam",
+      "Fort Orange",
+      "New England",
+      "Hudson"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 2051,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Pratibha Patil",
+      "Indira Gandhi",
+      "Sonia Gandhi"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2052,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country invented gunpowder?",
+    "options": [
+      "India",
+      "Arabia",
+      "China",
+      "Persia"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2053,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which Greek philosopher was Plato's teacher?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Heraclitus"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2054,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What empire did Alexander the Great rule?",
+    "options": [
+      "Persian Empire",
+      "Macedonian Empire",
+      "Greek Empire",
+      "Byzantine Empire"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2055,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "When was the first World Cup football tournament held?",
+    "options": [
+      "1926",
+      "1928",
+      "1930",
+      "1934"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2056,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was Albert Einstein from?",
+    "options": [
+      "Austria",
+      "Switzerland",
+      "Germany",
+      "Hungary"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2057,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In what year was the Great Fire of London?",
+    "options": [
+      "1564",
+      "1666",
+      "1769",
+      "1812"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2058,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which scientist discovered penicillin?",
+    "options": [
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2059,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What year did the Cold War end?",
+    "options": [
+      "1985",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2060,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country did World War II begin?",
+    "options": [
+      "France",
+      "Poland",
+      "Austria",
+      "Germany"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2061,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was the first to send a woman into space?",
+    "options": [
+      "USA",
+      "China",
+      "USSR",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2062,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the ship that brought the Pilgrims to America?",
+    "options": [
+      "Santa Maria",
+      "Pinta",
+      "Mayflower",
+      "Discovery"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2063,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which ancient civilisation built Stonehenge?",
+    "options": [
+      "Romans",
+      "Vikings",
+      "Ancient Britons",
+      "Celts"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2064,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during WWII?",
+    "options": [
+      "Lenin",
+      "Khrushchev",
+      "Stalin",
+      "Brezhnev"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2065,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the famous plague that hit Europe in the 14th century?",
+    "options": [
+      "Red Death",
+      "White Plague",
+      "Black Death",
+      "Great Mortality"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2066,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which city was Julius Caesar assassinated?",
+    "options": [
+      "Athens",
+      "Carthage",
+      "Alexandria",
+      "Rome"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2067,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2068,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What ancient wonder was located in Giza?",
+    "options": [
+      "Lighthouse",
+      "Hanging Gardens",
+      "Great Pyramid",
+      "Colossus"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2069,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was Napoleon from?",
+    "options": [
+      "France (born Corsica)",
+      "Italy",
+      "Spain",
+      "Belgium"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 2070,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the first artificial satellite in space?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Sputnik 1",
+      "Luna 1"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2071,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who founded the Mongol Empire?",
+    "options": [
+      "Kublai Khan",
+      "Timur",
+      "Genghis Khan",
+      "Attila"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2072,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country colonised India for nearly 200 years?",
+    "options": [
+      "France",
+      "Portugal",
+      "Netherlands",
+      "Britain"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2073,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was Mahatma Gandhi?",
+    "options": [
+      "Indian freedom fighter",
+      "Indian emperor",
+      "Pakistani leader",
+      "Sri Lankan politician"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 2074,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the first nuclear bomb dropped on Japan?",
+    "options": [
+      "Fat Man",
+      "Big Boy",
+      "Little Boy",
+      "Thin Man"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2075,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which African leader was imprisoned for 27 years?",
+    "options": [
+      "Kwame Nkrumah",
+      "Julius Nyerere",
+      "Nelson Mandela",
+      "Jomo Kenyatta"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2076,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In what century did Christopher Columbus sail to America?",
+    "options": [
+      "14th",
+      "15th",
+      "16th",
+      "17th"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2077,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of Britain's first female monarch to reign long?",
+    "options": [
+      "Mary I",
+      "Elizabeth I",
+      "Anne",
+      "Victoria"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2078,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which city was the capital of the Roman Empire?",
+    "options": [
+      "Athens",
+      "Carthage",
+      "Rome",
+      "Constantinople"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2079,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first President of the USA after independence?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2080,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which war did the USA fight in the 1960s\u201370s in Southeast Asia?",
+    "options": [
+      "Korean War",
+      "Gulf War",
+      "Vietnam War",
+      "Cold War"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2081,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which year did India gain independence from Britain?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2082,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country built the Great Wall of China?",
+    "options": [
+      "Mongols",
+      "Japanese",
+      "Chinese",
+      "Koreans"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2083,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2084,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the Roman arena called where gladiators fought?",
+    "options": [
+      "Forum",
+      "Pantheon",
+      "Colosseum",
+      "Circus Maximus"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2085,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which explorer was the first European to reach India by sea?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Amerigo Vespucci"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2086,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the system of government in ancient Athens?",
+    "options": [
+      "Monarchy",
+      "Oligarchy",
+      "Democracy",
+      "Theocracy"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2087,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country was Joan of Arc from?",
+    "options": [
+      "England",
+      "Spain",
+      "Italy",
+      "France"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 2088,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What was the name of the first man to orbit the Earth?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Alan Shepard"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2089,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which century did the Industrial Revolution begin?",
+    "options": [
+      "16th",
+      "17th",
+      "18th",
+      "19th"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2090,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country did Hitler invade first to start WW2?",
+    "options": [
+      "France",
+      "Poland",
+      "Czechoslovakia",
+      "Austria"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2091,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the famous queen of ancient Egypt who allied with Julius Caesar?",
+    "options": [
+      "Nefertiti",
+      "Cleopatra",
+      "Hatshepsut",
+      "Isis"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2092,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the document that limited royal power in England in 1215?",
+    "options": [
+      "Bill of Rights",
+      "Magna Carta",
+      "Habeas Corpus",
+      "Domesday Book"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2093,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was the first to use paper money?",
+    "options": [
+      "India",
+      "Egypt",
+      "China",
+      "Greece"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2094,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Who was the first President of the Republic of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Sardar Patel",
+      "B.R. Ambedkar"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2095,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What event caused the USA to join World War II?",
+    "options": [
+      "Invasion of France",
+      "Attack on Pearl Harbor",
+      "Sinking of Lusitania",
+      "Bombing of London"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 2096,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "options": [
+      "Ottoman Empire",
+      "Roman Empire",
+      "Mongol Empire",
+      "Persian Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 2097,
+    "categoryId": "history",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2098,
+    "categoryId": "history",
+    "question": "Which country was the first to land on the Moon?",
+    "options": [
+      "USSR",
+      "China",
+      "USA",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2099,
+    "categoryId": "history",
+    "question": "Who was the famous nurse in the Crimean War?",
+    "options": [
+      "Marie Curie",
+      "Florence Nightingale",
+      "Clara Barton",
+      "Edith Cavell"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2100,
+    "categoryId": "history",
+    "question": "Which civilisation built the pyramids?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Egyptian",
+      "Mesopotamian"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 7001,
+    "categoryId": "history",
+    "question": "What year did the French Revolution begin?",
+    "options": [
+      "1776",
+      "1789",
+      "1799",
+      "1804"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7002,
+    "categoryId": "history",
+    "question": "Which ancient civilization built Machu Picchu?",
+    "options": [
+      "Aztec",
+      "Mayan",
+      "Inca",
+      "Olmec"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7003,
+    "categoryId": "history",
+    "question": "Who wrote 'The Communist Manifesto'?",
+    "options": [
+      "Lenin",
+      "Stalin",
+      "Marx and Engels",
+      "Trotsky"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7004,
+    "categoryId": "history",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1912",
+      "1913",
+      "1914",
+      "1915"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7005,
+    "categoryId": "history",
+    "question": "Which country was first to give women the right to vote?",
+    "options": [
+      "USA",
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7006,
+    "categoryId": "history",
+    "question": "Who was the first man to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7007,
+    "categoryId": "history",
+    "question": "Which empire was the largest in history by land area?",
+    "options": [
+      "Roman Empire",
+      "British Empire",
+      "Mongol Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7008,
+    "categoryId": "history",
+    "question": "What was the name of the ship Charles Darwin sailed on?",
+    "options": [
+      "HMS Victory",
+      "HMS Beagle",
+      "HMS Endeavour",
+      "HMS Discovery"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7009,
+    "categoryId": "history",
+    "question": "In which country did the Industrial Revolution begin?",
+    "options": [
+      "France",
+      "Germany",
+      "USA",
+      "England"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7010,
+    "categoryId": "history",
+    "question": "Who was the first Emperor of China?",
+    "options": [
+      "Kublai Khan",
+      "Genghis Khan",
+      "Qin Shi Huang",
+      "Yongle Emperor"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7011,
+    "categoryId": "history",
+    "question": "Which battle ended Napoleon's rule?",
+    "options": [
+      "Battle of Trafalgar",
+      "Battle of Leipzig",
+      "Battle of Waterloo",
+      "Battle of Austerlitz"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7012,
+    "categoryId": "history",
+    "question": "What was the name of the first artificial satellite in space?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Sputnik 1",
+      "Luna 1"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7013,
+    "categoryId": "history",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "George Washington"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7014,
+    "categoryId": "history",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7015,
+    "categoryId": "history",
+    "question": "Who was the leader of Nazi Germany?",
+    "options": [
+      "Hermann G\u00f6ring",
+      "Heinrich Himmler",
+      "Joseph Goebbels",
+      "Adolf Hitler"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7016,
+    "categoryId": "history",
+    "question": "Which country launched Sputnik 1?",
+    "options": [
+      "USA",
+      "Germany",
+      "Soviet Union",
+      "China"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7017,
+    "categoryId": "history",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7018,
+    "categoryId": "history",
+    "question": "In which year did India gain independence?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7019,
+    "categoryId": "history",
+    "question": "Which civilization built the Great Pyramid of Giza?",
+    "options": [
+      "Nubian",
+      "Mesopotamian",
+      "Ancient Egyptian",
+      "Ancient Greek"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7020,
+    "categoryId": "history",
+    "question": "Who discovered America in 1492?",
+    "options": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Amerigo Vespucci"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7021,
+    "categoryId": "history",
+    "question": "Which war was fought between the North and South in America?",
+    "options": [
+      "Revolutionary War",
+      "War of 1812",
+      "Civil War",
+      "Mexican-American War"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7022,
+    "categoryId": "history",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Lise Meitner",
+      "Dorothy Hodgkin"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7023,
+    "categoryId": "history",
+    "question": "Which city was the capital of the Roman Empire?",
+    "options": [
+      "Athens",
+      "Constantinople",
+      "Alexandria",
+      "Rome"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7024,
+    "categoryId": "history",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7025,
+    "categoryId": "history",
+    "question": "Who invented the printing press?",
+    "options": [
+      "Leonardo da Vinci",
+      "Johannes Gutenberg",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7026,
+    "categoryId": "history",
+    "question": "Which country did Napoleon Bonaparte come from?",
+    "options": [
+      "France",
+      "Italy",
+      "Corsica",
+      "Spain"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7027,
+    "categoryId": "history",
+    "question": "Who was the last Tsar of Russia?",
+    "options": [
+      "Alexander III",
+      "Nicholas I",
+      "Alexander II",
+      "Nicholas II"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7028,
+    "categoryId": "history",
+    "question": "Which document declared independence for the USA?",
+    "options": [
+      "Constitution",
+      "Bill of Rights",
+      "Declaration of Independence",
+      "Emancipation Proclamation"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7029,
+    "categoryId": "history",
+    "question": "Who was the founder of the Mughal Empire?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Babur",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7030,
+    "categoryId": "history",
+    "question": "Which ancient wonder was located in Alexandria?",
+    "options": [
+      "Colossus of Rhodes",
+      "Lighthouse of Alexandria",
+      "Hanging Gardens",
+      "Temple of Artemis"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7031,
+    "categoryId": "history",
+    "question": "Who built the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7032,
+    "categoryId": "history",
+    "question": "In which year was the United Nations founded?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7033,
+    "categoryId": "history",
+    "question": "Who led the Haitian Revolution?",
+    "options": [
+      "Simon Bolivar",
+      "Toussaint Louverture",
+      "Jean-Jacques Dessalines",
+      "Henri Christophe"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7034,
+    "categoryId": "history",
+    "question": "Which country was formerly known as Persia?",
+    "options": [
+      "Iraq",
+      "Afghanistan",
+      "Iran",
+      "Turkey"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7035,
+    "categoryId": "history",
+    "question": "Who was Nelson Mandela?",
+    "options": [
+      "First President of Nigeria",
+      "First President of Kenya",
+      "Anti-apartheid leader and President of South Africa",
+      "Founder of Zimbabwe"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7036,
+    "categoryId": "history",
+    "question": "In which year was the Magna Carta signed?",
+    "options": [
+      "1205",
+      "1215",
+      "1225",
+      "1235"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7037,
+    "categoryId": "history",
+    "question": "Who was the first person to circumnavigate the globe?",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Francis Drake"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7038,
+    "categoryId": "history",
+    "question": "Which country colonized India before independence?",
+    "options": [
+      "France",
+      "Portugal",
+      "Netherlands",
+      "Britain"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7039,
+    "categoryId": "history",
+    "question": "Who was the Egyptian queen allied with Julius Caesar and Mark Antony?",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra",
+      "Berenice"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7040,
+    "categoryId": "history",
+    "question": "Which war was fought between 1950 and 1953 in Asia?",
+    "options": [
+      "Vietnam War",
+      "Korean War",
+      "Sino-Japanese War",
+      "Gulf War"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7041,
+    "categoryId": "history",
+    "question": "Who was the leader of the Cuban Revolution?",
+    "options": [
+      "Che Guevara",
+      "Fidel Castro",
+      "Raul Castro",
+      "Camilo Cienfuegos"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7042,
+    "categoryId": "history",
+    "question": "In which year did the Cold War officially end?",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7043,
+    "categoryId": "history",
+    "question": "Which ancient philosopher taught Alexander the Great?",
+    "options": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7044,
+    "categoryId": "history",
+    "question": "What was the name of the plan to rebuild Europe after WW2?",
+    "options": [
+      "Truman Doctrine",
+      "Marshall Plan",
+      "Lend-Lease",
+      "NATO Plan"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7045,
+    "categoryId": "history",
+    "question": "Who was the first woman Prime Minister of the UK?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Barbara Castle",
+      "Shirley Williams"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7046,
+    "categoryId": "history",
+    "question": "Which Japanese city was bombed first in 1945?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Hiroshima",
+      "Nagasaki"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7047,
+    "categoryId": "history",
+    "question": "Who was the real name of Genghis Khan?",
+    "options": [
+      "Timur",
+      "Temujin",
+      "Ogedei",
+      "Chagatai"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7048,
+    "categoryId": "history",
+    "question": "Which European country colonized Brazil?",
+    "options": [
+      "Spain",
+      "France",
+      "England",
+      "Portugal"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7049,
+    "categoryId": "history",
+    "question": "Who was the founder of Pakistan?",
+    "options": [
+      "Liaquat Ali Khan",
+      "Muhammad Iqbal",
+      "Muhammad Ali Jinnah",
+      "Ayub Khan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7050,
+    "categoryId": "history",
+    "question": "Which battle is considered the turning point of WW2 on the Eastern Front?",
+    "options": [
+      "Battle of Kursk",
+      "Battle of Moscow",
+      "Battle of Stalingrad",
+      "Battle of Berlin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7051,
+    "categoryId": "history",
+    "question": "In which year was NATO founded?",
+    "options": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7052,
+    "categoryId": "history",
+    "question": "Which empire was known as the 'Sick Man of Europe'?",
+    "options": [
+      "Austro-Hungarian Empire",
+      "Russian Empire",
+      "Ottoman Empire",
+      "Holy Roman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7053,
+    "categoryId": "history",
+    "question": "Who wrote 'The Art of War'?",
+    "options": [
+      "Confucius",
+      "Lao Tzu",
+      "Sun Tzu",
+      "Mencius"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7054,
+    "categoryId": "history",
+    "question": "In which year did the Vietnam War officially end?",
+    "options": [
+      "1973",
+      "1974",
+      "1975",
+      "1976"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7055,
+    "categoryId": "history",
+    "question": "Which king of England signed the Magna Carta?",
+    "options": [
+      "Richard I",
+      "Henry II",
+      "King John",
+      "Edward I"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7056,
+    "categoryId": "history",
+    "question": "Which ship sank on its maiden voyage in 1912?",
+    "options": [
+      "Lusitania",
+      "Britannic",
+      "Olympic",
+      "Titanic"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7057,
+    "categoryId": "history",
+    "question": "Who was the first person to reach the South Pole?",
+    "options": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Richard Byrd"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7058,
+    "categoryId": "history",
+    "question": "Which country introduced apartheid as official policy?",
+    "options": [
+      "Zimbabwe",
+      "Namibia",
+      "Kenya",
+      "South Africa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7059,
+    "categoryId": "history",
+    "question": "Who was the first democratically elected President of Russia?",
+    "options": [
+      "Mikhail Gorbachev",
+      "Boris Yeltsin",
+      "Vladimir Putin",
+      "Leonid Brezhnev"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7060,
+    "categoryId": "history",
+    "question": "In which year was the Eiffel Tower built?",
+    "options": [
+      "1887",
+      "1888",
+      "1889",
+      "1890"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7061,
+    "categoryId": "history",
+    "question": "Who was the founder of the Republic of Turkey?",
+    "options": [
+      "Ismet Inonu",
+      "Mustafa Kemal Atat\u00fcrk",
+      "Celal Bayar",
+      "Adnan Menderes"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7062,
+    "categoryId": "history",
+    "question": "Which ancient trade route connected East and West?",
+    "options": [
+      "Amber Route",
+      "Spice Route",
+      "Silk Road",
+      "Trans-Saharan Route"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7063,
+    "categoryId": "history",
+    "question": "Who was the first female Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Sonia Gandhi",
+      "Pratibha Patil",
+      "Indira Gandhi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7064,
+    "categoryId": "history",
+    "question": "Which country was never colonized in Africa?",
+    "options": [
+      "Liberia",
+      "South Africa",
+      "Ethiopia",
+      "Ghana"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7065,
+    "categoryId": "history",
+    "question": "What was the name of the nuclear disaster in Ukraine in 1986?",
+    "options": [
+      "Three Mile Island",
+      "Fukushima",
+      "Chernobyl",
+      "Windscale"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7066,
+    "categoryId": "history",
+    "question": "Who was the last King of France before the Revolution?",
+    "options": [
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI",
+      "Napoleon I"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7067,
+    "categoryId": "history",
+    "question": "In which city was the Declaration of Independence signed?",
+    "options": [
+      "Boston",
+      "New York",
+      "Washington D.C.",
+      "Philadelphia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7068,
+    "categoryId": "history",
+    "question": "Who led India's independence movement through non-violence?",
+    "options": [
+      "Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7069,
+    "categoryId": "history",
+    "question": "Which ancient city was buried by Mount Vesuvius?",
+    "options": [
+      "Rome",
+      "Athens",
+      "Pompeii",
+      "Carthage"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7070,
+    "categoryId": "history",
+    "question": "Which country hosted the 2008 Summer Olympics?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Australia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7071,
+    "categoryId": "history",
+    "question": "Who was the first African American President of the USA?",
+    "options": [
+      "Jesse Jackson",
+      "Colin Powell",
+      "Barack Obama",
+      "Al Sharpton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7072,
+    "categoryId": "history",
+    "question": "Which country was formerly known as the Gold Coast?",
+    "options": [
+      "Nigeria",
+      "Ivory Coast",
+      "Ghana",
+      "Senegal"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7073,
+    "categoryId": "history",
+    "question": "In which year did Nelson Mandela become President of South Africa?",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7074,
+    "categoryId": "history",
+    "question": "Who was the king of England during the American Revolution?",
+    "options": [
+      "George I",
+      "George II",
+      "George III",
+      "George IV"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7075,
+    "categoryId": "history",
+    "question": "Which war was triggered by the assassination of Archduke Franz Ferdinand?",
+    "options": [
+      "World War II",
+      "Crimean War",
+      "World War I",
+      "Balkan Wars"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7076,
+    "categoryId": "history",
+    "question": "Who was the first Emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Mark Antony",
+      "Augustus Caesar",
+      "Tiberius"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7077,
+    "categoryId": "history",
+    "question": "Which civilization developed the first writing system?",
+    "options": [
+      "Egyptian",
+      "Sumerian",
+      "Indus Valley",
+      "Chinese"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7078,
+    "categoryId": "history",
+    "question": "Which country was first to industrialize?",
+    "options": [
+      "France",
+      "Germany",
+      "USA",
+      "Great Britain"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7079,
+    "categoryId": "history",
+    "question": "In which year did World War II begin?",
+    "options": [
+      "1937",
+      "1938",
+      "1939",
+      "1940"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7080,
+    "categoryId": "history",
+    "question": "Who was the founder of the Ottoman Empire?",
+    "options": [
+      "Suleiman",
+      "Mehmed II",
+      "Osman I",
+      "Selim I"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7081,
+    "categoryId": "history",
+    "question": "What was the Cold War primarily between?",
+    "options": [
+      "USA and China",
+      "USA and Germany",
+      "USA and Soviet Union",
+      "USA and Cuba"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7082,
+    "categoryId": "history",
+    "question": "Who built the Palace of Versailles?",
+    "options": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Francis I"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7083,
+    "categoryId": "history",
+    "question": "Which country did the Gulf War of 1991 primarily involve?",
+    "options": [
+      "Iran",
+      "Afghanistan",
+      "Kuwait",
+      "Iraq"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7084,
+    "categoryId": "history",
+    "question": "In which year was the League of Nations founded?",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7085,
+    "categoryId": "history",
+    "question": "Who was the first person to fly solo across the Atlantic?",
+    "options": [
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Charles Lindbergh",
+      "Wiley Post"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7086,
+    "categoryId": "history",
+    "question": "In which year did the Korean War begin?",
+    "options": [
+      "1948",
+      "1949",
+      "1950",
+      "1951"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7087,
+    "categoryId": "history",
+    "question": "Which empire conquered Constantinople in 1453?",
+    "options": [
+      "Mongol Empire",
+      "Arab Caliphate",
+      "Ottoman Empire",
+      "Persian Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7088,
+    "categoryId": "history",
+    "question": "What was the name of the economic depression that started in 1929?",
+    "options": [
+      "Black Tuesday",
+      "The Big Crash",
+      "The Great Depression",
+      "The Financial Collapse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7089,
+    "categoryId": "history",
+    "question": "Who was the main leader of the Soviet Union during WW2?",
+    "options": [
+      "Lenin",
+      "Khrushchev",
+      "Stalin",
+      "Brezhnev"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7090,
+    "categoryId": "history",
+    "question": "In which year was the Great Wall of China mostly completed?",
+    "options": [
+      "200 BC",
+      "100 BC",
+      "1400s AD",
+      "1600s AD"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7091,
+    "categoryId": "history",
+    "question": "Who discovered the sea route to India from Europe?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7092,
+    "categoryId": "history",
+    "question": "Which country was the first to abolish slavery?",
+    "options": [
+      "UK",
+      "France",
+      "Haiti",
+      "USA"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7093,
+    "categoryId": "history",
+    "question": "Who was the last pharaoh of Egypt?",
+    "options": [
+      "Nefertiti",
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Berenice IV"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7094,
+    "categoryId": "history",
+    "question": "Which dynasty ruled China for the longest period?",
+    "options": [
+      "Tang Dynasty",
+      "Ming Dynasty",
+      "Zhou Dynasty",
+      "Han Dynasty"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7095,
+    "categoryId": "history",
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7096,
+    "categoryId": "history",
+    "question": "Which battle did the Duke of Wellington win against Napoleon?",
+    "options": [
+      "Battle of Trafalgar",
+      "Battle of Leipzig",
+      "Battle of Waterloo",
+      "Battle of Austerlitz"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7097,
+    "categoryId": "history",
+    "question": "In which year did the Russian Revolution take place?",
+    "options": [
+      "1915",
+      "1916",
+      "1917",
+      "1918"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7098,
+    "categoryId": "history",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Jacqueline Cochran",
+      "Bessie Coleman",
+      "Amelia Earhart",
+      "Amy Johnson"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7099,
+    "categoryId": "history",
+    "question": "Which treaty ended World War I?",
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Vienna",
+      "Treaty of Versailles",
+      "Treaty of Brest-Litovsk"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 7100,
+    "categoryId": "history",
+    "question": "Who were the Allies in World War II?",
+    "options": [
+      "Germany, Italy, Japan",
+      "USA, UK, USSR, France",
+      "USA, Japan, Australia",
+      "UK, Italy, France"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 12001,
+    "categoryId": "history",
+    "question": "Which treaty ended the Thirty Years' War in 1648?",
+    "options": [
+      "Treaty of Utrecht",
+      "Peace of Westphalia",
+      "Treaty of Augsburg",
+      "Treaty of Paris"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12002,
+    "categoryId": "history",
+    "question": "Who was the Byzantine Emperor when Constantinople fell in 1453?",
+    "options": [
+      "John VIII Palaiologos",
+      "Constantine XI Palaiologos",
+      "Manuel II Palaiologos",
+      "Andronikos III"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12003,
+    "categoryId": "history",
+    "question": "What was the name of the code used by Germany in WW2 that was cracked at Bletchley Park?",
+    "options": [
+      "Lorenz",
+      "Enigma",
+      "Colossus",
+      "Purple"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12004,
+    "categoryId": "history",
+    "question": "Which Chinese dynasty built the Grand Canal?",
+    "options": [
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Sui Dynasty",
+      "Song Dynasty"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12005,
+    "categoryId": "history",
+    "question": "What was the real name of Genghis Khan?",
+    "options": [
+      "Timur",
+      "Temujin",
+      "Ogedei",
+      "Chagatai"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12006,
+    "categoryId": "history",
+    "question": "In what year was the Magna Carta signed?",
+    "options": [
+      "1205",
+      "1215",
+      "1225",
+      "1235"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12007,
+    "categoryId": "history",
+    "question": "Who was the last pharaoh of ancient Egypt?",
+    "options": [
+      "Nefertiti",
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Berenice IV"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12008,
+    "categoryId": "history",
+    "question": "Which philosopher taught Alexander the Great?",
+    "options": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12009,
+    "categoryId": "history",
+    "question": "What was the name of the first stock exchange in the world?",
+    "options": [
+      "London Stock Exchange",
+      "Amsterdam Stock Exchange",
+      "New York Stock Exchange",
+      "Paris Bourse"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12010,
+    "categoryId": "history",
+    "question": "Which empire was known as 'The Sick Man of Europe' in the 19th century?",
+    "options": [
+      "Austro-Hungarian Empire",
+      "Russian Empire",
+      "Ottoman Empire",
+      "Holy Roman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12011,
+    "categoryId": "history",
+    "question": "Who led the Haitian Revolution making Haiti the first Black republic?",
+    "options": [
+      "Simon Bolivar",
+      "Toussaint Louverture",
+      "Jean-Jacques Dessalines",
+      "Henri Christophe"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12012,
+    "categoryId": "history",
+    "question": "What was the name of the Roman Senate decree that gave Julius Caesar dictator perpetuo status?",
+    "options": [
+      "Lex Titia",
+      "Senatus Consultum",
+      "Dictator Perpetuo Decree",
+      "Lex Julia"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12013,
+    "categoryId": "history",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1912",
+      "1913",
+      "1914",
+      "1915"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12014,
+    "categoryId": "history",
+    "question": "Who was the first Emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Mark Antony",
+      "Augustus Caesar",
+      "Tiberius"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12015,
+    "categoryId": "history",
+    "question": "Which civilization built Machu Picchu?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Olmec",
+      "Inca"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12016,
+    "categoryId": "history",
+    "question": "In what year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12017,
+    "categoryId": "history",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Barbara Castle",
+      "Shirley Williams"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12018,
+    "categoryId": "history",
+    "question": "Which empire was the largest contiguous land empire in history?",
+    "options": [
+      "British Empire",
+      "Roman Empire",
+      "Mongol Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12019,
+    "categoryId": "history",
+    "question": "Who wrote 'The Art of War'?",
+    "options": [
+      "Confucius",
+      "Lao Tzu",
+      "Sun Tzu",
+      "Mencius"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12020,
+    "categoryId": "history",
+    "question": "What was the name of the ship that sank on its maiden voyage in 1912?",
+    "options": [
+      "Lusitania",
+      "Britannic",
+      "Olympic",
+      "Titanic"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12021,
+    "categoryId": "history",
+    "question": "Which country was the first to grant women the right to vote?",
+    "options": [
+      "Australia",
+      "Finland",
+      "New Zealand",
+      "United Kingdom"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12022,
+    "categoryId": "history",
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "Neil Armstrong"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12023,
+    "categoryId": "history",
+    "question": "Which ancient wonder of the world was located in Alexandria, Egypt?",
+    "options": [
+      "Colossus of Rhodes",
+      "Lighthouse of Alexandria",
+      "Hanging Gardens",
+      "Temple of Artemis"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12024,
+    "categoryId": "history",
+    "question": "Who was the founder of the Mughal Empire?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Babur",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12025,
+    "categoryId": "history",
+    "question": "In which year did the French Revolution begin?",
+    "options": [
+      "1787",
+      "1788",
+      "1789",
+      "1790"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12026,
+    "categoryId": "history",
+    "question": "Who was the last Tsar of Russia?",
+    "options": [
+      "Alexander III",
+      "Nicholas I",
+      "Alexander II",
+      "Nicholas II"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12027,
+    "categoryId": "history",
+    "question": "Which country did Napoleon Bonaparte come from originally?",
+    "options": [
+      "France",
+      "Italy",
+      "Corsica",
+      "Spain"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12028,
+    "categoryId": "history",
+    "question": "What was the name of the first nuclear bomb dropped on Japan in 1945?",
+    "options": [
+      "Fat Man",
+      "Little Boy",
+      "Trinity",
+      "Gadget"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12029,
+    "categoryId": "history",
+    "question": "Which Roman general crossed the Rubicon river in 49 BC?",
+    "options": [
+      "Pompey",
+      "Crassus",
+      "Julius Caesar",
+      "Mark Antony"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12030,
+    "categoryId": "history",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "George Washington"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12031,
+    "categoryId": "history",
+    "question": "Which battle is considered the turning point of World War II on the Eastern Front?",
+    "options": [
+      "Battle of Kursk",
+      "Battle of Moscow",
+      "Battle of Stalingrad",
+      "Battle of Berlin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12032,
+    "categoryId": "history",
+    "question": "Who was the first Emperor of China?",
+    "options": [
+      "Han Gaozu",
+      "Qin Shi Huang",
+      "Tang Taizong",
+      "Wu Zetian"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12033,
+    "categoryId": "history",
+    "question": "In which year did India gain independence from British rule?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12034,
+    "categoryId": "history",
+    "question": "Which ancient civilization developed the first writing system?",
+    "options": [
+      "Egyptian",
+      "Sumerian",
+      "Indus Valley",
+      "Chinese"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12035,
+    "categoryId": "history",
+    "question": "Who assassinated Archduke Franz Ferdinand triggering World War I?",
+    "options": [
+      "Gavrilo Princip",
+      "Dragutin Dimitrijevi\u0107",
+      "Danilo Ili\u0107",
+      "Nedeljko \u010cabrinovi\u0107"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12036,
+    "categoryId": "history",
+    "question": "Which country launched the first artificial satellite, Sputnik 1?",
+    "options": [
+      "USA",
+      "Germany",
+      "Soviet Union",
+      "China"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12037,
+    "categoryId": "history",
+    "question": "Who was the first African American President of the United States?",
+    "options": [
+      "Jesse Jackson",
+      "Colin Powell",
+      "Barack Obama",
+      "Al Sharpton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12038,
+    "categoryId": "history",
+    "question": "Which empire built the Colosseum in Rome?",
+    "options": [
+      "Greek Empire",
+      "Byzantine Empire",
+      "Roman Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12039,
+    "categoryId": "history",
+    "question": "In which year did the Cold War officially end?",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12040,
+    "categoryId": "history",
+    "question": "Who was the leader of the Cuban Revolution?",
+    "options": [
+      "Che Guevara",
+      "Fidel Castro",
+      "Raul Castro",
+      "Camilo Cienfuegos"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12041,
+    "categoryId": "history",
+    "question": "Which dynasty ruled China for the longest period?",
+    "options": [
+      "Tang Dynasty",
+      "Ming Dynasty",
+      "Zhou Dynasty",
+      "Han Dynasty"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12042,
+    "categoryId": "history",
+    "question": "In which city was the Declaration of Independence signed?",
+    "options": [
+      "Boston",
+      "New York",
+      "Washington D.C.",
+      "Philadelphia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12043,
+    "categoryId": "history",
+    "question": "Who was the founder of the Ottoman Empire?",
+    "options": [
+      "Suleiman the Magnificent",
+      "Mehmed II",
+      "Osman I",
+      "Selim I"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12044,
+    "categoryId": "history",
+    "question": "Which war was fought between North and South Korea?",
+    "options": [
+      "Vietnam War",
+      "Korean War",
+      "Pacific War",
+      "Sino-Korean War"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12045,
+    "categoryId": "history",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Lise Meitner",
+      "Dorothy Hodgkin"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12046,
+    "categoryId": "history",
+    "question": "In which year did Nelson Mandela become President of South Africa?",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12047,
+    "categoryId": "history",
+    "question": "Which emperor built the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12048,
+    "categoryId": "history",
+    "question": "Who was the last King of France?",
+    "options": [
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI",
+      "Napoleon III"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12049,
+    "categoryId": "history",
+    "question": "Which civilization built the Great Pyramid of Giza?",
+    "options": [
+      "Nubian",
+      "Mesopotamian",
+      "Ancient Egyptian",
+      "Ancient Greek"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12050,
+    "categoryId": "history",
+    "question": "In which year did Christopher Columbus first reach the Americas?",
+    "options": [
+      "1490",
+      "1491",
+      "1492",
+      "1493"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12051,
+    "categoryId": "history",
+    "question": "Which country was formerly known as Persia?",
+    "options": [
+      "Iraq",
+      "Afghanistan",
+      "Iran",
+      "Turkey"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12052,
+    "categoryId": "history",
+    "question": "Who invented the printing press in Europe?",
+    "options": [
+      "Leonardo da Vinci",
+      "Johannes Gutenberg",
+      "Francis Bacon",
+      "Galileo Galilei"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12053,
+    "categoryId": "history",
+    "question": "Which European country colonized Brazil?",
+    "options": [
+      "Spain",
+      "France",
+      "England",
+      "Portugal"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12054,
+    "categoryId": "history",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12055,
+    "categoryId": "history",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12056,
+    "categoryId": "history",
+    "question": "Which African country was never colonized by a European power?",
+    "options": [
+      "Liberia",
+      "South Africa",
+      "Ethiopia",
+      "Ghana"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12057,
+    "categoryId": "history",
+    "question": "Who was the first person to sail around the world?",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Francis Drake"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12058,
+    "categoryId": "history",
+    "question": "In which year was the United Nations founded?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12059,
+    "categoryId": "history",
+    "question": "Who was the leader of Nazi Germany?",
+    "options": [
+      "Hermann G\u00f6ring",
+      "Heinrich Himmler",
+      "Joseph Goebbels",
+      "Adolf Hitler"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12060,
+    "categoryId": "history",
+    "question": "Which battle ended Napoleon's rule in 1815?",
+    "options": [
+      "Battle of Austerlitz",
+      "Battle of Leipzig",
+      "Battle of Trafalgar",
+      "Battle of Waterloo"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12061,
+    "categoryId": "history",
+    "question": "What was the name of the economic plan to rebuild Europe after World War II?",
+    "options": [
+      "Truman Doctrine",
+      "Marshall Plan",
+      "Lend-Lease Act",
+      "Bretton Woods Agreement"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12062,
+    "categoryId": "history",
+    "question": "Who was the founder of Pakistan?",
+    "options": [
+      "Liaquat Ali Khan",
+      "Muhammad Iqbal",
+      "Muhammad Ali Jinnah",
+      "Ayub Khan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12063,
+    "categoryId": "history",
+    "question": "In which year was the Great Wall of China first built?",
+    "options": [
+      "5th century BC",
+      "4th century BC",
+      "3rd century BC",
+      "2nd century BC"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12064,
+    "categoryId": "history",
+    "question": "Which country introduced apartheid as official policy?",
+    "options": [
+      "Zimbabwe",
+      "Namibia",
+      "Kenya",
+      "South Africa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12065,
+    "categoryId": "history",
+    "question": "Who was the king of England during the American Revolution?",
+    "options": [
+      "George I",
+      "George II",
+      "George III",
+      "George IV"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12066,
+    "categoryId": "history",
+    "question": "Which empire was defeated in the Battle of Thermopylae?",
+    "options": [
+      "Roman Empire",
+      "Macedonian Empire",
+      "Persian Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12067,
+    "categoryId": "history",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Jacqueline Cochran",
+      "Bessie Coleman",
+      "Amelia Earhart",
+      "Amy Johnson"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12068,
+    "categoryId": "history",
+    "question": "In which city did the 1917 Russian Revolution begin?",
+    "options": [
+      "Moscow",
+      "Kiev",
+      "Petrograd (St. Petersburg)",
+      "Minsk"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12069,
+    "categoryId": "history",
+    "question": "Which explorer is credited with discovering Australia?",
+    "options": [
+      "James Cook",
+      "Abel Tasman",
+      "Willem Janszoon",
+      "Matthew Flinders"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12070,
+    "categoryId": "history",
+    "question": "What was the name of the alliance between Germany, Italy and Japan in WW2?",
+    "options": [
+      "Allied Powers",
+      "Central Powers",
+      "Axis Powers",
+      "Triple Entente"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12071,
+    "categoryId": "history",
+    "question": "Who was the founder of the Mongol Empire?",
+    "options": [
+      "Kublai Khan",
+      "\u00d6gedei Khan",
+      "Genghis Khan",
+      "Timur"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12072,
+    "categoryId": "history",
+    "question": "In which year did the American Civil War end?",
+    "options": [
+      "1863",
+      "1864",
+      "1865",
+      "1866"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12073,
+    "categoryId": "history",
+    "question": "Which country was formerly known as the Gold Coast?",
+    "options": [
+      "Nigeria",
+      "Ivory Coast",
+      "Ghana",
+      "Senegal"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12074,
+    "categoryId": "history",
+    "question": "Who was the first Secretary-General of the United Nations?",
+    "options": [
+      "Dag Hammarskj\u00f6ld",
+      "Trygve Lie",
+      "U Thant",
+      "Kurt Waldheim"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12075,
+    "categoryId": "history",
+    "question": "Which battle is considered the greatest victory of Alexander the Great?",
+    "options": [
+      "Battle of Granicus",
+      "Battle of Issus",
+      "Battle of Gaugamela",
+      "Battle of Hydaspes"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12076,
+    "categoryId": "history",
+    "question": "What was the name of the trade network connecting East and West during ancient times?",
+    "options": [
+      "Amber Route",
+      "Spice Route",
+      "Silk Road",
+      "Trans-Saharan Route"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12077,
+    "categoryId": "history",
+    "question": "Which Japanese city was the first to be hit by an atomic bomb?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Hiroshima",
+      "Nagasaki"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12078,
+    "categoryId": "history",
+    "question": "Who was the first person to reach the South Pole?",
+    "options": [
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Roald Amundsen",
+      "Richard Byrd"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12079,
+    "categoryId": "history",
+    "question": "In which year was the Eiffel Tower built?",
+    "options": [
+      "1887",
+      "1888",
+      "1889",
+      "1890"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12080,
+    "categoryId": "history",
+    "question": "Which country did the United States fight in the Gulf War of 1991?",
+    "options": [
+      "Iran",
+      "Afghanistan",
+      "Kuwait",
+      "Iraq"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12081,
+    "categoryId": "history",
+    "question": "Who was the first woman to become Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Sonia Gandhi",
+      "Pratibha Patil",
+      "Indira Gandhi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12082,
+    "categoryId": "history",
+    "question": "Which ancient city was buried by the eruption of Mount Vesuvius?",
+    "options": [
+      "Herculaneum",
+      "Pompeii",
+      "Stabiae",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12083,
+    "categoryId": "history",
+    "question": "In which year was NATO founded?",
+    "options": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12084,
+    "categoryId": "history",
+    "question": "Who built the Palace of Versailles?",
+    "options": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Francis I"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12085,
+    "categoryId": "history",
+    "question": "Which country was the first to industrialize?",
+    "options": [
+      "France",
+      "Germany",
+      "USA",
+      "Great Britain"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12086,
+    "categoryId": "history",
+    "question": "Who led the Indian independence movement through non-violence?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12087,
+    "categoryId": "history",
+    "question": "What was the name of the first democratic constitution in history?",
+    "options": [
+      "Code of Hammurabi",
+      "Athenian Constitution",
+      "Roman Twelve Tables",
+      "Magna Carta"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12088,
+    "categoryId": "history",
+    "question": "In which country did the Boxer Rebellion take place?",
+    "options": [
+      "Japan",
+      "Korea",
+      "China",
+      "Vietnam"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12089,
+    "categoryId": "history",
+    "question": "Who was the first person to circumnavigate the globe solo?",
+    "options": [
+      "Francis Drake",
+      "Joshua Slocum",
+      "Robin Knox-Johnston",
+      "Ferdinand Magellan"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12090,
+    "categoryId": "history",
+    "question": "Which empire was divided into Eastern and Western parts in 285 AD?",
+    "options": [
+      "Greek Empire",
+      "Persian Empire",
+      "Roman Empire",
+      "Byzantine Empire"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12091,
+    "categoryId": "history",
+    "question": "Who was the leader of South Africa's anti-apartheid movement who spent 27 years in prison?",
+    "options": [
+      "Desmond Tutu",
+      "Steve Biko",
+      "Walter Sisulu",
+      "Nelson Mandela"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12092,
+    "categoryId": "history",
+    "question": "In which year did the Korean War begin?",
+    "options": [
+      "1948",
+      "1949",
+      "1950",
+      "1951"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12093,
+    "categoryId": "history",
+    "question": "Which king signed the Magna Carta?",
+    "options": [
+      "Richard I",
+      "Henry II",
+      "King John",
+      "Edward I"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12094,
+    "categoryId": "history",
+    "question": "What was the name of the voyage that brought the Pilgrims to America in 1620?",
+    "options": [
+      "Santa Maria",
+      "Endeavour",
+      "Mayflower",
+      "Pinta"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12095,
+    "categoryId": "history",
+    "question": "Which country did Hitler annex in 1938 in what was known as the 'Anschluss'?",
+    "options": [
+      "Czechoslovakia",
+      "Poland",
+      "Austria",
+      "Hungary"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12096,
+    "categoryId": "history",
+    "question": "Who was the founder of the Republic of Turkey?",
+    "options": [
+      "Ismet Inonu",
+      "Mustafa Kemal Atat\u00fcrk",
+      "Celal Bayar",
+      "Adnan Menderes"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12097,
+    "categoryId": "history",
+    "question": "In which year was the League of Nations founded?",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12098,
+    "categoryId": "history",
+    "question": "Which ancient Egyptian pharaoh is known for building the Abu Simbel temples?",
+    "options": [
+      "Tutankhamun",
+      "Akhenaten",
+      "Ramesses II",
+      "Thutmose III"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12099,
+    "categoryId": "history",
+    "question": "Who was the first democratically elected President of Russia?",
+    "options": [
+      "Mikhail Gorbachev",
+      "Boris Yeltsin",
+      "Vladimir Putin",
+      "Leonid Brezhnev"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12100,
+    "categoryId": "history",
+    "question": "In which year did the Vietnam War officially end?",
+    "options": [
+      "1973",
+      "1974",
+      "1975",
+      "1976"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  }
+]

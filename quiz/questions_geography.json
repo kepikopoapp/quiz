@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 3001,
+    "categoryId": "geography",
+    "question": "What is the capital of France?",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3002,
+    "categoryId": "geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3003,
+    "categoryId": "geography",
+    "question": "Which continent is the largest by area?",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3004,
+    "categoryId": "geography",
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon",
+      "Yangtze",
+      "Nile",
+      "Mississippi"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3005,
+    "categoryId": "geography",
+    "question": "Which country has the most natural lakes?",
+    "options": [
+      "Russia",
+      "USA",
+      "Canada",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3006,
+    "categoryId": "geography",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Osaka",
+      "Kyoto",
+      "Tokyo",
+      "Hiroshima"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3007,
+    "categoryId": "geography",
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Arabian",
+      "Antarctic"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3008,
+    "categoryId": "geography",
+    "question": "On which continent is Egypt located?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Middle East"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3009,
+    "categoryId": "geography",
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3010,
+    "categoryId": "geography",
+    "question": "Which country is home to the Amazon rainforest (majority)?",
+    "options": [
+      "Colombia",
+      "Peru",
+      "Venezuela",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3011,
+    "categoryId": "geography",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3012,
+    "categoryId": "geography",
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Berlin"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3013,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is the largest in the world by area?",
+    "options": [
+      "Canada",
+      "China",
+      "USA",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3014,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Venice",
+      "Florence",
+      "Rome"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3015,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which mountain is the highest in the world?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3016,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3017,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "options": [
+      "Danube",
+      "Rhine",
+      "Volga",
+      "Thames"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3018,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest country in South America?",
+    "options": [
+      "Argentina",
+      "Colombia",
+      "Peru",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3019,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Shanghai",
+      "Hong Kong",
+      "Beijing",
+      "Guangzhou"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3020,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3021,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3022,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of the USA?",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Washington D.C.",
+      "Chicago"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3023,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has the shape of a boot?",
+    "options": [
+      "Greece",
+      "Portugal",
+      "Spain",
+      "Italy"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3024,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Victoria",
+      "Lake Chad"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3025,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Novosibirsk",
+      "Moscow",
+      "Volgograd"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3026,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which ocean lies between Europe and America?",
+    "options": [
+      "Pacific",
+      "Indian",
+      "Arctic",
+      "Atlantic"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3027,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "options": [
+      "Edinburgh",
+      "Manchester",
+      "Birmingham",
+      "London"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3028,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is also a continent?",
+    "options": [
+      "Greenland",
+      "New Zealand",
+      "Australia",
+      "Iceland"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3029,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has the most islands?",
+    "options": [
+      "Norway",
+      "Indonesia",
+      "Philippines",
+      "Sweden"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3030,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Luxor",
+      "Aswan",
+      "Cairo"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3031,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "Korea",
+      "Japan",
+      "Vietnam"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3032,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3033,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which river flows through London?",
+    "options": [
+      "Severn",
+      "Avon",
+      "Thames",
+      "Mersey"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3034,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest city in Australia?",
+    "options": [
+      "Canberra",
+      "Melbourne",
+      "Brisbane",
+      "Sydney"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3035,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancun",
+      "Mexico City"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3036,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is famous for the fjords?",
+    "options": [
+      "Sweden",
+      "Denmark",
+      "Finland",
+      "Norway"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3037,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has the highest population density?",
+    "options": [
+      "Japan",
+      "India",
+      "Bangladesh",
+      "South Korea"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3038,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Daegu",
+      "Seoul"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3039,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Bursa"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3040,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the longest mountain range in the world?",
+    "options": [
+      "Himalayas",
+      "Rocky Mountains",
+      "Alps",
+      "Andes"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3041,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": [
+      "Australia",
+      "Borneo",
+      "Greenland",
+      "Madagascar"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3042,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "S\u00e3o Paulo",
+      "Santiago",
+      "Lima",
+      "Buenos Aires"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3043,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3044,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": [
+      "Thessaloniki",
+      "Corfu",
+      "Athens",
+      "Crete"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3045,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is famous for tulips and windmills?",
+    "options": [
+      "Belgium",
+      "Denmark",
+      "Sweden",
+      "Netherlands"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3046,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Kano",
+      "Abuja",
+      "Ibadan"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3047,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest country in Europe by area?",
+    "options": [
+      "France",
+      "Ukraine",
+      "Kazakhstan",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3048,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country is Mount Fuji located?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "North Korea"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3049,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "options": [
+      "Spanish",
+      "French",
+      "Portuguese",
+      "English"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3050,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "New Zealand",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3051,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Mecca",
+      "Medina",
+      "Jeddah",
+      "Riyadh"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3052,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Nairobi",
+      "Kisumu",
+      "Eldoret"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 3053,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": [
+      "Bergen",
+      "Stavanger",
+      "Trondheim",
+      "Oslo"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3054,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is home to the ancient city of Petra?",
+    "options": [
+      "Israel",
+      "Lebanon",
+      "Jordan",
+      "Syria"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3055,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Malm\u00f6",
+      "Uppsala",
+      "Stockholm"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3056,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country is the city of Istanbul?",
+    "options": [
+      "Greece",
+      "Bulgaria",
+      "Cyprus",
+      "Turkey"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3057,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the largest rain forest in the world?",
+    "options": [
+      "Congo Rainforest",
+      "Daintree Rainforest",
+      "Amazon Rainforest",
+      "Borneo Rainforest"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3058,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": [
+      "Porto",
+      "Coimbra",
+      "Braga",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3059,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has the most coastline?",
+    "options": [
+      "Norway",
+      "Australia",
+      "Indonesia",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3060,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which ocean is Hawaii located?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3061,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Phuket",
+      "Chiang Mai",
+      "Pattaya",
+      "Bangkok"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3062,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is Chernobyl located in?",
+    "options": [
+      "Russia",
+      "Belarus",
+      "Poland",
+      "Ukraine"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3063,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Netherlands?",
+    "options": [
+      "Rotterdam",
+      "The Hague",
+      "Utrecht",
+      "Amsterdam"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3064,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "options": [
+      "Mashhad",
+      "Isfahan",
+      "Shiraz",
+      "Tehran"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3065,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country is Angkor Wat?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Laos",
+      "Cambodia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3066,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "options": [
+      "Krakow",
+      "Gdansk",
+      "Lodz",
+      "Warsaw"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3067,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which ocean is between Africa and Australia?",
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Arctic",
+      "Indian"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3068,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has the flag with the maple leaf?",
+    "options": [
+      "USA",
+      "Australia",
+      "New Zealand",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3069,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Israel?",
+    "options": [
+      "Tel Aviv",
+      "Haifa",
+      "Jerusalem",
+      "Nazareth"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3070,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest freshwater lake in the world?",
+    "options": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Caspian Sea",
+      "Lake Superior"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3071,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Nha Trang",
+      "Hanoi"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3072,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Queenstown"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3073,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has borders with 14 other countries?",
+    "options": [
+      "India",
+      "China",
+      "Russia",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3074,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "options": [
+      "Chittagong",
+      "Khulna",
+      "Dhaka",
+      "Sylhet"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3075,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is made up of over 17,000 islands?",
+    "options": [
+      "Philippines",
+      "Japan",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3076,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "options": [
+      "Salzburg",
+      "Graz",
+      "Innsbruck",
+      "Vienna"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3077,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is home to Petra, the ancient city?",
+    "options": [
+      "Israel",
+      "Syria",
+      "Lebanon",
+      "Jordan"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3078,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "options": [
+      "George Town",
+      "Johor Bahru",
+      "Kuala Lumpur",
+      "Malacca"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3079,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "options": [
+      "Tampere",
+      "Turku",
+      "Espoo",
+      "Helsinki"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3080,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country was formerly known as Ceylon?",
+    "options": [
+      "Myanmar",
+      "Bangladesh",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3081,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country has more sheep than people?",
+    "options": [
+      "Australia",
+      "Iceland",
+      "New Zealand",
+      "Uruguay"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3082,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Romania?",
+    "options": [
+      "Cluj-Napoca",
+      "Timisoara",
+      "Bucharest",
+      "Brasov"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3083,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the longest river in North America?",
+    "options": [
+      "Colorado River",
+      "Yukon River",
+      "Missouri River",
+      "Mississippi River"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3084,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "options": [
+      "Kumasi",
+      "Tamale",
+      "Cape Coast",
+      "Accra"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3085,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the highest mountain in Africa?",
+    "options": [
+      "Mount Kenya",
+      "Mount Rwenzori",
+      "Mount Kilimanjaro",
+      "Atlas Mountains"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3086,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "options": [
+      "Abidjan",
+      "Conakry",
+      "Dakar",
+      "Bamako"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3087,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Bolivia (seat of government)?",
+    "options": [
+      "La Paz",
+      "Cochabamba",
+      "Santa Cruz",
+      "Sucre"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 3088,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Cambodia?",
+    "options": [
+      "Siem Reap",
+      "Battambang",
+      "Phnom Penh",
+      "Sihanoukville"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3089,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Cuba?",
+    "options": [
+      "Santiago de Cuba",
+      "Havana",
+      "Camaguey",
+      "Holguin"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 3090,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is home to the Serengeti National Park?",
+    "options": [
+      "Kenya",
+      "Tanzania",
+      "South Africa",
+      "Botswana"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 3091,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In which country is the Colosseum?",
+    "options": [
+      "Greece",
+      "Turkey",
+      "Spain",
+      "Italy"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3092,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the capital of Ukraine?",
+    "options": [
+      "Lviv",
+      "Odessa",
+      "Kyiv",
+      "Kharkiv"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3093,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the longest river in Asia?",
+    "options": [
+      "Ganges",
+      "Indus",
+      "Yellow River",
+      "Yangtze"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3094,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the official currency of Japan?",
+    "options": [
+      "Won",
+      "Renminbi",
+      "Yen",
+      "Baht"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3095,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which river forms the border between USA and Mexico?",
+    "options": [
+      "Colorado River",
+      "Rio Grande",
+      "Pecos River",
+      "Gila River"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 3096,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the highest waterfall in the world?",
+    "options": [
+      "Niagara Falls",
+      "Iguazu Falls",
+      "Victoria Falls",
+      "Angel Falls"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 3097,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which country is home to the Acropolis?",
+    "options": [
+      "Italy",
+      "Turkey",
+      "Greece",
+      "Cyprus"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 3098,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest city in Africa by population?",
+    "options": [
+      "Cairo",
+      "Lagos",
+      "Johannesburg",
+      "Kinshasa"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 3099,
+    "categoryId": "geography",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3100,
+    "categoryId": "geography",
+    "question": "What is the capital of Iraq?",
+    "options": [
+      "Basra",
+      "Mosul",
+      "Baghdad",
+      "Erbil"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 8001,
+    "categoryId": "geography",
+    "question": "Which country has the most time zones?",
+    "options": [
+      "Russia",
+      "USA",
+      "China",
+      "France"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8002,
+    "categoryId": "geography",
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8003,
+    "categoryId": "geography",
+    "question": "Which river flows through Egypt?",
+    "options": [
+      "Congo",
+      "Niger",
+      "Nile",
+      "Zambezi"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8004,
+    "categoryId": "geography",
+    "question": "What is the highest mountain in Africa?",
+    "options": [
+      "Mount Kenya",
+      "Mount Kilimanjaro",
+      "Mount Rwenzori",
+      "Mount Elgon"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8005,
+    "categoryId": "geography",
+    "question": "Which two countries share the longest border?",
+    "options": [
+      "USA and Mexico",
+      "Russia and China",
+      "USA and Canada",
+      "China and India"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8006,
+    "categoryId": "geography",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "S\u00e3o Paulo",
+      "Salvador",
+      "Bras\u00edlia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8007,
+    "categoryId": "geography",
+    "question": "Which country has the largest population?",
+    "options": [
+      "USA",
+      "China",
+      "India",
+      "Indonesia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8008,
+    "categoryId": "geography",
+    "question": "In which country is the Sahara Desert located (mostly)?",
+    "options": [
+      "Egypt",
+      "Sudan",
+      "Algeria",
+      "Libya"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8009,
+    "categoryId": "geography",
+    "question": "What is the deepest lake in the world?",
+    "options": [
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Baikal",
+      "Lake Victoria"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8010,
+    "categoryId": "geography",
+    "question": "Which ocean is the smallest?",
+    "options": [
+      "Indian",
+      "Atlantic",
+      "Arctic",
+      "Southern"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8011,
+    "categoryId": "geography",
+    "question": "What is the capital of South Africa (seat of government)?",
+    "options": [
+      "Cape Town",
+      "Johannesburg",
+      "Pretoria",
+      "Durban"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8012,
+    "categoryId": "geography",
+    "question": "Which country is both in Europe and Asia?",
+    "options": [
+      "Kazakhstan",
+      "Georgia",
+      "Turkey",
+      "Azerbaijan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8013,
+    "categoryId": "geography",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8014,
+    "categoryId": "geography",
+    "question": "Which is the largest ocean in the world?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8015,
+    "categoryId": "geography",
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon",
+      "Yangtze",
+      "Mississippi",
+      "Nile"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8016,
+    "categoryId": "geography",
+    "question": "Which is the largest country in the world by area?",
+    "options": [
+      "China",
+      "USA",
+      "Canada",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8017,
+    "categoryId": "geography",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Osaka",
+      "Kyoto",
+      "Hiroshima",
+      "Tokyo"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8018,
+    "categoryId": "geography",
+    "question": "Which continent is the largest by area?",
+    "options": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Asia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8019,
+    "categoryId": "geography",
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Vatican City"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8020,
+    "categoryId": "geography",
+    "question": "Which mountain is the highest in the world?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Mount Everest"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8021,
+    "categoryId": "geography",
+    "question": "What is the largest country in Africa by area?",
+    "options": [
+      "Democratic Republic of Congo",
+      "Sudan",
+      "Algeria",
+      "Libya"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8022,
+    "categoryId": "geography",
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Sahara Desert",
+      "Antarctic Desert"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8023,
+    "categoryId": "geography",
+    "question": "What is the capital of China?",
+    "options": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou",
+      "Beijing"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8024,
+    "categoryId": "geography",
+    "question": "Which country has the most islands?",
+    "options": [
+      "Philippines",
+      "Indonesia",
+      "Norway",
+      "Sweden"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8025,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest rainforest?",
+    "options": [
+      "Congo Rainforest",
+      "Amazon Rainforest",
+      "Daintree Rainforest",
+      "Borneo Rainforest"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8026,
+    "categoryId": "geography",
+    "question": "Which country is home to the Amazon River?",
+    "options": [
+      "Colombia",
+      "Peru",
+      "Venezuela",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8027,
+    "categoryId": "geography",
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Berlin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8028,
+    "categoryId": "geography",
+    "question": "Which country has the most natural lakes?",
+    "options": [
+      "Russia",
+      "USA",
+      "Finland",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8029,
+    "categoryId": "geography",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8030,
+    "categoryId": "geography",
+    "question": "Which country is home to Angel Falls, the world's highest waterfall?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8031,
+    "categoryId": "geography",
+    "question": "Which continent has the most countries?",
+    "options": [
+      "Asia",
+      "South America",
+      "Europe",
+      "Africa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8032,
+    "categoryId": "geography",
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Daegu",
+      "Seoul"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8033,
+    "categoryId": "geography",
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": [
+      "Caucasus Mountains",
+      "Alps",
+      "Carpathians",
+      "Ural Mountains"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8034,
+    "categoryId": "geography",
+    "question": "What is the name of the largest island in the world?",
+    "options": [
+      "Borneo",
+      "Madagascar",
+      "Baffin Island",
+      "Greenland"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8035,
+    "categoryId": "geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": [
+      "China",
+      "South Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8036,
+    "categoryId": "geography",
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "S\u00e3o Paulo",
+      "Santiago",
+      "Lima",
+      "Buenos Aires"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8037,
+    "categoryId": "geography",
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8038,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest salt flat?",
+    "options": [
+      "Bonneville Salt Flats",
+      "Chott el Djerid",
+      "Etosha Pan",
+      "Salar de Uyuni"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8039,
+    "categoryId": "geography",
+    "question": "Which country has the highest population in Africa?",
+    "options": [
+      "Ethiopia",
+      "South Africa",
+      "Egypt",
+      "Nigeria"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8040,
+    "categoryId": "geography",
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Novosibirsk",
+      "Kazan",
+      "Moscow"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8041,
+    "categoryId": "geography",
+    "question": "Which country is entirely surrounded by South Africa?",
+    "options": [
+      "Swaziland",
+      "Botswana",
+      "Zimbabwe",
+      "Lesotho"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8042,
+    "categoryId": "geography",
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Luxor",
+      "Aswan",
+      "Cairo"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8043,
+    "categoryId": "geography",
+    "question": "Which is the world's longest mountain range?",
+    "options": [
+      "Himalayas",
+      "Rocky Mountains",
+      "Andes",
+      "Alps"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8044,
+    "categoryId": "geography",
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "New Delhi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8045,
+    "categoryId": "geography",
+    "question": "Which country is home to the world's largest cave, Son Doong?",
+    "options": [
+      "China",
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8046,
+    "categoryId": "geography",
+    "question": "What is the name of the highest navigable lake in the world?",
+    "options": [
+      "Lake Baikal",
+      "Lake Toba",
+      "Lake Tanganyika",
+      "Lake Titicaca"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8047,
+    "categoryId": "geography",
+    "question": "Which country hosts the Great Barrier Reef?",
+    "options": [
+      "New Zealand",
+      "Philippines",
+      "Indonesia",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8048,
+    "categoryId": "geography",
+    "question": "What is the capital of France?",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Toulouse",
+      "Paris"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8049,
+    "categoryId": "geography",
+    "question": "Which is the smallest continent?",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8050,
+    "categoryId": "geography",
+    "question": "What is the capital of Mexico?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Tijuana",
+      "Mexico City"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8051,
+    "categoryId": "geography",
+    "question": "Which sea has no coastline?",
+    "options": [
+      "Caspian Sea",
+      "Sargasso Sea",
+      "Black Sea",
+      "Aral Sea"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8052,
+    "categoryId": "geography",
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Bursa",
+      "Ankara"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8053,
+    "categoryId": "geography",
+    "question": "Which country is home to Mount Everest?",
+    "options": [
+      "India",
+      "Bhutan",
+      "Tibet/Nepal",
+      "China"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8054,
+    "categoryId": "geography",
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Mecca",
+      "Medina",
+      "Riyadh"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8055,
+    "categoryId": "geography",
+    "question": "Which river flows through Paris?",
+    "options": [
+      "Rhine",
+      "Loire",
+      "Rh\u00f4ne",
+      "Seine"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8056,
+    "categoryId": "geography",
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Venice",
+      "Florence",
+      "Rome"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8057,
+    "categoryId": "geography",
+    "question": "Which country is home to the most UNESCO World Heritage Sites?",
+    "options": [
+      "France",
+      "Germany",
+      "Spain",
+      "Italy"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8058,
+    "categoryId": "geography",
+    "question": "What is the name of the peninsula shared by Spain and Portugal?",
+    "options": [
+      "Scandinavian Peninsula",
+      "Apennine Peninsula",
+      "Balkan Peninsula",
+      "Iberian Peninsula"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8059,
+    "categoryId": "geography",
+    "question": "Which city is located on two continents?",
+    "options": [
+      "Moscow",
+      "Cairo",
+      "Istanbul",
+      "Athens"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8060,
+    "categoryId": "geography",
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8061,
+    "categoryId": "geography",
+    "question": "Which country has the most volcanoes?",
+    "options": [
+      "Japan",
+      "Indonesia",
+      "USA",
+      "Chile"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8062,
+    "categoryId": "geography",
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Kano",
+      "Ibadan",
+      "Abuja"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8063,
+    "categoryId": "geography",
+    "question": "Which is the largest lake in Africa?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Victoria",
+      "Lake Chad"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8064,
+    "categoryId": "geography",
+    "question": "What is the capital of the Philippines?",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Quezon City",
+      "Manila"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8065,
+    "categoryId": "geography",
+    "question": "Which country has the largest coastline?",
+    "options": [
+      "Russia",
+      "Australia",
+      "Norway",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8066,
+    "categoryId": "geography",
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Surabaya",
+      "Bandung",
+      "Medan",
+      "Jakarta"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8067,
+    "categoryId": "geography",
+    "question": "Which continent is the coldest?",
+    "options": [
+      "Asia",
+      "North America",
+      "Arctic",
+      "Antarctica"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8068,
+    "categoryId": "geography",
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Peshawar",
+      "Islamabad"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8069,
+    "categoryId": "geography",
+    "question": "Which river flows through London?",
+    "options": [
+      "Severn",
+      "Mersey",
+      "Avon",
+      "Thames"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8070,
+    "categoryId": "geography",
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Kisumu",
+      "Nakuru",
+      "Nairobi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8071,
+    "categoryId": "geography",
+    "question": "Which country is known as 'The Roof of the World'?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Tibet",
+      "Afghanistan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8072,
+    "categoryId": "geography",
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Pattaya",
+      "Bangkok"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8073,
+    "categoryId": "geography",
+    "question": "Which ocean lies between Europe and North America?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8074,
+    "categoryId": "geography",
+    "question": "What is the capital of South Africa's Parliament?",
+    "options": [
+      "Johannesburg",
+      "Pretoria",
+      "Durban",
+      "Cape Town"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8075,
+    "categoryId": "geography",
+    "question": "Which country has the most pyramids in the world?",
+    "options": [
+      "Egypt",
+      "Mexico",
+      "Guatemala",
+      "Sudan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8076,
+    "categoryId": "geography",
+    "question": "What is the capital of Ukraine?",
+    "options": [
+      "Lviv",
+      "Kharkiv",
+      "Odessa",
+      "Kyiv"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8077,
+    "categoryId": "geography",
+    "question": "Which country is home to the Atacama Desert?",
+    "options": [
+      "Argentina",
+      "Bolivia",
+      "Peru",
+      "Chile"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8078,
+    "categoryId": "geography",
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue",
+      "Hanoi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8079,
+    "categoryId": "geography",
+    "question": "Which country is home to the Serengeti National Park?",
+    "options": [
+      "Kenya",
+      "South Africa",
+      "Zimbabwe",
+      "Tanzania"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8080,
+    "categoryId": "geography",
+    "question": "What is the capital of Morocco?",
+    "options": [
+      "Casablanca",
+      "Marrakech",
+      "Fez",
+      "Rabat"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8081,
+    "categoryId": "geography",
+    "question": "Which country has the Gobi Desert?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Iran",
+      "Mongolia/China"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8082,
+    "categoryId": "geography",
+    "question": "What is the capital of Peru?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8083,
+    "categoryId": "geography",
+    "question": "Which country is home to Machu Picchu?",
+    "options": [
+      "Bolivia",
+      "Chile",
+      "Ecuador",
+      "Peru"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8084,
+    "categoryId": "geography",
+    "question": "What is the capital of Ethiopia?",
+    "options": [
+      "Dire Dawa",
+      "Gondar",
+      "Mekelle",
+      "Addis Ababa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8085,
+    "categoryId": "geography",
+    "question": "Which body of water separates Africa from Europe?",
+    "options": [
+      "Red Sea",
+      "Black Sea",
+      "Arabian Sea",
+      "Mediterranean Sea"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8086,
+    "categoryId": "geography",
+    "question": "What is the capital of Brazil's largest state (Amazonas)?",
+    "options": [
+      "Bel\u00e9m",
+      "Santar\u00e9m",
+      "Porto Velho",
+      "Manaus"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8087,
+    "categoryId": "geography",
+    "question": "Which country has the most rivers?",
+    "options": [
+      "China",
+      "USA",
+      "Canada",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8088,
+    "categoryId": "geography",
+    "question": "What is the name of the channel between England and France?",
+    "options": [
+      "North Sea",
+      "Celtic Sea",
+      "Irish Sea",
+      "English Channel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8089,
+    "categoryId": "geography",
+    "question": "Which country has proven the most oil reserves?",
+    "options": [
+      "Saudi Arabia",
+      "Russia",
+      "Iran",
+      "Venezuela"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8090,
+    "categoryId": "geography",
+    "question": "What is the capital of Colombia?",
+    "options": [
+      "Medell\u00edn",
+      "Cali",
+      "Cartagena",
+      "Bogot\u00e1"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8091,
+    "categoryId": "geography",
+    "question": "Which is the least densely populated country?",
+    "options": [
+      "Iceland",
+      "Australia",
+      "Greenland",
+      "Mongolia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8092,
+    "categoryId": "geography",
+    "question": "What is the capital of Iran?",
+    "options": [
+      "Isfahan",
+      "Tabriz",
+      "Shiraz",
+      "Tehran"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8093,
+    "categoryId": "geography",
+    "question": "Which country does the Yangtze River flow through?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "India",
+      "China"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8094,
+    "categoryId": "geography",
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara\u00edso",
+      "Antofagasta",
+      "Concepci\u00f3n",
+      "Santiago"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8095,
+    "categoryId": "geography",
+    "question": "Which country has the world's highest average elevation?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Afghanistan",
+      "Lesotho"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8096,
+    "categoryId": "geography",
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Malm\u00f6",
+      "Uppsala",
+      "Stockholm"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8097,
+    "categoryId": "geography",
+    "question": "Which river flows through the most countries in Europe?",
+    "options": [
+      "Nile",
+      "Rhine",
+      "Danube",
+      "Amazon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8098,
+    "categoryId": "geography",
+    "question": "What is the capital of Poland?",
+    "options": [
+      "Krak\u00f3w",
+      "\u0141\u00f3d\u017a",
+      "Wroc\u0142aw",
+      "Warsaw"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8099,
+    "categoryId": "geography",
+    "question": "Which country is home to the Sahara Desert (largest portion)?",
+    "options": [
+      "Libya",
+      "Sudan",
+      "Mali",
+      "Algeria"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 8100,
+    "categoryId": "geography",
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Shymkent",
+      "Karaganda",
+      "Astana"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 13001,
+    "categoryId": "geography",
+    "question": "What is the name of the tectonic plate that lies under most of the Pacific Ocean?",
+    "options": [
+      "Eurasian Plate",
+      "Pacific Plate",
+      "Nazca Plate",
+      "Philippine Plate"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13002,
+    "categoryId": "geography",
+    "question": "Which country has the most land borders with other countries?",
+    "options": [
+      "Russia",
+      "Brazil",
+      "Germany",
+      "China"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13003,
+    "categoryId": "geography",
+    "question": "What is the name of the deepest point on Earth?",
+    "options": [
+      "Tonga Trench",
+      "Java Trench",
+      "Mariana Trench - Challenger Deep",
+      "Puerto Rico Trench"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13004,
+    "categoryId": "geography",
+    "question": "The Strait of Malacca separates which two landmasses?",
+    "options": [
+      "Indonesia and Philippines",
+      "Malay Peninsula and Sumatra",
+      "Java and Borneo",
+      "Thailand and Vietnam"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13005,
+    "categoryId": "geography",
+    "question": "Which country contains the most of the Nile River by length?",
+    "options": [
+      "Egypt",
+      "Ethiopia",
+      "Uganda",
+      "Sudan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13006,
+    "categoryId": "geography",
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Astana / Nur-Sultan",
+      "Shymkent",
+      "Karaganda"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13007,
+    "categoryId": "geography",
+    "question": "The Atacama Desert is located primarily in which country?",
+    "options": [
+      "Argentina",
+      "Bolivia",
+      "Peru",
+      "Chile"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13008,
+    "categoryId": "geography",
+    "question": "What percentage of the world's freshwater is in the Amazon River basin?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13009,
+    "categoryId": "geography",
+    "question": "Which sea has no coastline?",
+    "options": [
+      "Caspian Sea",
+      "Sargasso Sea",
+      "Black Sea",
+      "Aral Sea"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13010,
+    "categoryId": "geography",
+    "question": "What is the largest country in Africa by area?",
+    "options": [
+      "Democratic Republic of Congo",
+      "Sudan",
+      "Algeria",
+      "Libya"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13011,
+    "categoryId": "geography",
+    "question": "The Sudd is one of the world's largest wetlands located in which country?",
+    "options": [
+      "Ethiopia",
+      "Chad",
+      "South Sudan",
+      "Sudan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13012,
+    "categoryId": "geography",
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": [
+      "Caucasus Mountains",
+      "Alps",
+      "Carpathians",
+      "Ural Mountains"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13013,
+    "categoryId": "geography",
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon",
+      "Yangtze",
+      "Mississippi",
+      "Nile"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13014,
+    "categoryId": "geography",
+    "question": "Which country has the largest coastline in the world?",
+    "options": [
+      "Russia",
+      "Australia",
+      "Norway",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13015,
+    "categoryId": "geography",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13016,
+    "categoryId": "geography",
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Sahara Desert",
+      "Antarctic Desert"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13017,
+    "categoryId": "geography",
+    "question": "Which country is home to the Amazon River?",
+    "options": [
+      "Colombia",
+      "Peru",
+      "Venezuela",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13018,
+    "categoryId": "geography",
+    "question": "What is the smallest country in the world by area?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Vatican City"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13019,
+    "categoryId": "geography",
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13020,
+    "categoryId": "geography",
+    "question": "What is the highest mountain in Africa?",
+    "options": [
+      "Mount Kenya",
+      "Mount Stanley",
+      "Mount Kilimanjaro",
+      "Ras Dashen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13021,
+    "categoryId": "geography",
+    "question": "Which country has the most natural lakes in the world?",
+    "options": [
+      "Russia",
+      "USA",
+      "Finland",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13022,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest rainforest?",
+    "options": [
+      "Congo Rainforest",
+      "Amazon Rainforest",
+      "Daintree Rainforest",
+      "Valdivian Rainforest"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13023,
+    "categoryId": "geography",
+    "question": "Which strait connects the Atlantic and Pacific Oceans?",
+    "options": [
+      "Strait of Gibraltar",
+      "Bering Strait",
+      "Drake Passage",
+      "Strait of Magellan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13024,
+    "categoryId": "geography",
+    "question": "Which country has the most volcanoes?",
+    "options": [
+      "Japan",
+      "Indonesia",
+      "USA",
+      "Chile"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13025,
+    "categoryId": "geography",
+    "question": "What is the name of the largest lake in Africa?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Victoria",
+      "Lake Chad"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13026,
+    "categoryId": "geography",
+    "question": "Which country has the largest population in the world?",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13027,
+    "categoryId": "geography",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "S\u00e3o Paulo",
+      "Bras\u00edlia",
+      "Salvador"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13028,
+    "categoryId": "geography",
+    "question": "Which is the world's longest mountain range?",
+    "options": [
+      "Himalayas",
+      "Rocky Mountains",
+      "Andes",
+      "Alps"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13029,
+    "categoryId": "geography",
+    "question": "What is the deepest lake in the world?",
+    "options": [
+      "Lake Tanganyika",
+      "Caspian Sea",
+      "Lake Superior",
+      "Lake Baikal"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13030,
+    "categoryId": "geography",
+    "question": "Which city is located on two continents?",
+    "options": [
+      "Moscow",
+      "Cairo",
+      "Istanbul",
+      "Athens"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13031,
+    "categoryId": "geography",
+    "question": "What is the name of the largest island in the world?",
+    "options": [
+      "Borneo",
+      "Madagascar",
+      "Baffin Island",
+      "Greenland"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13032,
+    "categoryId": "geography",
+    "question": "Which African country has the highest population?",
+    "options": [
+      "Ethiopia",
+      "South Africa",
+      "Egypt",
+      "Nigeria"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13033,
+    "categoryId": "geography",
+    "question": "What is the name of the current that warms Europe's climate?",
+    "options": [
+      "California Current",
+      "Humboldt Current",
+      "Gulf Stream",
+      "Kuroshio Current"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13034,
+    "categoryId": "geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": [
+      "China",
+      "South Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13035,
+    "categoryId": "geography",
+    "question": "What is the name of the body of water between Sweden and Finland?",
+    "options": [
+      "North Sea",
+      "Baltic Sea",
+      "Gulf of Bothnia",
+      "Barents Sea"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13036,
+    "categoryId": "geography",
+    "question": "Which country does the Yangtze River flow through?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "India",
+      "China"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13037,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest plateau?",
+    "options": [
+      "Colorado Plateau",
+      "Deccan Plateau",
+      "Tibetan Plateau",
+      "Altiplano"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13038,
+    "categoryId": "geography",
+    "question": "Which two countries share the longest international border?",
+    "options": [
+      "Russia and China",
+      "USA and Mexico",
+      "Brazil and Bolivia",
+      "USA and Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13039,
+    "categoryId": "geography",
+    "question": "What is the highest capital city in the world?",
+    "options": [
+      "Quito",
+      "Thimphu",
+      "Addis Ababa",
+      "La Paz"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13040,
+    "categoryId": "geography",
+    "question": "Which country contains the most of the Sahara Desert?",
+    "options": [
+      "Libya",
+      "Sudan",
+      "Mali",
+      "Algeria"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13041,
+    "categoryId": "geography",
+    "question": "What is the name of the sea between Italy and the Balkans?",
+    "options": [
+      "Tyrrhenian Sea",
+      "Ligurian Sea",
+      "Adriatic Sea",
+      "Ionian Sea"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13042,
+    "categoryId": "geography",
+    "question": "Which country has the world's largest proven oil reserves?",
+    "options": [
+      "Saudi Arabia",
+      "Russia",
+      "Iran",
+      "Venezuela"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13043,
+    "categoryId": "geography",
+    "question": "What is the name of the large plateau region in central Spain?",
+    "options": [
+      "Sierra Nevada",
+      "Pyrenees",
+      "Cantabrian Mountains",
+      "Meseta Central"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13044,
+    "categoryId": "geography",
+    "question": "Which country is home to the most UNESCO World Heritage Sites?",
+    "options": [
+      "France",
+      "Germany",
+      "Spain",
+      "Italy"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13045,
+    "categoryId": "geography",
+    "question": "What is the name of the hot dry wind that blows across North Africa?",
+    "options": [
+      "Mistral",
+      "Bora",
+      "Sirocco",
+      "Foehn"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13046,
+    "categoryId": "geography",
+    "question": "Which European country has the most islands?",
+    "options": [
+      "Denmark",
+      "Greece",
+      "Croatia",
+      "Norway"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13047,
+    "categoryId": "geography",
+    "question": "What is the name of the large bay on the eastern coast of India?",
+    "options": [
+      "Arabian Sea",
+      "Lakshadweep Sea",
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13048,
+    "categoryId": "geography",
+    "question": "Which country is the world's largest producer of coffee?",
+    "options": [
+      "Colombia",
+      "Vietnam",
+      "Ethiopia",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13049,
+    "categoryId": "geography",
+    "question": "What is the name of the mountain range running along the border of India and Nepal?",
+    "options": [
+      "Karakoram",
+      "Hindu Kush",
+      "Western Ghats",
+      "Himalayas"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13050,
+    "categoryId": "geography",
+    "question": "Which country has the most time zones?",
+    "options": [
+      "Russia",
+      "USA",
+      "China",
+      "France"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13051,
+    "categoryId": "geography",
+    "question": "What is the name of the largest bay in the world?",
+    "options": [
+      "Hudson Bay",
+      "Bay of Biscay",
+      "Gulf of Mexico",
+      "Bay of Bengal"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13052,
+    "categoryId": "geography",
+    "question": "Which country shares borders with the most other countries?",
+    "options": [
+      "China",
+      "Russia",
+      "Brazil",
+      "Germany"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13053,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest coral reef system?",
+    "options": [
+      "Mesoamerican Reef",
+      "Red Sea Coral Reef",
+      "New Caledonia Barrier Reef",
+      "Great Barrier Reef"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13054,
+    "categoryId": "geography",
+    "question": "Which country is entirely surrounded by South Africa?",
+    "options": [
+      "Swaziland (Eswatini)",
+      "Botswana",
+      "Zimbabwe",
+      "Lesotho"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13055,
+    "categoryId": "geography",
+    "question": "What is the name of the active volcano in Iceland that erupted in 2010 causing air traffic disruption?",
+    "options": [
+      "Hekla",
+      "Katla",
+      "Eyjafjallaj\u00f6kull",
+      "Gr\u00edmsv\u00f6tn"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13056,
+    "categoryId": "geography",
+    "question": "Which river flows through the most countries in the world?",
+    "options": [
+      "Nile",
+      "Rhine",
+      "Danube",
+      "Amazon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13057,
+    "categoryId": "geography",
+    "question": "What is the name of the peninsula shared by Spain and Portugal?",
+    "options": [
+      "Scandinavian Peninsula",
+      "Apennine Peninsula",
+      "Balkan Peninsula",
+      "Iberian Peninsula"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13058,
+    "categoryId": "geography",
+    "question": "Which country is the world's largest exporter of natural gas?",
+    "options": [
+      "Qatar",
+      "Iran",
+      "USA",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13059,
+    "categoryId": "geography",
+    "question": "What is the name of the massive ice sheet covering most of Greenland?",
+    "options": [
+      "Laurentide Ice Sheet",
+      "Greenland Ice Cap",
+      "Fennoscandian Ice Sheet",
+      "Cordilleran Ice Sheet"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13060,
+    "categoryId": "geography",
+    "question": "Which country has the world's largest river delta?",
+    "options": [
+      "India",
+      "China",
+      "Vietnam",
+      "Bangladesh"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13061,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest freshwater lake by volume?",
+    "options": [
+      "Lake Superior",
+      "Lake Baikal",
+      "Lake Michigan",
+      "Lake Huron"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13062,
+    "categoryId": "geography",
+    "question": "Which country is home to Angel Falls, the world's highest waterfall?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13063,
+    "categoryId": "geography",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13064,
+    "categoryId": "geography",
+    "question": "Which sea lies between Saudi Arabia and the Horn of Africa?",
+    "options": [
+      "Persian Gulf",
+      "Arabian Sea",
+      "Gulf of Aden",
+      "Red Sea"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13065,
+    "categoryId": "geography",
+    "question": "What is the name of the vast grasslands in South America?",
+    "options": [
+      "Savanna",
+      "Cerrado",
+      "Llanos",
+      "Pampas"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13066,
+    "categoryId": "geography",
+    "question": "Which is the least densely populated country in the world?",
+    "options": [
+      "Iceland",
+      "Australia",
+      "Greenland",
+      "Mongolia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13067,
+    "categoryId": "geography",
+    "question": "What is the name of the channel between England and France?",
+    "options": [
+      "North Sea",
+      "Celtic Sea",
+      "Irish Sea",
+      "English Channel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13068,
+    "categoryId": "geography",
+    "question": "Which country has the world's longest coastline including all its islands?",
+    "options": [
+      "Australia",
+      "Russia",
+      "Indonesia",
+      "Canada"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13069,
+    "categoryId": "geography",
+    "question": "What is the name of the region in Russia that stretches across northern Asia?",
+    "options": [
+      "Urals",
+      "Caucasus",
+      "Siberia",
+      "Taiga"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13070,
+    "categoryId": "geography",
+    "question": "Which is the only country in the world that is also a continent?",
+    "options": [
+      "New Zealand",
+      "Greenland",
+      "Iceland",
+      "Australia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13071,
+    "categoryId": "geography",
+    "question": "What is the name of the sea between Greece and Turkey?",
+    "options": [
+      "Ionian Sea",
+      "Black Sea",
+      "Adriatic Sea",
+      "Aegean Sea"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13072,
+    "categoryId": "geography",
+    "question": "Which country has the most forest cover in the world?",
+    "options": [
+      "Brazil",
+      "Canada",
+      "China",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13073,
+    "categoryId": "geography",
+    "question": "What is the name of the narrow strip of land connecting North and South America?",
+    "options": [
+      "Isthmus of Tehuantepec",
+      "Isthmus of Darien",
+      "Isthmus of Suez",
+      "Isthmus of Panama"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13074,
+    "categoryId": "geography",
+    "question": "Which African country has the highest GDP?",
+    "options": [
+      "South Africa",
+      "Egypt",
+      "Algeria",
+      "Nigeria"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13075,
+    "categoryId": "geography",
+    "question": "What is the name of the plateau in South Africa where Johannesburg is located?",
+    "options": [
+      "Cape Fold Belt",
+      "Drakensberg",
+      "Highveld",
+      "Bushveld"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13076,
+    "categoryId": "geography",
+    "question": "Which country has the world's most active geysers?",
+    "options": [
+      "New Zealand",
+      "Chile",
+      "Iceland",
+      "USA"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13077,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest archipelago?",
+    "options": [
+      "Philippines",
+      "Japan",
+      "Maldives",
+      "Indonesia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13078,
+    "categoryId": "geography",
+    "question": "Which river flows through Cairo, Egypt?",
+    "options": [
+      "Tigris",
+      "Euphrates",
+      "Congo",
+      "Nile"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13079,
+    "categoryId": "geography",
+    "question": "What is the name of the longest mountain tunnel in the world?",
+    "options": [
+      "Channel Tunnel",
+      "L\u00f6tschberg Tunnel",
+      "Simplon Tunnel",
+      "Gotthard Base Tunnel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13080,
+    "categoryId": "geography",
+    "question": "Which South American country is completely landlocked?",
+    "options": [
+      "Paraguay",
+      "Uruguay",
+      "Ecuador",
+      "Bolivia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13081,
+    "categoryId": "geography",
+    "question": "What is the name of the current that causes El Ni\u00f1o?",
+    "options": [
+      "Humboldt Current",
+      "California Current",
+      "El Ni\u00f1o\u2013Southern Oscillation",
+      "Peru Current"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13082,
+    "categoryId": "geography",
+    "question": "Which country has the highest number of UNESCO Biosphere Reserves?",
+    "options": [
+      "USA",
+      "Mexico",
+      "Germany",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13083,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest salt flat?",
+    "options": [
+      "Bonneville Salt Flats",
+      "Chott el Djerid",
+      "Etosha Pan",
+      "Salar de Uyuni"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13084,
+    "categoryId": "geography",
+    "question": "Which ocean current flows along the eastern coast of Australia?",
+    "options": [
+      "Leeuwin Current",
+      "West Australian Current",
+      "East Australian Current",
+      "South Equatorial Current"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13085,
+    "categoryId": "geography",
+    "question": "What is the name of the world's largest hot desert?",
+    "options": [
+      "Arabian Desert",
+      "Gobi Desert",
+      "Sahara Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13086,
+    "categoryId": "geography",
+    "question": "Which country has the highest average elevation in the world?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Afghanistan",
+      "Lesotho"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13087,
+    "categoryId": "geography",
+    "question": "What is the name of the island group that includes Tahiti?",
+    "options": [
+      "Cook Islands",
+      "Solomon Islands",
+      "Fiji",
+      "French Polynesia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13088,
+    "categoryId": "geography",
+    "question": "Which country is home to the world's largest cave, Son Doong?",
+    "options": [
+      "China",
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13089,
+    "categoryId": "geography",
+    "question": "What is the name of the sea between the Arabian Peninsula and Africa?",
+    "options": [
+      "Persian Gulf",
+      "Gulf of Oman",
+      "Arabian Sea",
+      "Red Sea"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13090,
+    "categoryId": "geography",
+    "question": "Which continent has the highest average elevation?",
+    "options": [
+      "Asia",
+      "South America",
+      "Africa",
+      "Antarctica"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13091,
+    "categoryId": "geography",
+    "question": "What is the name of the world's longest fjord?",
+    "options": [
+      "Milford Sound",
+      "Geirangerfjord",
+      "Hardangerfjord",
+      "Sognefjord"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13092,
+    "categoryId": "geography",
+    "question": "Which country has the most Buddhist temples in the world?",
+    "options": [
+      "China",
+      "Japan",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13093,
+    "categoryId": "geography",
+    "question": "What is the capital of the Philippines?",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Quezon City",
+      "Manila"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13094,
+    "categoryId": "geography",
+    "question": "Which river forms the border between Zambia and Zimbabwe?",
+    "options": [
+      "Congo",
+      "Limpopo",
+      "Okavango",
+      "Zambezi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13095,
+    "categoryId": "geography",
+    "question": "What is the name of the narrow passage between the Black Sea and the Sea of Marmara?",
+    "options": [
+      "Strait of Gibraltar",
+      "Dardanelles",
+      "Bosphorus",
+      "Strait of Otranto"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13096,
+    "categoryId": "geography",
+    "question": "Which country has the most pyramids in the world?",
+    "options": [
+      "Egypt",
+      "Mexico",
+      "Guatemala",
+      "Sudan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13097,
+    "categoryId": "geography",
+    "question": "What is the name of the world's highest navigable lake?",
+    "options": [
+      "Lake Baikal",
+      "Lake Toba",
+      "Lake Tanganyika",
+      "Lake Titicaca"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13098,
+    "categoryId": "geography",
+    "question": "Which country is known as the 'Roof of the World'?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Tibet (China)",
+      "Afghanistan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13099,
+    "categoryId": "geography",
+    "question": "What is the name of the sea that borders Lebanon to the west?",
+    "options": [
+      "Red Sea",
+      "Black Sea",
+      "Arabian Sea",
+      "Mediterranean Sea"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 13100,
+    "categoryId": "geography",
+    "question": "Which country has the most rivers in the world?",
+    "options": [
+      "China",
+      "USA",
+      "Canada",
+      "Russia"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  }
+]

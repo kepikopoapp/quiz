@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 1001,
+    "categoryId": "science",
+    "question": "What planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1002,
+    "categoryId": "science",
+    "question": "What gas do plants absorb from the air?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1003,
+    "categoryId": "science",
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1004,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "WA",
+      "HO",
+      "H2O",
+      "W2O"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1005,
+    "categoryId": "science",
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "90\u00b0C",
+      "95\u00b0C",
+      "100\u00b0C",
+      "110\u00b0C"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1006,
+    "categoryId": "science",
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Electricity"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1007,
+    "categoryId": "science",
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "186",
+      "206",
+      "226",
+      "246"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1008,
+    "categoryId": "science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1009,
+    "categoryId": "science",
+    "question": "What is the center of an atom called?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Nucleus",
+      "Neutron"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1010,
+    "categoryId": "science",
+    "question": "Which organ pumps blood through the body?",
+    "options": [
+      "Lungs",
+      "Kidney",
+      "Liver",
+      "Heart"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1011,
+    "categoryId": "science",
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1012,
+    "categoryId": "science",
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "Sirius",
+      "Proxima Centauri",
+      "The Sun",
+      "Betelgeuse"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1013,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which animal is the largest mammal on Earth?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1014,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "-5\u00b0C",
+      "-1\u00b0C",
+      "0\u00b0C",
+      "1\u00b0C"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1015,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What gas do humans breathe out?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1016,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1017,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1018,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which organ is responsible for breathing?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidney"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1019,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1020,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What type of animal is a dolphin?",
+    "options": [
+      "Fish",
+      "Reptile",
+      "Mammal",
+      "Amphibian"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1021,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What color is chlorophyll?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1022,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Earth"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1023,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": [
+      "Silk",
+      "Honey",
+      "Wax only",
+      "Venom"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1024,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the study of plants called?",
+    "options": [
+      "Zoology",
+      "Botany",
+      "Ecology",
+      "Biology"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1025,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which metal is attracted to magnets?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Gold",
+      "Iron"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1026,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the outer layer of Earth called?",
+    "options": [
+      "Mantle",
+      "Core",
+      "Crust",
+      "Shell"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1027,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which vitamin is found in citrus fruits?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1028,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": [
+      "Ox",
+      "On",
+      "O",
+      "Og"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1029,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Skin"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1030,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What kind of animal is a frog?",
+    "options": [
+      "Reptile",
+      "Mammal",
+      "Amphibian",
+      "Fish"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1031,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which direction does the Sun rise from?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1032,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What planet is farthest from the Sun?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1033,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the layer of gas surrounding Earth?",
+    "options": [
+      "Biosphere",
+      "Atmosphere",
+      "Hydrosphere",
+      "Lithosphere"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1034,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1035,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does a thermometer measure?",
+    "options": [
+      "Pressure",
+      "Speed",
+      "Temperature",
+      "Weight"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1036,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many chromosomes do humans normally have?",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1037,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "options": [
+      "So",
+      "Sd",
+      "Na",
+      "Nm"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1038,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which bird is unable to fly?",
+    "options": [
+      "Eagle",
+      "Parrot",
+      "Penguin",
+      "Pigeon"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1039,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What shape is DNA?",
+    "options": [
+      "Single helix",
+      "Double helix",
+      "Triple helix",
+      "Straight line"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1040,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the main component of the Sun?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Hydrogen",
+      "Helium"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1041,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many pairs of ribs does a human have?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1042,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the liquid part of blood called?",
+    "options": [
+      "Serum",
+      "Plasma",
+      "Lymph",
+      "Cytoplasm"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1043,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the longest bone in the human body?",
+    "options": [
+      "Spine",
+      "Humerus",
+      "Femur",
+      "Tibia"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1044,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What instrument is used to see distant objects in space?",
+    "options": [
+      "Microscope",
+      "Periscope",
+      "Telescope",
+      "Stethoscope"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1045,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the unit of electric current?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ohm",
+      "Ampere"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1046,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What does a caterpillar turn into?",
+    "options": [
+      "Moth only",
+      "Butterfly or Moth",
+      "Dragonfly",
+      "Bee"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1047,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many eyes does a spider have?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1048,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the study of the weather called?",
+    "options": [
+      "Astronomy",
+      "Geology",
+      "Meteorology",
+      "Ecology"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1049,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which planet spins on its side?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Uranus",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1050,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What part of a plant absorbs water from the soil?",
+    "options": [
+      "Leaves",
+      "Stem",
+      "Flowers",
+      "Roots"
+    ],
+    "correctAnswerIndex": 3,
+    "id": 1051,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "KCl",
+      "MgO",
+      "NaCl",
+      "CaCO3"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1052,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What phenomenon causes day and night?",
+    "options": [
+      "Earth's revolution",
+      "Earth's rotation",
+      "Moon's orbit",
+      "Sun's movement"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1053,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Molecule"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1054,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1055,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the process of water turning into steam called?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Precipitation",
+      "Sublimation"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1056,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the galaxy we live in?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Sombrero"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1057,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many legs does an insect have?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1058,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": [
+      "Ir",
+      "In",
+      "Fe",
+      "Fr"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1059,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which organ filters blood in the human body?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Pancreas"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1060,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What type of lens makes objects appear larger?",
+    "options": [
+      "Concave",
+      "Plane",
+      "Convex",
+      "Bifocal"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1061,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which planet has a Great Red Spot?",
+    "options": [
+      "Mars",
+      "Saturn",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1062,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which mammal can fly?",
+    "options": [
+      "Squirrel",
+      "Flying fish",
+      "Bat",
+      "Lemur"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1063,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Ag",
+      "Sl",
+      "Sr"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1064,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the hottest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1065,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What type of blood vessel carries blood away from the heart?",
+    "options": [
+      "Vein",
+      "Capillary",
+      "Artery",
+      "Lymph vessel"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1066,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the force that opposes gravity when objects float in water?",
+    "options": [
+      "Buoyancy",
+      "Friction",
+      "Tension",
+      "Compression"
+    ],
+    "correctAnswerIndex": 0,
+    "id": 1067,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which planet is closest in size to Earth?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1068,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the most abundant mineral in the human body?",
+    "options": [
+      "Iron",
+      "Potassium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1069,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What do you call a baby frog?",
+    "options": [
+      "Cub",
+      "Tadpole",
+      "Larva",
+      "Pup"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1070,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the unit of measuring frequency?",
+    "options": [
+      "Joule",
+      "Hertz",
+      "Newton",
+      "Pascal"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1071,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1072,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is a group of fish called?",
+    "options": [
+      "Herd",
+      "Pack",
+      "School",
+      "Colony"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1073,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which element is used in pencil lead?",
+    "options": [
+      "Lead",
+      "Carbon (graphite)",
+      "Tin",
+      "Zinc"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1074,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What organ produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1075,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many bones are in the human hand?",
+    "options": [
+      "17",
+      "23",
+      "27",
+      "31"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1076,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the movement of tectonic plates responsible for?",
+    "options": [
+      "Rainfall",
+      "Earthquakes",
+      "Tides",
+      "Wind"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1077,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1078,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the scientist who discovered gravity?",
+    "options": [
+      "Galileo",
+      "Newton",
+      "Einstein",
+      "Kepler"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1079,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What do plants release during photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1080,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1081,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the force that keeps us on the ground?",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Tension"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1082,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the chemical symbol for carbon?",
+    "options": [
+      "Ca",
+      "Cr",
+      "C",
+      "Co"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1083,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which is the largest internal organ in the human body?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Kidney"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1084,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the speed of light (approximately)?",
+    "options": [
+      "100,000 km/s",
+      "200,000 km/s",
+      "300,000 km/s",
+      "400,000 km/s"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1085,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name given to animals that eat both plants and meat?",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Insectivore"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1086,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which sense organ detects smell?",
+    "options": [
+      "Eyes",
+      "Nose",
+      "Ears",
+      "Tongue"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1087,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "How long does it take the Earth to orbit the Sun?",
+    "options": [
+      "24 hours",
+      "30 days",
+      "365 days",
+      "100 days"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1088,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the process by which ice turns directly to vapor?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1089,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the most common element on Earth's surface?",
+    "options": [
+      "Silicon",
+      "Iron",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1090,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1091,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What do we call the path a planet takes around the Sun?",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Axis"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1092,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name of the outermost layer of the Sun?",
+    "options": [
+      "Chromosphere",
+      "Photosphere",
+      "Corona",
+      "Core"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1093,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What animal has the longest neck?",
+    "options": [
+      "Camel",
+      "Ostrich",
+      "Giraffe",
+      "Elephant"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1094,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the name given to the study of insects?",
+    "options": [
+      "Zoology",
+      "Entomology",
+      "Ornithology",
+      "Ichthyology"
+    ],
+    "correctAnswerIndex": 1,
+    "id": 1095,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the process by which green plants make food?",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Germination"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1096,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "options": [
+      "180\u00b0F",
+      "200\u00b0F",
+      "212\u00b0F",
+      "220\u00b0F"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1097,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "question": "What type of rock is formed from cooled lava?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Limestone"
+    ],
+    "correctAnswerIndex": 2,
+    "id": 1098,
+    "categoryId": "science",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1099,
+    "categoryId": "science",
+    "question": "What is the name of the force that makes objects move in a circle?",
+    "options": [
+      "Gravity",
+      "Centripetal force",
+      "Friction",
+      "Tension"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 1100,
+    "categoryId": "science",
+    "question": "Which planet is between Earth and Jupiter?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Mars",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "id": 6001,
+    "categoryId": "science",
+    "question": "What is the speed of light in a vacuum (approx)?",
+    "options": [
+      "200,000 km/s",
+      "300,000 km/s",
+      "400,000 km/s",
+      "500,000 km/s"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6002,
+    "categoryId": "science",
+    "question": "What part of the cell contains DNA?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Cell Wall"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6003,
+    "categoryId": "science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6004,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6005,
+    "categoryId": "science",
+    "question": "What is the process by which plants make food?",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Germination"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6006,
+    "categoryId": "science",
+    "question": "Which blood type is known as the universal donor?",
+    "options": [
+      "A+",
+      "B-",
+      "AB+",
+      "O-"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6007,
+    "categoryId": "science",
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Vacuole"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6008,
+    "categoryId": "science",
+    "question": "Which element has the atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6009,
+    "categoryId": "science",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6010,
+    "categoryId": "science",
+    "question": "What is the name of the force opposing motion?",
+    "options": [
+      "Gravity",
+      "Inertia",
+      "Friction",
+      "Momentum"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6011,
+    "categoryId": "science",
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6012,
+    "categoryId": "science",
+    "question": "What is the pH of pure water?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6013,
+    "categoryId": "science",
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "HO",
+      "H2O",
+      "H3O",
+      "OH2"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6014,
+    "categoryId": "science",
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "186",
+      "196",
+      "206",
+      "216"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6015,
+    "categoryId": "science",
+    "question": "What planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6016,
+    "categoryId": "science",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Skin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6017,
+    "categoryId": "science",
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6018,
+    "categoryId": "science",
+    "question": "What is the symbol for the element Iron?",
+    "options": [
+      "Ir",
+      "In",
+      "Fe",
+      "Fr"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6019,
+    "categoryId": "science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6020,
+    "categoryId": "science",
+    "question": "What is the unit of electrical current?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6021,
+    "categoryId": "science",
+    "question": "What is the nearest star to Earth?",
+    "options": [
+      "Sirius",
+      "Alpha Centauri",
+      "The Sun",
+      "Betelgeuse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6022,
+    "categoryId": "science",
+    "question": "How many planets are in the solar system?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6023,
+    "categoryId": "science",
+    "question": "What is the hardest natural substance?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6024,
+    "categoryId": "science",
+    "question": "Which organ produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Stomach",
+      "Pancreas"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6025,
+    "categoryId": "science",
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90\u00b0C",
+      "95\u00b0C",
+      "100\u00b0C",
+      "105\u00b0C"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6026,
+    "categoryId": "science",
+    "question": "Which type of energy is stored in food?",
+    "options": [
+      "Kinetic Energy",
+      "Nuclear Energy",
+      "Chemical Energy",
+      "Thermal Energy"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6027,
+    "categoryId": "science",
+    "question": "What is the name of the process where water evaporates and falls back as rain?",
+    "options": [
+      "Evaporation Cycle",
+      "Condensation Cycle",
+      "Water Cycle",
+      "Rain Cycle"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6028,
+    "categoryId": "science",
+    "question": "Which part of the eye detects light?",
+    "options": [
+      "Cornea",
+      "Iris",
+      "Retina",
+      "Lens"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6029,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for Sodium?",
+    "options": [
+      "So",
+      "Sd",
+      "Na",
+      "Sa"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6030,
+    "categoryId": "science",
+    "question": "What is the main gas found in the Sun?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Hydrogen",
+      "Helium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6031,
+    "categoryId": "science",
+    "question": "What is the term for animals that eat only plants?",
+    "options": [
+      "Carnivores",
+      "Omnivores",
+      "Herbivores",
+      "Decomposers"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6032,
+    "categoryId": "science",
+    "question": "How many chromosomes does a normal human cell have?",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6033,
+    "categoryId": "science",
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "options": [
+      "Magnetic Force",
+      "Centrifugal Force",
+      "Gravity",
+      "Nuclear Force"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6034,
+    "categoryId": "science",
+    "question": "What is the name of the scale used to measure earthquake strength?",
+    "options": [
+      "Beaufort Scale",
+      "Mohs Scale",
+      "Richter Scale",
+      "Kelvin Scale"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6035,
+    "categoryId": "science",
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6036,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for Oxygen?",
+    "options": [
+      "Ox",
+      "On",
+      "O",
+      "Oy"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6037,
+    "categoryId": "science",
+    "question": "What is the largest planet in the solar system?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6038,
+    "categoryId": "science",
+    "question": "How many teeth does an adult human normally have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6039,
+    "categoryId": "science",
+    "question": "What organ is responsible for pumping blood in the body?",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Heart",
+      "Kidney"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6040,
+    "categoryId": "science",
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": [
+      "Carbon Dioxide",
+      "Methane",
+      "Nitrous Oxide",
+      "Helium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6041,
+    "categoryId": "science",
+    "question": "What is the name of the cell division process that produces sex cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fission",
+      "Budding"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6042,
+    "categoryId": "science",
+    "question": "What type of rock is formed from cooled lava?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Limestone"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6043,
+    "categoryId": "science",
+    "question": "What is the name of the galaxy we live in?",
+    "options": [
+      "Andromeda",
+      "Triangulum",
+      "Milky Way",
+      "Centaurus A"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6044,
+    "categoryId": "science",
+    "question": "Which element is represented by the symbol 'C'?",
+    "options": [
+      "Calcium",
+      "Chlorine",
+      "Carbon",
+      "Copper"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6045,
+    "categoryId": "science",
+    "question": "What is the name of the process by which plants lose water through their leaves?",
+    "options": [
+      "Osmosis",
+      "Absorption",
+      "Transpiration",
+      "Diffusion"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6046,
+    "categoryId": "science",
+    "question": "What type of energy does a moving car have?",
+    "options": [
+      "Potential Energy",
+      "Chemical Energy",
+      "Thermal Energy",
+      "Kinetic Energy"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6047,
+    "categoryId": "science",
+    "question": "Which planet has the most rings?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6048,
+    "categoryId": "science",
+    "question": "What is the name of the process of a solid turning directly into gas?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6049,
+    "categoryId": "science",
+    "question": "What is the name of the protein that makes hair and nails?",
+    "options": [
+      "Collagen",
+      "Elastin",
+      "Keratin",
+      "Actin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6050,
+    "categoryId": "science",
+    "question": "Which planet is the hottest in the solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6051,
+    "categoryId": "science",
+    "question": "What is the name of Newton's first law?",
+    "options": [
+      "Law of Acceleration",
+      "Law of Gravity",
+      "Law of Inertia",
+      "Law of Action-Reaction"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6052,
+    "categoryId": "science",
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribose Nucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Double Nucleic Acid",
+      "Deoxyribose Nuclear Acid"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6053,
+    "categoryId": "science",
+    "question": "Which element is liquid at room temperature besides Bromine?",
+    "options": [
+      "Lead",
+      "Tin",
+      "Mercury",
+      "Gallium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6054,
+    "categoryId": "science",
+    "question": "What is the name of the outermost layer of the Earth?",
+    "options": [
+      "Mantle",
+      "Core",
+      "Crust",
+      "Lithosphere"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6055,
+    "categoryId": "science",
+    "question": "Which part of the brain controls breathing and heart rate?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla Oblongata"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6056,
+    "categoryId": "science",
+    "question": "What is the name of the force that makes objects float in water?",
+    "options": [
+      "Gravity",
+      "Friction",
+      "Buoyancy",
+      "Tension"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6057,
+    "categoryId": "science",
+    "question": "Which vitamin helps in blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6058,
+    "categoryId": "science",
+    "question": "What is the name of the phenomenon when the Moon blocks the Sun?",
+    "options": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Transit",
+      "Occultation"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6059,
+    "categoryId": "science",
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": [
+      "CO",
+      "CO2",
+      "C2O",
+      "C2O2"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6060,
+    "categoryId": "science",
+    "question": "Which gas makes up about 21% of Earth's atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Oxygen",
+      "Argon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6061,
+    "categoryId": "science",
+    "question": "What is the name of the longest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur",
+      "Fibula"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6062,
+    "categoryId": "science",
+    "question": "What does the Richter scale measure?",
+    "options": [
+      "Wind speed",
+      "Ocean depth",
+      "Earthquake magnitude",
+      "Volcanic activity"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6063,
+    "categoryId": "science",
+    "question": "What is the name of the organ that filters blood in the human body?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Lung"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6064,
+    "categoryId": "science",
+    "question": "Which type of energy is in a stretched rubber band?",
+    "options": [
+      "Kinetic Energy",
+      "Thermal Energy",
+      "Potential Energy",
+      "Sound Energy"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6065,
+    "categoryId": "science",
+    "question": "What is the name of the scientist who proposed the theory of evolution?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Charles Darwin",
+      "Gregor Mendel"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6066,
+    "categoryId": "science",
+    "question": "What is the name of the smallest unit of life?",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6067,
+    "categoryId": "science",
+    "question": "Which organ produces bile in the human body?",
+    "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Stomach",
+      "Liver"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6068,
+    "categoryId": "science",
+    "question": "What is the name of the element with symbol 'K'?",
+    "options": [
+      "Krypton",
+      "Potassium",
+      "Kalium",
+      "Kinium"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6069,
+    "categoryId": "science",
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "-10\u00b0C",
+      "-5\u00b0C",
+      "0\u00b0C",
+      "5\u00b0C"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6070,
+    "categoryId": "science",
+    "question": "What is the name of the process by which green plants make food using light?",
+    "options": [
+      "Respiration",
+      "Digestion",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6071,
+    "categoryId": "science",
+    "question": "What is the name of the unit used to measure sound intensity?",
+    "options": [
+      "Hertz",
+      "Decibel",
+      "Pascal",
+      "Watt"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6072,
+    "categoryId": "science",
+    "question": "What is the most abundant metal in the Earth's crust?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminum",
+      "Silicon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6073,
+    "categoryId": "science",
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      "Saturn",
+      "Mars",
+      "Neptune",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6074,
+    "categoryId": "science",
+    "question": "What is the name of the vitamin found in citrus fruits?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6075,
+    "categoryId": "science",
+    "question": "What is the name of the process by which animals breathe?",
+    "options": [
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation",
+      "Respiration"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6076,
+    "categoryId": "science",
+    "question": "Which scientist discovered gravity when an apple fell?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6077,
+    "categoryId": "science",
+    "question": "What is the name of the natural satellite of the Earth?",
+    "options": [
+      "Sun",
+      "Mars",
+      "Venus",
+      "Moon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6078,
+    "categoryId": "science",
+    "question": "Which element has the symbol 'He'?",
+    "options": [
+      "Hydrogen",
+      "Hafnium",
+      "Helium",
+      "Holmium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6079,
+    "categoryId": "science",
+    "question": "What is the name of the branch of science that studies living organisms?",
+    "options": [
+      "Chemistry",
+      "Physics",
+      "Biology",
+      "Geology"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6080,
+    "categoryId": "science",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Fight infection",
+      "Clot blood",
+      "Carry oxygen",
+      "Produce hormones"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6081,
+    "categoryId": "science",
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6082,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for Silver?",
+    "options": [
+      "Si",
+      "Sv",
+      "Ag",
+      "Sr"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6083,
+    "categoryId": "science",
+    "question": "Which type of wave requires a medium to travel?",
+    "options": [
+      "Light Wave",
+      "Radio Wave",
+      "Sound Wave",
+      "X-Ray"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6084,
+    "categoryId": "science",
+    "question": "What is the name of the tiny hair-like structures that help cells move?",
+    "options": [
+      "Flagella",
+      "Cilia",
+      "Villi",
+      "Microvilli"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6085,
+    "categoryId": "science",
+    "question": "What is the name of the instrument used to measure temperature?",
+    "options": [
+      "Barometer",
+      "Hygrometer",
+      "Thermometer",
+      "Manometer"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6086,
+    "categoryId": "science",
+    "question": "Which animal is the fastest on land?",
+    "options": [
+      "Lion",
+      "Horse",
+      "Cheetah",
+      "Leopard"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6087,
+    "categoryId": "science",
+    "question": "What is the name of the acid found in vinegar?",
+    "options": [
+      "Citric Acid",
+      "Lactic Acid",
+      "Acetic Acid",
+      "Tartaric Acid"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6088,
+    "categoryId": "science",
+    "question": "How many moons does Mars have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6089,
+    "categoryId": "science",
+    "question": "What is the name of the colored part of the eye?",
+    "options": [
+      "Pupil",
+      "Cornea",
+      "Iris",
+      "Retina"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6090,
+    "categoryId": "science",
+    "question": "What is the name of the cell membrane's function?",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "Controls what enters and exits the cell",
+      "DNA storage"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6091,
+    "categoryId": "science",
+    "question": "Which element makes up most of the air we breathe?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6092,
+    "categoryId": "science",
+    "question": "What is the name of the force that resists the motion of objects through air?",
+    "options": [
+      "Gravity",
+      "Friction",
+      "Air Resistance",
+      "Tension"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6093,
+    "categoryId": "science",
+    "question": "Which mammal can fly?",
+    "options": [
+      "Flying Squirrel",
+      "Sugar Glider",
+      "Bat",
+      "Colugo"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6094,
+    "categoryId": "science",
+    "question": "What is the name of the star at the center of our solar system?",
+    "options": [
+      "Sirius",
+      "Polaris",
+      "The Sun",
+      "Vega"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6095,
+    "categoryId": "science",
+    "question": "What is the name of the green pigment in plants?",
+    "options": [
+      "Carotene",
+      "Xanthophyll",
+      "Chlorophyll",
+      "Anthocyanin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6096,
+    "categoryId": "science",
+    "question": "What does the acronym 'LED' stand for?",
+    "options": [
+      "Light Emitting Diode",
+      "Low Energy Device",
+      "Light Energy Display",
+      "Low Emission Diode"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6097,
+    "categoryId": "science",
+    "question": "Which planet is farthest from the Sun?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Pluto",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6098,
+    "categoryId": "science",
+    "question": "What is the name of the layer of dead skin cells on the surface of the body?",
+    "options": [
+      "Dermis",
+      "Epidermis",
+      "Hypodermis",
+      "Stratum Corneum"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6099,
+    "categoryId": "science",
+    "question": "What is the name of the small intestine's finger-like projections?",
+    "options": [
+      "Cilia",
+      "Microvilli",
+      "Flagella",
+      "Villi"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 6100,
+    "categoryId": "science",
+    "question": "Which type of radiation has the least penetrating power?",
+    "options": [
+      "Gamma",
+      "Beta",
+      "X-Ray",
+      "Alpha"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": 11001,
+    "categoryId": "science",
+    "question": "What is the name of the theoretical boundary around a black hole from which nothing can escape?",
+    "options": [
+      "Singularity",
+      "Event Horizon",
+      "Photon Sphere",
+      "Accretion Disk"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11002,
+    "categoryId": "science",
+    "question": "Which subatomic particle has no electrical charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Positron"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11003,
+    "categoryId": "science",
+    "question": "What is the name of the enzyme that unzips DNA during replication?",
+    "options": [
+      "DNA Ligase",
+      "DNA Polymerase",
+      "Helicase",
+      "Primase"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11004,
+    "categoryId": "science",
+    "question": "What is Avogadro's number (approximately)?",
+    "options": [
+      "6.02 \u00d7 10\u00b2\u00b2",
+      "6.02 \u00d7 10\u00b2\u00b3",
+      "6.02 \u00d7 10\u00b2\u2074",
+      "6.02 \u00d7 10\u00b2\u2075"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11005,
+    "categoryId": "science",
+    "question": "Which planet has the most moons in our solar system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11006,
+    "categoryId": "science",
+    "question": "What is the half-life of Carbon-14 (approximately)?",
+    "options": [
+      "2,730 years",
+      "5,730 years",
+      "11,460 years",
+      "57,300 years"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11007,
+    "categoryId": "science",
+    "question": "Which law states that the pressure and volume of a gas are inversely proportional at constant temperature?",
+    "options": [
+      "Charles's Law",
+      "Gay-Lussac's Law",
+      "Boyle's Law",
+      "Dalton's Law"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11008,
+    "categoryId": "science",
+    "question": "What is the name of the process by which a solid converts directly to a gas?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11009,
+    "categoryId": "science",
+    "question": "Which organelle is responsible for protein synthesis?",
+    "options": [
+      "Golgi Apparatus",
+      "Lysosome",
+      "Ribosome",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11010,
+    "categoryId": "science",
+    "question": "What is the Chandrasekhar limit?",
+    "options": [
+      "Max mass of a neutron star",
+      "Max mass of a white dwarf before collapse",
+      "Minimum mass for nuclear fusion",
+      "Max luminosity of a star"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11011,
+    "categoryId": "science",
+    "question": "Which type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "Ionic Bond",
+      "Covalent Bond",
+      "Metallic Bond",
+      "Hydrogen Bond"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11012,
+    "categoryId": "science",
+    "question": "What is the name of the quantum effect where particles tunnel through barriers?",
+    "options": [
+      "Wave Collapse",
+      "Quantum Entanglement",
+      "Quantum Tunnelling",
+      "Superposition"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11013,
+    "categoryId": "science",
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "options": [
+      "2.8 \u00d7 10\u2078 m/s",
+      "3.0 \u00d7 10\u2078 m/s",
+      "3.2 \u00d7 10\u2078 m/s",
+      "3.5 \u00d7 10\u2078 m/s"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11014,
+    "categoryId": "science",
+    "question": "Which element has the highest electronegativity on the Pauling scale?",
+    "options": [
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen",
+      "Fluorine"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11015,
+    "categoryId": "science",
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11016,
+    "categoryId": "science",
+    "question": "Which scientist proposed the uncertainty principle?",
+    "options": [
+      "Niels Bohr",
+      "Werner Heisenberg",
+      "Erwin Schr\u00f6dinger",
+      "Max Planck"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11017,
+    "categoryId": "science",
+    "question": "What is the atomic number of Gold?",
+    "options": [
+      "74",
+      "78",
+      "79",
+      "82"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11018,
+    "categoryId": "science",
+    "question": "Which force is responsible for holding the nucleus of an atom together?",
+    "options": [
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Weak Nuclear Force",
+      "Strong Nuclear Force"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11019,
+    "categoryId": "science",
+    "question": "What is the name of the process by which plants make food using sunlight?",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Osmosis"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11020,
+    "categoryId": "science",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon",
+      "Nitrogen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11021,
+    "categoryId": "science",
+    "question": "What is the name of the theory that describes the origin of the universe?",
+    "options": [
+      "Steady State Theory",
+      "Big Bang Theory",
+      "Nebular Theory",
+      "Oscillating Universe Theory"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11022,
+    "categoryId": "science",
+    "question": "Which type of radiation has the highest penetrating power?",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "X-ray"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11023,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for Tungsten?",
+    "options": [
+      "Tu",
+      "Tg",
+      "W",
+      "Wn"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11024,
+    "categoryId": "science",
+    "question": "Which law of thermodynamics states that entropy of an isolated system always increases?",
+    "options": [
+      "Zeroth Law",
+      "First Law",
+      "Second Law",
+      "Third Law"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11025,
+    "categoryId": "science",
+    "question": "What is the name of the protein that carries oxygen in red blood cells?",
+    "options": [
+      "Myosin",
+      "Keratin",
+      "Hemoglobin",
+      "Collagen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11026,
+    "categoryId": "science",
+    "question": "Which phenomenon explains the bending of light around massive objects?",
+    "options": [
+      "Refraction",
+      "Diffraction",
+      "Gravitational Lensing",
+      "Doppler Effect"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11027,
+    "categoryId": "science",
+    "question": "What is the pH of pure water at 25\u00b0C?",
+    "options": [
+      "6",
+      "6.5",
+      "7",
+      "7.5"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11028,
+    "categoryId": "science",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla Oblongata",
+      "Hypothalamus"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11029,
+    "categoryId": "science",
+    "question": "What is the name of the quantum theory that describes the behavior of light as both a wave and particle?",
+    "options": [
+      "Wave-Particle Duality",
+      "Superposition",
+      "Quantum Chromodynamics",
+      "String Theory"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11030,
+    "categoryId": "science",
+    "question": "Which planet in our solar system has the Great Red Spot?",
+    "options": [
+      "Saturn",
+      "Mars",
+      "Neptune",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11031,
+    "categoryId": "science",
+    "question": "What is the process by which an atomic nucleus splits into smaller parts?",
+    "options": [
+      "Fusion",
+      "Fission",
+      "Decay",
+      "Transmutation"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11032,
+    "categoryId": "science",
+    "question": "What is the name of the scale used to measure the hardness of minerals?",
+    "options": [
+      "Richter Scale",
+      "Beaufort Scale",
+      "Mohs Scale",
+      "Pascal Scale"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11033,
+    "categoryId": "science",
+    "question": "Which vitamin is synthesized by the human body upon exposure to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11034,
+    "categoryId": "science",
+    "question": "What is the name of the branch of physics that deals with very small scales?",
+    "options": [
+      "Classical Mechanics",
+      "Quantum Mechanics",
+      "Thermodynamics",
+      "Electrodynamics"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11035,
+    "categoryId": "science",
+    "question": "What is the most abundant element in the universe by mass?",
+    "options": [
+      "Helium",
+      "Carbon",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11036,
+    "categoryId": "science",
+    "question": "Which scientist is credited with discovering penicillin?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11037,
+    "categoryId": "science",
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Watt",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11038,
+    "categoryId": "science",
+    "question": "Which layer of the Earth is liquid?",
+    "options": [
+      "Inner Core",
+      "Mantle",
+      "Outer Core",
+      "Crust"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11039,
+    "categoryId": "science",
+    "question": "What is the term for the minimum energy required to start a chemical reaction?",
+    "options": [
+      "Enthalpy",
+      "Activation Energy",
+      "Gibbs Free Energy",
+      "Bond Energy"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11040,
+    "categoryId": "science",
+    "question": "Which type of wave does not require a medium to travel?",
+    "options": [
+      "Sound Wave",
+      "Seismic Wave",
+      "Electromagnetic Wave",
+      "Water Wave"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11041,
+    "categoryId": "science",
+    "question": "What is the name of the effect where light shifts to longer wavelengths as a source moves away?",
+    "options": [
+      "Blueshift",
+      "Redshift",
+      "Doppler Shift",
+      "Gravitational Shift"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11042,
+    "categoryId": "science",
+    "question": "Which molecule carries genetic information from DNA to ribosomes?",
+    "options": [
+      "tRNA",
+      "rRNA",
+      "mRNA",
+      "snRNA"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11043,
+    "categoryId": "science",
+    "question": "What is the name of the phenomenon where two particles remain connected regardless of distance?",
+    "options": [
+      "Superposition",
+      "Quantum Tunnelling",
+      "Quantum Entanglement",
+      "Wave Collapse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11044,
+    "categoryId": "science",
+    "question": "Which element is a liquid at room temperature besides Mercury?",
+    "options": [
+      "Bromine",
+      "Gallium",
+      "Cesium",
+      "Francium"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11045,
+    "categoryId": "science",
+    "question": "What is the name of the reaction in which the sun produces energy?",
+    "options": [
+      "Nuclear Fission",
+      "Nuclear Fusion",
+      "Chemical Combustion",
+      "Radioactive Decay"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11046,
+    "categoryId": "science",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Quartz",
+      "Corundum",
+      "Diamond",
+      "Topaz"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11047,
+    "categoryId": "science",
+    "question": "Which scientist developed the theory of general relativity?",
+    "options": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Max Planck"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11048,
+    "categoryId": "science",
+    "question": "What is the term for the inherited traits that increase an organism's chance of survival?",
+    "options": [
+      "Mutation",
+      "Adaptation",
+      "Evolution",
+      "Selection"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11049,
+    "categoryId": "science",
+    "question": "What is the boiling point of water at sea level in Kelvin?",
+    "options": [
+      "273 K",
+      "373 K",
+      "473 K",
+      "573 K"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11050,
+    "categoryId": "science",
+    "question": "Which acid is found in the stomach?",
+    "options": [
+      "Sulfuric Acid",
+      "Nitric Acid",
+      "Hydrochloric Acid",
+      "Acetic Acid"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11051,
+    "categoryId": "science",
+    "question": "What is the name of the particle accelerator located at CERN?",
+    "options": [
+      "Tevatron",
+      "Large Hadron Collider",
+      "Stanford Linear Accelerator",
+      "Relativistic Heavy Ion Collider"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11052,
+    "categoryId": "science",
+    "question": "Which type of rock is formed from cooled magma?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Composite"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11053,
+    "categoryId": "science",
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "KCl",
+      "CaCl\u2082",
+      "NaCl",
+      "MgCl\u2082"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11054,
+    "categoryId": "science",
+    "question": "Which gland produces insulin in the human body?",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11055,
+    "categoryId": "science",
+    "question": "What is the name of the force that causes objects to fall toward Earth?",
+    "options": [
+      "Magnetic Force",
+      "Centripetal Force",
+      "Gravitational Force",
+      "Normal Force"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11056,
+    "categoryId": "science",
+    "question": "Which element on the periodic table has the symbol 'Fe'?",
+    "options": [
+      "Fluorine",
+      "Francium",
+      "Iron",
+      "Fermium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11057,
+    "categoryId": "science",
+    "question": "What is the term for organisms that make their own food through photosynthesis?",
+    "options": [
+      "Heterotrophs",
+      "Decomposers",
+      "Autotrophs",
+      "Omnivores"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11058,
+    "categoryId": "science",
+    "question": "What is the name of the first human-made satellite launched into space?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Sputnik 1",
+      "Luna 1"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11059,
+    "categoryId": "science",
+    "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+    "options": [
+      "Radio Waves",
+      "Infrared",
+      "Ultraviolet",
+      "Gamma Rays"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11060,
+    "categoryId": "science",
+    "question": "What is the name of the process by which cells divide to produce two identical daughter cells?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary Fission",
+      "Budding"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11061,
+    "categoryId": "science",
+    "question": "Which organ in the human body produces bile?",
+    "options": [
+      "Kidneys",
+      "Stomach",
+      "Pancreas",
+      "Liver"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11062,
+    "categoryId": "science",
+    "question": "What is the standard unit of force in the SI system?",
+    "options": [
+      "Dyne",
+      "Pascal",
+      "Newton",
+      "Joule"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11063,
+    "categoryId": "science",
+    "question": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Venus",
+      "Uranus"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11064,
+    "categoryId": "science",
+    "question": "What is the main function of white blood cells?",
+    "options": [
+      "Carry oxygen",
+      "Clot blood",
+      "Fight infection",
+      "Produce hormones"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11065,
+    "categoryId": "science",
+    "question": "What is the chemical symbol for Potassium?",
+    "options": [
+      "Po",
+      "Pt",
+      "K",
+      "P"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11066,
+    "categoryId": "science",
+    "question": "Which law of motion states that for every action there is an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Kepler's Third Law"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11067,
+    "categoryId": "science",
+    "question": "What is the name of the genetic material found in viruses?",
+    "options": [
+      "Only DNA",
+      "Only RNA",
+      "Either DNA or RNA",
+      "Both DNA and RNA simultaneously"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11068,
+    "categoryId": "science",
+    "question": "Which scientist proposed the heliocentric model of the solar system?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Tycho Brahe"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11069,
+    "categoryId": "science",
+    "question": "What is the term for the outermost layer of the Sun?",
+    "options": [
+      "Chromosphere",
+      "Photosphere",
+      "Corona",
+      "Convection Zone"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11070,
+    "categoryId": "science",
+    "question": "Which chemical element is used in nuclear reactors as fuel?",
+    "options": [
+      "Plutonium",
+      "Thorium",
+      "Uranium",
+      "Radium"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11071,
+    "categoryId": "science",
+    "question": "What is the name of the boundary between Earth's crust and mantle?",
+    "options": [
+      "Lehmann Discontinuity",
+      "Conrad Discontinuity",
+      "Mohorovi\u010di\u0107 Discontinuity",
+      "Gutenberg Discontinuity"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11072,
+    "categoryId": "science",
+    "question": "Which blood type is known as the universal donor?",
+    "options": [
+      "AB+",
+      "AB-",
+      "O+",
+      "O-"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11073,
+    "categoryId": "science",
+    "question": "What is the name of the reaction in which two or more substances combine to form a single product?",
+    "options": [
+      "Decomposition",
+      "Displacement",
+      "Synthesis",
+      "Combustion"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11074,
+    "categoryId": "science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11075,
+    "categoryId": "science",
+    "question": "What is the name of the study of fungi?",
+    "options": [
+      "Botany",
+      "Zoology",
+      "Mycology",
+      "Microbiology"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11076,
+    "categoryId": "science",
+    "question": "Which property of a wave determines its color when it is light?",
+    "options": [
+      "Amplitude",
+      "Speed",
+      "Wavelength",
+      "Phase"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11077,
+    "categoryId": "science",
+    "question": "What is the name of the scale used to measure earthquake magnitude?",
+    "options": [
+      "Beaufort Scale",
+      "Mohs Scale",
+      "Richter Scale",
+      "Saffir-Simpson Scale"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11078,
+    "categoryId": "science",
+    "question": "Which part of the human eye controls the amount of light entering it?",
+    "options": [
+      "Cornea",
+      "Retina",
+      "Iris",
+      "Lens"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11079,
+    "categoryId": "science",
+    "question": "What is the name of the experiment that proved the nucleus of an atom exists?",
+    "options": [
+      "Double-Slit Experiment",
+      "Photoelectric Experiment",
+      "Geiger-Marsden Experiment",
+      "Millikan Oil Drop Experiment"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11080,
+    "categoryId": "science",
+    "question": "Which planet has rings made mostly of ice particles?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11081,
+    "categoryId": "science",
+    "question": "What is the name of the pigment that gives plants their green color?",
+    "options": [
+      "Carotene",
+      "Xanthophyll",
+      "Chlorophyll",
+      "Anthocyanin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11082,
+    "categoryId": "science",
+    "question": "Which particle has the same mass as an electron but opposite charge?",
+    "options": [
+      "Muon",
+      "Tau",
+      "Positron",
+      "Antiproton"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11083,
+    "categoryId": "science",
+    "question": "What is the name of the force that opposes relative motion between two surfaces?",
+    "options": [
+      "Tension",
+      "Normal Force",
+      "Friction",
+      "Applied Force"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11084,
+    "categoryId": "science",
+    "question": "Which element is the basis of organic chemistry?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11085,
+    "categoryId": "science",
+    "question": "What is the name of the process where a species disappears permanently?",
+    "options": [
+      "Endangerment",
+      "Extinction",
+      "Migration",
+      "Hibernation"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11086,
+    "categoryId": "science",
+    "question": "Which gland in the human body is known as the 'master gland'?",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pineal"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11087,
+    "categoryId": "science",
+    "question": "What is the name of the space between two neurons?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Synapse",
+      "Myelin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11088,
+    "categoryId": "science",
+    "question": "Which phenomenon causes the sky to appear blue?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Rayleigh Scattering",
+      "Diffraction"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11089,
+    "categoryId": "science",
+    "question": "What is the atomic number of Carbon?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11090,
+    "categoryId": "science",
+    "question": "Which organelle contains the DNA in a eukaryotic cell?",
+    "options": [
+      "Ribosome",
+      "Mitochondria",
+      "Golgi Apparatus",
+      "Nucleus"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11091,
+    "categoryId": "science",
+    "question": "What is the name of the weakest of the four fundamental forces?",
+    "options": [
+      "Electromagnetic Force",
+      "Strong Nuclear Force",
+      "Weak Nuclear Force",
+      "Gravitational Force"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11092,
+    "categoryId": "science",
+    "question": "Which type of chemical reaction releases energy to its surroundings?",
+    "options": [
+      "Endothermic",
+      "Exothermic",
+      "Reversible",
+      "Photochemical"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11093,
+    "categoryId": "science",
+    "question": "What is the name of the dark matter hypothesis particle?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "WIMP",
+      "Quark"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11094,
+    "categoryId": "science",
+    "question": "Which part of DNA encodes the instructions for making proteins?",
+    "options": [
+      "Introns",
+      "Exons",
+      "Promoters",
+      "Telomeres"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11095,
+    "categoryId": "science",
+    "question": "What is the name of the process where water moves through a semi-permeable membrane?",
+    "options": [
+      "Diffusion",
+      "Active Transport",
+      "Osmosis",
+      "Filtration"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11096,
+    "categoryId": "science",
+    "question": "Which element has the highest melting point?",
+    "options": [
+      "Osmium",
+      "Rhenium",
+      "Tungsten",
+      "Tantalum"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11097,
+    "categoryId": "science",
+    "question": "What is the name of the enzyme responsible for copying DNA?",
+    "options": [
+      "RNA Polymerase",
+      "DNA Polymerase",
+      "Helicase",
+      "Ligase"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11098,
+    "categoryId": "science",
+    "question": "Which scientist discovered the electron?",
+    "options": [
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11099,
+    "categoryId": "science",
+    "question": "What is the name of the force that keeps planets in orbit around the sun?",
+    "options": [
+      "Magnetic Force",
+      "Centrifugal Force",
+      "Gravitational Force",
+      "Electrostatic Force"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11100,
+    "categoryId": "science",
+    "question": "Which gas is produced during photosynthesis?",
+    "options": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  }
+]
