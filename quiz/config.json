@@ -19,7 +19,19 @@
       "questionFile": "questions_history.json",
       "unlock": {
         "level": 5,
-        "coins": 500,
+        "coins": 1000,
+        "ads": 1
+      }
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "colorHex": "#9C27B0",
+      "version": 1,
+      "questionFile": "questions_technology.json",
+      "unlock": {
+        "level": 10,
+        "coins": 2000,
         "ads": 2
       }
     },
@@ -30,20 +42,9 @@
       "version": 1,
       "questionFile": "questions_geography.json",
       "unlock": {
-        "level": 10,
-        "coins": 1200,
-        "ads": 3
-      }
-    },
-    {
-      "id": "technology",
-      "name": "Technology",
-      "colorHex": "#9C27B0",
-      "version": 1,
-      "questionFile": "questions_technology.json",
-      "unlock": {
-        "level": 8,
-        "coins": 800
+        "level": 15,
+        "coins": 3000,
+        "ads": 2
       }
     },
     {
@@ -53,7 +54,9 @@
       "version": 1,
       "questionFile": "questions_sports.json",
       "unlock": {
-        "ads": 5
+        "level": 20,
+        "coins": 4000,
+        "ads": 3
       }
     }
   ]
